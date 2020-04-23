@@ -1,0 +1,10 @@
+Acidovorax citrulli causes seedling blight and bacterial fruit blotch (BFB) of cucurbits, a serious disease threat to cucurbit seed and fruit production worldwide.
+Despite its economic importance, current knowledge on the biology and pathology of A.
+citrulli is limited.
+This work studies a mini-Tn5 mutant, MJ22-3, that showed reduced virulence on melon seedlings.
+The gene disrupted by Tn5 was identified as leuB, which encodes a putative 3-isopropylmalate dehydrogenase, an enzyme that appears to be essential for leucine biosynthesis.
+The leuB gene in-frame deletion mutant M Delta leuB, as well as the Tn5-inserted mutant MJ22-3, failed to grow in minimal medium without leucine and exhibited reduced swimming motility; however, the mutations had no effect on biofilm formation or induction of the hypersensitive response on tobacco (Nicotiana tabacum).
+When inoculated at a low cell density (10(4) CFU mL(-1)), the leuB gene mutants showed a significantly slower growth rate and attenuated virulence on melon cotyledons compared to the wildtype MH21.
+However, inoculations with the mutants at high concentration (10 8 CFU mL(-1)), or low concentration (10(4) CFU mL(-1)) inoculations supplemented with 0.01% leucine resulted in growth rates and disease severities similar to that of the wildtype MH21.
+The results suggest that leucine biosynthesis is essential for both in vivo growth and full virulence of A.
+citrulli MH21 on melon seedlings.

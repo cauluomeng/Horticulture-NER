@@ -1,0 +1,9 @@
+Lignin is hypothesized to be a factor in the ability of cucurbits to resist fungal infection.
+To determine if lignin was present around sites of infection, susceptible cucumber plants and cucumber plants with systemic induced resistance were inoculated with Colletotrichum lagenarium, and the ultrastructure of plant and pathogen was examined 24 to 72 hours later.
+Conidia produced germ tubes with appressoria within 24 hours of inoculation on both control and induced plants.
+Penetration of plant epidermal cell walls occurred by 48 hours, and papillae formed at the site of penetration.
+Both elemental bromine and potassium permanganate were used to histochemically stain for lignin.
+Potassium permanganate, used together with energy dispersive X-ray microanalysis (EDS), indicated the presence of lignin in papillae and in electron-dense areas of plant cell walls directly beneath the appressoria.
+Using EDS, silicon was shown to be localized in the electron-dense areas of cucumber leaf cells.
+This is the first report of silicon in induced cucumber plants.
+There were no qualitative differences between the resistance reactions of induced and control plants.

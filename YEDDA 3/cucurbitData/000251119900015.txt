@@ -1,0 +1,6 @@
+During surveys carried out in June and October 2005 and August 2006 for assessing the occurrence of cucurbit-infecting viruses in Tunisia, samples of squash, melon and snake cucumber showing virus-like symptoms were collected from the major cucurbit-growing areas.
+Besides mosaic-inducing viruses, DAS-ELISA and RT-PCR tests showed the presence of yellows-inducing viruses: Cucurbit aphid-borne yellows virus (CABYV, Polerovirus), Cucurbit yellow stunting disorder virus (CYSDV, Crinivirus) and Cucumber vein yellowing virus (CVYV, Ipomovirus).
+While CABYV, a virus previously reported from Tunisia, was detected throughout the country, CYSDV and CVyV, reported here for the first time, were found only in the Sahel and the Southern part of the country.
+The identification of CYSDV and CVYV was confirmed by immunosorbent electron microscopy.
+Phylogenetic analysis done on parts of the CP gene sequence showed that Tunisian CYSDV isolates have high sequence identity (99-100%) with isolates that have recently emerged in the Middle East, Southern Europe and the United States.
+In contrast, CVYV isolates from Tunisia are more divergent (96.6%) from Middle East isolates and are only distantly related (94.5-95%) to isolates which recently emerged in Spain, Portugal and France.

@@ -1,0 +1,9 @@
+Four crop-infecting begomoviruses were found naturally affecting Charlock mustard (Sinapis arvensis L.) plants in Jordan and characterized at the molecular level.
+Symptoms included leaf curling and stunting.
+PCR analysis showed the presence of Tomato yellow leaf curl virus (TYLCV), Tomato yellow leaf curl Sardinia virus (TYLCSV), Squash leaf curl virus (SLCV) and Watermelon chlorotic stunt virus (WmCSV).
+These viruses were associated with Cotton leaf curl Gezira betasatellite (CLCuG beta).
+Sequence analysis revealed that TYLCV and TYLCSV had 98.5% and 99.3% nucleotide (nt) sequence identities with a previously described TYLCV strain from Florida and TYLCSV from Sardinia, respectively.
+The other two viruses, SLCVand WmCSV, shared 99.7% and 99.5% nt identities with previously described strains from Jordan.
+Sequence analysis also showed that CLCuG beta had 98.8% nt identity with a strain from Israel.
+To our knowledge, this is the first report of S.
+arvensis as a natural host of SLCV, WmCSV, TYLCSV and CLCuG beta.

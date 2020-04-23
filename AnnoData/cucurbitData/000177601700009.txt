@@ -1,0 +1,13 @@
+Didymella bryoniae (anamorph Phoma cucurbitacearum) is the causal agent of gummy stem blight, although other Phoma species are often isolated from cucurbit plants exhibiting symptoms of the disease.
+The molecular and phylogenetic relationships between D.
+bryoniae and these Phoma species are unknown.
+Isolates of D.
+bryoniae and Phoma obtained from cucurbits grown at various geographical locations in the United States were subjected to random amplified polymorphic DNA (RAPD) analysis and internal transcribed spacer (ITS) sequence analysis (ITS-I and ITS-2) to determine the molecular and phylogenetic relationships within and between these fungi.
+Using RAPD fingerprinting, 59 isolates were placed into four phylogenetic groups, designated RAPD group (RG) 1, RG 11, RG 111, and RG IV.
+D.
+bryoniae isolates clustered in either RG 1 (33 isolates), RG 11 (12 isolates), or RG IV (one isolate), whereas all 13 Phoma isolates clustered to RG III.
+There was greater than 99% sequence identity in the ITS-1 and ITS-2 regions between isolates in RG I and RG 11, whereas isolates in RG 111, P.
+medicaginis ATCC 6448 1, and R exigua ATCC 14728 clustered separately.
+On muskmelon seedlings, a subset of RG I isolates were highly virulent (mean disease severity was 71%), RG 11 and RG IV isolates were slightly virulent (mean disease severity was 4%), and RG III isolates were nonpathogenic (disease severity was 0% for all isolates).
+The ITS sequences indicate that RG I and RG 11 are both D.
+bryoniae, but RAPD fingerprints and pathogenicity indicate that they represent two different molecular and virulence subgroups.

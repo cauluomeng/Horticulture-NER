@@ -1,0 +1,13 @@
+LE GRAFTING: PRINCIPLES AND PRACTICES
+LA English
+DT Article; Book Chapter
+ID MICHIGANENSIS SUBSP MICHIGANENSIS; MOTTLE-MOSAIC-VIRUS; FUSARIUM
+   ROOT-ROT; PYTHIUM-APHANIDERMATUM; MINERAL-COMPOSITION; VERTICILLIUM
+   WILT; GRAFTING METHODS; SOILBORNE PATHOGENS; CUCURBIT ROOTSTOCKS;
+   DISEASE MANAGEMENT
+C1 [Koren, Amnon; Klein, Eyal] Hishtil Nurseries Ltd, 22nd Yarden St, IL-4995000 Moshav Nehalim, Israel.
+   [Dieleman, J.
+Anja; Janse, Jan] Wageningen UR Greenhouse Hort, POB 644, NL-6700 AP Wageningen, Netherlands.
+   [Rouphael, Youssef] Univ Naples Federico II, Dept Agr Sci, Via Univ 100, I-80055 Portici, Italy.
+   [Colla, Giuseppe] Univ Tuscia, Dept Agr & Forestry Sci, I-01100 Viterbo, Italy.
+   [Mourao, Isabel] Inst Politecn Viana do Castelo, Ponte do Lima, Portugal.

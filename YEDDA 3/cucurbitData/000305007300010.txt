@@ -1,0 +1,9 @@
+During 2010, yellowing symptoms were frequently observed in cultivated squash fields in Egypt.
+A total of 717 symptomatic squash leaf samples were collected from four regions where squash cultivation is of economic importance for the country: Kafrelsheikh, El-Behira, El-Sharkia and El-Ismailia.
+Serological analysis showed that 95.6% of the symptomatic squash samples were infected by Cucurbit aphid-borne yellows virus (CABYV), and visual estimation of the incidence of yellowing symptoms suggested a very high incidence of CABYV in the fields.
+Twelve CABYV isolates were characterized by sequencing two regions of the viral genome, open reading frame (ORF) 3 and ORFs 4/5.
+Overall, Egyptian isolates were very similar among them, and had higher similarity values with a French than with a Chinese isolate.
+The average nucleotide diversity for ORF 3 was significantly higher than for the other two regions, indicating that variability is not evenly distributed along the viral genome.
+The ratios between nucleotide diversity values in non-synonymous (d(N)) and synonymous (d(S)) positions (d(N)/d(S)) for each ORF showed that the three ORFs are evolving under different pressures, although predominantly under purifying selection.
+Phylogenetic analyses revealed that these Egyptian isolates, with only one exception, shared the same clade with a French isolate.
+Moreover, these analyses suggested that Egyptian isolates belong to the Mediterranean group described previously.

@@ -1,0 +1,20 @@
+Neufeld, K.
+N., and Ojiambo, P.
+S.
+2012.
+Interactive effects of temperature and leaf wetness duration on sporangia germination and infection of cucurbit hosts by Pseudoperonospora cubensis.
+Plant Dis.
+96:345-353.
+   Outbreaks of cucurbit downy mildew caused by Pseudoperonospora cubensis are dependent on the weather but effects of temperature and leaf wetness duration on infection have not been studied for different cucurbits.
+To determine the effects of these two weather variables on sporangia germination and infection of cucurbit host types by P cubensis, three host types; cucumber ('Straight 8'), cantaloupe ('Kermit'), and acorn squash ('Table Queen'), were inoculated and exposed to leaf wetness durations of 2 to 24 h at six constant temperatures ranging from 5 to 30 degrees C in growth-chamber experiments.
+Sporangia germination was assessed after each wetness period, and leaf area infected was assessed 5 and 7 days after inoculation.
+Germination of sporangia was highest on cantaloupe (16.5 to 85.7%) and lowest on squash (10.7 to 68.9%), while disease severity was highest and lowest on cucumber and cantaloupe, respectively.
+Host type, temperature, wetness duration and their interactions significantly (P < 0.0001) affected germination and disease severity.
+Germination and disease data for each host type were separately fitted to a modified form of a Weibull function that characterizes a unimodal response and monotonic increase of germination or infection with temperature and wetness duration, respectively.
+The effect of host type on germination and infection was characterized primarily by differences in the upper limit parameter in response to temperature.
+Differences among host types based on other parameters were either small or inconsistent.
+Temperature and wetness duration that supported a given level of germination or infection varied among host types.
+At 20 degrees C, 15% leaf area infected was expected following 2, 4, and 8 h of wetness for cucumber, squash, and cantaloupe, respectively.
+When temperature was increased to 25 degrees C, 15% disease severity was expected following 3, 7, and 15 h of wetness for cucumber, squash, and cantaloupe, respectively.
+Risk charts were constructed to estimate the potential risk of infection of cucurbit host types by P cubensis based on prevailing or forecasted temperature and leaf wetness duration.
+These results will improve the timing and application of the initial fungicide spray for the control of cucurbit downy mildew.

@@ -1,0 +1,9 @@
+Phloem protein 2 (PP2) is one of the most abundant and enigmatic proteins in the phloem sap.
+Although thought to be associated with structural P-protein, PP2 is translocated in the assimilate stream where its lectin activity or RNA-binding properties can exert effects over long distances.
+Analyzing the diversity of these proteins in vascular plants led to the identification of PP2-like genes in species from 17 angiosperm and gymnosperm genera.
+This wide distribution of PP2 genes in the plant kingdom indicates that they are ancient and common in vascular plants.
+Their presence in cereals and gymnosperms, both of which lack structural P-protein, also supports a wider role for these proteins.
+Within this superfamily, PP2 proteins have considerable size polymorphism.
+This is attributable to variability in the length of the amino terminus that extends from a highly conserved domain.
+The conserved PP2 domain was identified in the proteins encoded by six genes from several cucurbits, celery (Apium graveolens), and Arabidopsis that are specifically expressed in the sieve element-companion cell complex.
+The acquisition of additional modular domains in the amino-terminal extensions of other PP2-like proteins could reflect divergence from its phloem function.

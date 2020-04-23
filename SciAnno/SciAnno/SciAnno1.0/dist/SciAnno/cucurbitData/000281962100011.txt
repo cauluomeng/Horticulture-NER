@@ -1,0 +1,14 @@
+A meta-analysis of the effect of fungicides on cucurbit downy mildew was conducted using data previously published in Fungicide & Nematicide Tests and Plant Disease Management Reports from 2000 to 2008.
+Standardized mean effect size (the difference in disease intensity expressed in standard deviation units between the fungicide treatment and its corresponding untreated control) was calculated for each of the 105 field studies evaluating the effects of fungicides on cucurbit downy mildew.
+Fixed- and random-effects meta-analyses were performed on the log-transformed standardized mean effect sizes to estimate the overall mean effect size ((L) over bar (+)), and to determine the variability in the effect size among studies.
+Fungicides led to a significant (P < 0.001) reduction in disease with an <(L)over bar>(+) value of 1.198, indicating that, overall, fungicides were highly effective against cucurbit downy mildew.
+Fixed- and random-effects meta-analyses were then conducted to determine the effects of moderator variables on (L) over bar (+).
+The fixed-effects model resulted in narrower 95% confidence intervals and generally lower estimates of moderator subgroup mean effect size ((L) over bar) than the random-effects models.
+Fungicide efficacy was significantly (P < 0.001) greater in cucumber, with <(L)over bar> being 26.5% higher in cucumber than in other cucurbits.
+Year of study, number of sprays, and disease pressure in the control significantly (P < 0.001) affected <(L)over bar>.
+Fungicide efficacy was significantly lower during the 2004-05 season than prior to or after the 2004-05 season.
+Studies in which disease pressure was moderate had a significantly higher (L) over bar than studies with either low or high disease pressure.
+Fungicide efficacy was >= 22% in studies that received 5 to 6 sprays than in studies that received 1 to 4 or >6 sprays.
+Fungicide products led to a significant (P < 0.001) reduction in disease, although there was substantial between-study variability.
+The pyridinylmethyl-benzamide group of fungicides (fluopicolide) was the most effective, followed by the carbamate (propamocarb) and quinone inside inhibitors (cyazofamid) group of fungicides, while the carboxylic acid amide group (mandipropamid and dimethomorph) was the least effective.
+A combination of protectant and systemic fungicides resulted in a proportional increase in <(L)over bar> compared with sole application of either protectant or systemic fungicides.

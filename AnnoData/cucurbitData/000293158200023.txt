@@ -1,0 +1,7 @@
+The effect of moisture on seed longevity during experimental storage was investigated in cucumber (Cucumis sativus L.), melon (Cucumis melo L.), and watermelon (Citrullus lanatus Matsum and Nakai).
+Seeds were stored hermetically at various moisture contents between 8.0 and 17.0% (fresh weight basis) at 35 degrees C for up to 215, 366, and 175 days for cucumber, melon, and watermelon, respectively.
+Normal germination percentages were determined periodically.
+A one-step approach was taken to analyze the effects of moisture on longevity and to estimate K-E and C-W.
+K-E and C-W values were found to be 4.86 and 1.59 for watermelon, 6.11 and 2.59 for melon, and 5.35 and 2.03 for cucumber, respectively.
+Watermelon seeds are the most sensitive to seed storage, whilst melon seeds have the greatest longevity.
+These constants can be used to predict the viability of these cucurbit seeds under various storage conditions.

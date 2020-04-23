@@ -1,0 +1,8 @@
+Bottle gourd (Lagenaria siceraria Standl.) has been commonly used as a source of rootstock for watermelon.
+To improve its performance as a rootstock without adverse effects on the scion, the bottle gourd was genetically engineered using a modified Arabidopsis Ca2+/H+ exchanger sCAX2B.
+This transporter provides enhanced Ca2+ substrate specificity and decreased Mn2+ transport capability.
+Our previous work demonstrated that sCAX2B bottle gourds were more robust and nutrient dense than controls.
+Here, several cucurbit crops were test-grafted onto the transgenic bottle gourd to determine its effect on the scions.
+The grafted watermelons and melons onto the transgenic rootstocks appeared to show more robust growth than the controls 35 days after greenhouse transplanting.
+Watermelon fruits with the watermelon/transgenic bottle gourd (scion/rootstock) combination demonstrated higher osmotic pressure and more soluble solids than controls.
+These results suggest that sCAX2B expression in the bottle gourd rootstock facilitates improved watermelon quality through the translocation of nutrients and/or water toward enhancing the biomass of scion.

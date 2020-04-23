@@ -1,0 +1,7 @@
+ Application of pyrethroid insecticides to field-grown cantaloupes had a significant impact on the number of fruit produced per plant but did not influence the rate at which cantaloupes were infected with aphid-transmitted zucchini yellow mosaic potyvirus (ZYMV).
+Plots that received permethrin had significantly more fruit per plant than control plots, whereas treatment with fenvalerate did not affect yield.
+In a greenhouse experiment, noninfected cantaloupe plants and plants infected with ZYMV during early vegetative growth, perfect flower production, and fruit set were treated with the same pyrethroid insecticides.
+Plant response to these treatments was measured as number of perfect flowers, plant weight, fruit weight, and number of fruit.
+Plants treated with permethrin produced a higher average fruit weight than plants that were not treated.
+All growth parameters were significantly lower among control plants infected with ZYMV during the vegetative stage; however, the first three were significantly increased by treatment with fenvalerate at that growth stage.
+These experiments suggest that pyrethroids have a stimulatory effect on plants infected with virus, which is manifested in increased plant growth and yield.

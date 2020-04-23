@@ -1,0 +1,8 @@
+To develop a molecular method to identify Pseudoperonospora cubensis in cucumber leaves with signs of downy mildew, we compared the nucleotide sequences of ribosomal DNA-internal transcribed spacer, cytochrome oxidase II, and beta-tubulin genes of P.
+cubensis and P.
+humuli isolates.
+Seven single nucleotide polymorphisms (SNPs) distinguished P.
+cubensis and P.
+humuli based on variations in beta-tubulin sequences, and one specific primer set was designed for further analysis.
+Real-time PCR and high resolution melting analysis showed that the primer set can be used to specifically identify P.
+cubensis in cucumber leaves with downy mildew.

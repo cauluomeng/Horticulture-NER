@@ -1,0 +1,11 @@
+We developed a real-time PCR assay using a TaqMan probe (TM-qPCR) for specific detection and quantification of Phomopsis sclerotioides, causal agent of black root rot of cucurbit crops.
+The design of the primer sets and hybridization probe was based on the internal transcribed spacer region of the ribosomal DNA.
+The TM-qPCR assay was compared with a conventional, standard PCR (sPCR) assay and on a quantitative real-time PCR (SG-qPCR) assay based on SYBR Green I.
+The TM-qPCR assay had a detection limit of ca.
+0.4 fg of P.
+sclerotioides DNA, which was approximately 100 times more sensitive than the sPCR assay and almost equivalent to the SG-qPCR assay.
+The TM-qPCR and SG-qPCR assays both were able to detect various quantities of P.
+sclerotioides DNA from diseased plants and infested soils, including DNA levels that were not detectable by the sPCR assay.
+However, the TM-qPCR was advantageous for samples containing PCR-inhibiting substances because its multiplex real-time PCR function allows the adjustment of cycle threshold values with an internal control.
+Based on the high specificity and sensitivity required for analyzing DNA in natural samples, the newly developed TM-qPCR assay was the most reliable tool for rapidly detecting and quantifying P.
+sclerotioides in plant and soil samples.

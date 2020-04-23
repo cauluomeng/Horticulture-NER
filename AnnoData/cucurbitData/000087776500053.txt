@@ -1,0 +1,7 @@
+Cucurbit crops are subject to severe losses due to several potyviruses including the highly aggressive zucchini yellow mosaic virus (ZYMV).
+We sought to examine potyvirus/host interactions resulting in successful resistance or infection, and to test the role of the variable amino terminus (NT) of the coat protein (CP) in the infection process.
+Analysis of patterns of virus accumulation in the ZYMV-resistant cucumber (Cucumis sativus) genotype Dina-1 indicated that expression of resistance is developmentally controlled and is due to a block in virus movement.
+After initial replication and movement out of the cotyledon, virus remains localized to the immediate area surrounding class III veins.
+Switches of CP domains, with an infectious done (ZYMV-NAA) that does not cause veinal chlorosis, indicated that the resistance response likely involves interaction with the CP-NT.
+Switches of the CP-NT with other potyviruses indicated, that despite extensive variability, the heterologous CP-NTs could facilitate systemic infection in ZYMV hosts, but did not extend host range to non-hosts.
+Following initial infection susceptible squash (Cucurbita pepo) or cucumber plants infected with tobacco etch virus-ZYMV hybrids exhibited a distinct recovery phenotype of reduced symptoms, virus titer, and virus-specific protection against secondary infection, suggesting that recognition of the non-adapted CP-NT leads to initiation of host defense responses.

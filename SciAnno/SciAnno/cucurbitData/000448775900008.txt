@@ -1,0 +1,12 @@
+Grafting of watermelon (Citrullus lanatus) is an established production practice that provides resistance to soilborne diseases or tolerance to abiotic stresses.
+Watermelon may be grafted on several cucurbit species (interspecific grafting); however, little research exists to describe root systems of these diverse rootstocks.
+A greenhouse study was conducted to compare root system morphology of nine commercially available cucurbit rootstocks, representing four species: pumpkin (Cucurbita maxima), squash (Cucurbita pepo), bottle gourd (Lagenaria siceraria), and an interspecific hybrid squash ( C.
+maxima x C.
+moschata).
+Rootstocks were grafted with a triploid watermelon scion (`Exclamation'), and root systems were compared with nongrafted (NG) and self-grafted (SG) 'Exclamation'.
+Plants were harvested destructively at 1, 2, and 3 weeks after transplant (WAT), and data were collected on scion dry weight, total root length (TRL), average root diameter, root surface area, root:shoot dry-weight ratio, root diameter class proportions, and specific root length.
+For all response variables, the main effect of rootstock and rootstock species was significant (P < 0.05).
+The main effect of harvest was significant (P < 0.05) for all response variables, with the exception of TRL proportion in diameter class 2.
+'Ferro' rootstock produced the largest TRL and root surface area, with observed values 122% and 120% greater than the smallest root system ('Exclamation' SG), respectively.
+Among rootstock species, pumpkin produced the largest TRL and root surface area, with observed values 100% and 82% greater than those of watermelon, respectively.
+These results demonstrate that substantial differences exist during the initial 3 WAT in root system morphology of rootstocks and rootstock species available for watermelon grafting and that morphologic differences of root systems can be characterized using image analysis.

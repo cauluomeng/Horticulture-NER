@@ -1,0 +1,9 @@
+Sexual reproduction in the plant parasite Phytophthora capsici Leonian requires the interaction of two distinct mating types, A1 and A2.
+Co-occurrence of these mating types can enhance the genetic diversity of P.
+capsici and alter its virulence or resistance characteristics.
+Using an intersimple sequence repeat (ISSR) screen of microsatellite diversity, we identified, cloned, and sequenced a novel 1121-base pair (bp) fragment specific to the A1 mating type of P.
+capsici.
+Primers Pcap-1 and Pcap-2 were designed from this DNA fragment to specifically detect the A1 mating type.
+Polymerase chain reaction (PCR) using these primers amplified an expected 997-bp fragment from known A1 mating types, but yielded a 508-bp fragment from known A2 mating types.
+This PCR-based assay could be adapted to accurately and rapidly detect the co-occurrence of A1 and A2 P.
+capsici mating types from field material.

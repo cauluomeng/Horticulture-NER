@@ -1,0 +1,18 @@
+Cytogenetic mapping of DNA markers provides insights into a species' basic genomic structure and facilitates the deduction of phylogenetic relationships between related species.
+The family Cucurbitaceae has numerous economically and medicinally important crop species.
+In addition, wild Cucurbitaceae species can provide important genetic resources for crop improvement.
+However, cytogenetic information for many species is still insufficient.
+Here, triple-color fluorescence in situ hybridization (FISH) was performed on four Korean wild Cucurbitaceae species of Actinostemma tenerum Grift, Thladiantha dubia Bunge, Sechium edule (Jacq.) Swartz, and Gynostemma pentaphyllum (Thunb.) Makino using 5S rDNA, 45S rDNA, and telomeric- repeat probes.
+The chromosome numbers of the four species were 2n = 2x = 16, 18, 28, and 2n = 6x = 66, respectively.
+The four species have relatively small chromosomes, ranging from 2.16 to 5.38 mu m.
+One 5S and three 45S rDNA signals were observed in T.
+dubia, with one colocalization on a satellite chromosome (1:3:1), while signal patterns were 1:1:0, 1:3:0, and 4:5:0 for A.
+tenerum, S.
+edule, and G.
+pentaphyllum, respectively.
+Compared with that of 5S rDNA, 45S rDNA localization was more distal, except on chromosome 8 of A.
+tenerum and chromosomes 2 and 3 of S.
+edule.
+The species exhibited telomeric signals on the chromosomal terminal region, while additional signals hybridized on the pericentromeric region in A.
+tenerum chromosomes 1, 2, 4, and 5.
+These results will contribute to elucidating phylogenetic relationships among Cucurbitaceae species and improve on-going Cucurbitaceae breeding programs.

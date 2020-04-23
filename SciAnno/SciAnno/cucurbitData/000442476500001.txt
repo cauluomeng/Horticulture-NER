@@ -1,0 +1,17 @@
+Zucchini (Cucurbita pepo), which belongs to the family Cucurbitaceae, is a summer squash widely cultivated in Morocco.
+Viral infections are destructive to cucurbits, often rendering the fruit produced unmarketable.
+In April 2017, during a field survey for zucchini viruses in Gharb region (western Morocco), a total of 10 leaf samples of variety 'Bajaty' were collected from plants showing virus-like symptoms and were processed for laboratory analyses.
+Commercial available ELISA kits were used to test for the presence of zucchini yellow mosaic virus (ZYMV), squash mosaic virus (SqMV), cucumber mosaic virus (CMV), papaya ringspot virus (PRSV) and cucurbit aphid-borne yellows virus (CABYV).
+Results showed that all the tested samples were positive to ZYMV, three were positive to SqMV and two were positive to CABYV.
+To confirm the presence of CABYV, total RNA extracts were obtained from all the 10 samples using RNeasy Plant Mini Kit (Qiagen, Germany) and tested by reverse transcription (RT)-PCR with two sets of primers: CE9 (5'-GAATACGGTCGCGGCTAGAAATC-3') and CE10 (5'-CTAT TTCGGGTTCTGGACCTGGC-3') that amplify the complete (600 bp) coat protein (CP) gene (Juarez et al.
+in Plant Dis 88:907, 2004) and CABYVUp (5'-GTCCGAAACCGCCTGACGC-3') and CABYVDo (5'-TCGAGGTTCGAGCA AGCTG-3') that amplify a partial fragment (294 bp) within the RNA-dependent RNA polymerase (RdRp) gene (Lotos et al.
+in J Vir Methods 198:1-11, 2014).
+Amplicons of the expected sizes using both sets of primers were obtained from the two samples positive for CABYV by ELISA, thus confirming the presence of CABYV.
+PCR products of the CP gene from one positive sample were purified and sequenced in both directions.
+Obtained sequence (MH414922) showed the highest nucleotide identity (99%) with the isolate Rak-1 (HM771271) from the Czech Republic.
+Even though CABYV appears to be widespread throughout the Mediterranean Basin (Lecoq et al.
+in Plant Pathol 41:749-761, 1992; Abou-Jawdah et al.
+in Plant Dis 81:1331, 1997, Crop Prot 19:217-224, 2000; Juarez et al.
+in Plant Dis 88:907, 2004; Hattab et al.
+in Plant Dis 89:776, 2005; Tamassoli and Meneghini in Plant Pathol 56:720, 2007; Yardimci and Ozgonen in Australas Plant Dis Notes 2:59, 2007; Omar and Bagdady in Phytoparasitica 40:177-184, 2012), to our knowledge, it has not previously been described in Morocco.
+CABYV is transmitted in a persistent manner by severalaphid species; therefore, effective control of aphid vectors is of utmost importance for CABYV management in zucchini as well as in other cucurbit crops.

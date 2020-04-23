@@ -1,0 +1,15 @@
+BACKGROUND: Cucurbit powdery mildew elicited by Podosphaera fusca (Fr.) U Braun & N Shishkoff limits crop production in Spain.
+Disease control is largely dependent on fungicides such as sterol demethylation inhibitors (DMIs).
+Fungicide resistance is an increasing problem in this pathogen.
+To overcome such risk, it is necessary to design rational control programmes based upon knowledge of field resistance.
+The aim of this study was to investigate the state of DMI sensitivity of Spanish P.
+fusca populations and provide tools for improved disease management.
+   RESULTS: Using a leaf-disc assay, sensitivity to fenarimol, myclobutanil and triadimenol of 50 isolates of P.
+fusca was analysed to determine discriminatory concentrations between sensitive and resistant isolates.
+As no clearly different groups of isolates could be identified, discriminatory concentrations were established on the basis of maximum fungicide field application rate, 100 mg L-1 for the three fungicides tested.
+Subsequently, a survey of DMI resistance was carried out in different provinces located in the south central area of Spain during the cucurbit growing seasons in 2002, 2003 and 2004.
+Examination of a collection of 250 isolates revealed that 23% were resistant to fenarimol and 7% to triadimenol, the provinces of Almeria, Badajoz and Murcia being the locations with the highest frequencies of resistance.
+By contrast, no resistance to myclobutanil was found.
+   CONCLUSION: Results show that fenarimol and, to a lesser extent, triadimenol have become less efficient for controlling cucurbit powdery mildew in Spain.
+These are important observations that should lead to reconsideration of the current disease management programmes.
+(C) 2010 Society of Chemical Industry

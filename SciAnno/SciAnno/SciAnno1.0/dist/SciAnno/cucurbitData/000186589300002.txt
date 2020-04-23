@@ -1,0 +1,13 @@
+Cucurbit seedlings potentially develop a peg on each side of the transition zone between the hypocotyl and root.
+Seedlings grown in a horizontal position suppress the development of the peg on the upper side of the transition zone in response to gravity.
+It is suggested that this suppression occurs due to a reduction in auxin levels to below the threshold value.
+We show in this study that the free indole-3-acetic acid (IAA) content is low, while IAA conjugates are significantly more abundant in the upper side of the transition zone of gravistimulated seedlings, compared to the lower side.
+A transient increase in mRNA of the auxin-inducible gene, CS-IAA1, was observed in the excised transition zone.
+The result suggests that the transition zone is a source of auxin.
+Cucumber seedlings treated with auxin-transport inhibitors exhibited agravitropic growth and developed a peg on each side of the transition zone.
+Auxin-transport inhibitors additionally caused an increase in CS-IAA1 mRNA accumulation at the transition zone, indicating a rise in intracellular auxin concentrations due to a block of auxin efflux.
+To study the involvement of the auxin transport system in peg formation, we isolated the cDNAs of a putative auxin influx carrier, CS-AUX1, and putative efflux carrier, CS-PIN1, from cucumber (Cucumis sativus L.) plants.
+Both genes (CS-AUX1 in particular) were auxin-inducible.
+Accumulation of CS-AUX1 and CS-PIN1 mRNAs was observed in vascular tissue, cortex and epidermis of the transition zone.
+A reduced level of CS-AUX1 mRNA was observed in the upper side of the gravistimulated transition zone, compared with the lower side.
+It is therefore possible that a balance in the activities of auxin influx and efflux carriers controls intracellular auxin concentration at the transition zone, which results in lateral placement of a peg in cucumber seedlings.

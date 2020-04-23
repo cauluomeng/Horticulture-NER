@@ -1,0 +1,11 @@
+Cucurbit yellow stunting disorder virus (CYSDV) has been present in greenhouse-grown cucumber in Spain since 1992.
+However, in the autumn of 2000 Cucumber vein yellowing virus (CVYV) was introduced, leading to mixed infections of both Bemisia tabaci-transmitted viruses.
+The temporal and spatial spread of disease symptoms were monitored in experimental plastic-covered greenhouses during six consecutive cucumber plantings from 2000 to 2002.
+Using linear regression analysis of 46 disease-progress curves, the Gompertz model best described the CYSDV epidemics in 2000, whereas the logistic model best described the development of CYSDV and CVYV epidemics in 2001 and 2002.
+The fitted models were used to calculate the amount of degree Celsius-days at half-maximum infection in the greenhouses (degrees D-0.5).
+After multiple regression analysis, 56% of the variation in degrees D-0.5 of CYSDV was related to the numbers of whiteflies infesting the cucumber crops, and was independent of the mean temperatures in the greenhouses.
+In contrast, 76% of the variation in degrees D-0.5 of CVYV was related to both the numbers of vectors present and maximum temperature.
+Symptom expression in cucumbers mechanically inoculated with CVYV was most prevalent when plants were grown at regimes of at least 28 degrees C day temperature.
+According to analysis of spread using Taylor's power law, beta-binomial distribution fitting, and the ordinary runs test, the prevalence of CVYV showed significant overdispersion, whereas that of CYSDV did not.
+The chi(2) test of independence and Spearman's rank correlation coefficient were used to measure co-occurrence and covariation, respectively, during the first half of the cultivation period.
+These results showed that the two diseases were not associated.

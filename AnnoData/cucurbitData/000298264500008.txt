@@ -1,0 +1,22 @@
+Saalau Rojas, E., and Gleason, M.
+L.
+2012.
+Epiphytic survival of Erwinia tracheiphila on muskmelon (Cucumis melo L.).
+Plant Dis.
+96:62-66.
+   Erwinia tracheiphila, the causal agent of bacterial wilt of cucurbits, is transmitted by striped (Acalymma vittatum) and spotted (Diabrotica undecimpunctata howardi) cucumber beetles.
+Transmission occurs when infested frass with E.
+tracheiphila is deposited on plant surfaces with fresh feeding wounds.
+However, it is unclear whether the pathogen can survive as an epiphyte on leaves.
+Experiments were conducted in controlled environments to monitor E.
+tracheiphila survival on muskmelon (Cucumis melo) leaves under various temperature and moisture conditions.
+In the first experiment, muskmelon seedlings that had been spray inoculated with a rifampicin-resistant strain of E.
+tracheiphila were incubated at 10, 15, 20, 25, 30, or 35 degrees C (+/- 2 degrees C) at >= 95% relative humidity, and E.
+tracheiphila populations were monitored for 72 h.
+In the second experiment, E.
+tracheiphila was monitored during alternating 12-h wet and dry periods, or continuous wet or dry conditions for 48 h at 20 degrees C.
+Survival of E.
+tracheiphila on wet muskmelon leaves depended on temperature (P < 0.01), with the greatest survival at 10 and 15 degrees C and least at 30 and 35 degrees C.
+Leaf wetness also impacted survival; an initial 12-h dry period resulted in a 1,000- to 10,000-fold reduction in population size, followed by stabilization of the surviving population.
+These results demonstrate that E.
+tracheiphila can survive on muskmelon leaves under a wide range of environmental conditions, suggesting that epiphytic populations might serve as a reservoir of inoculum for infections.

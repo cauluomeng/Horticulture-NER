@@ -1,0 +1,17 @@
+The first SSR-based genetic linkage map of C.
+moschata was created by integrating the maps of two F, populations with one common parent developed from the crosses Waltham Butternut (WB) x Nigerian Local (NL) and ZHOU (a hull-less type) x WB.
+This integrated C.
+moschata map comprises 205 SSR markers and 2 morphological traits (Gr and n).
+The map is composed of 27 linkage groups with a marker density of 7 cM.
+Comparison of the C.
+moschata map and the published C.
+pepo map revealed a high level of macro-synteny.
+Seventy-one common SSR markers between C.
+moschata and C.
+pepo are located in homologous linkage groups.
+These markers representing orthologous loci in general have conserved orders and similar genetic distances.
+Four SSR markers were mapped in non-homologous linkage groups.
+They may represent different members of multi-gene families, chromosomal rearrangements and paralogs.
+The comparative mapping of C.
+moschata and C.
+pepo reported here will be useful for further studies on Cucurbit evolution, gene isolation, and breeding

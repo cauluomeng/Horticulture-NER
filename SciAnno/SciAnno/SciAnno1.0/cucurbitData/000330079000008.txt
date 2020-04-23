@@ -1,0 +1,11 @@
+Restriction site-associated DNA sequencing (RAD-Seq), a next-generation sequencing-based genome complexity reduction' protocol, has been useful in population genomics in species with a reference genome.
+However, the application of this protocol to natural populations of genomically underinvestigated species, particularly under low-to-medium sequencing depth, has not been well justified.
+In this study, a Bayesian method was developed for calling genotypes from an F-2 population of bottle gourd [Lagenaria siceraria (Mol.) Standl.] to construct a high-density genetic map.
+Low-depth genome shotgun sequencing allowed the assembly of scaffolds/contigs comprising approximately 50% of the estimated genome, of which 922 were anchored for identifying syntenic regions between species.
+RAD-Seq genotyping of a natural population comprising 80 accessions identified 3226 single nuclear polymorphisms (SNPs), based on which two sub-gene pools were suggested for association with fruit shape.
+The two sub-gene pools were moderately differentiated, as reflected by the Hudson's F-ST value of 0.14, and they represent regions on LG7 with strikingly elevated F-ST values.
+Seven-fold reduction in heterozygosity and two times increase in LD (r(2)) were observed in the same region for the round-fruited sub-gene pool.
+Outlier test suggested the locus LX3405 on LG7 to be a candidate site under selection.
+Comparative genomic analysis revealed that the cucumber genome region syntenic to the high F-ST island on LG7 harbors an ortholog of the tomato fruit shape gene OVATE.
+Our results point to a bright future of applying RAD-Seq to population genomic studies for non-model species even under low-to-medium sequencing efforts.
+The genomic resources provide valuable information for cucurbit genome research.

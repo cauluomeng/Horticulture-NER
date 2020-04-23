@@ -1,0 +1,16 @@
+Webb, S.
+E., Adkins, S., and Reitz, S.
+R.
+2012.
+Semipersistent whitefly transmission of Squash vein yellowing virus, causal agent of viral watermelon vine decline.
+Plant Dis.
+96:839-844.
+   Squash vein yellowing virus (SqVYV), a recently described Ipomovirus sp.
+in the family Potyviridae, is the cause of viral watermelon vine decline, a devastating disease in Florida.
+SqVYV is known to be transmitted by the whitetly, Bemisia tabaci (Gennadius) B strain, but details of the transmission process have not previously been investigated.
+We completed a series of experiments to determine efficiency of transmission, effects of different acquisition and inoculation access periods, the length of time that whiteflies retained transmissible virus, and the minimum time needed to complete a cycle of acquisition and inoculation.
+Efficiency was low, with at least 30 whitetlies per plant needed for consistent transmission.
+Acquisition leading to later transmission peaked at 4 h, and inoculation access periods longer than 4 to 8 h led to no increase in infection rates.
+Whiteflies retained virus only a short time, with no transmission by 24 h after removal from infected plants.
+A minimum of 3 h was needed to complete a cycle of transmission under laboratory conditions.
+These results demonstrate semipersistent transmission of SqVYV and will help refine models of the epidemiology of this virus and the disease it causes.

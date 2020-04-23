@@ -1,0 +1,9 @@
+Grafting is an important integrated pest management strategy to manage soilborne pathogens and other pests of solanaceous and cucurbitaceous crops.
+Important diseases managed by grafting are caused by fungal pathogens such as Verticillium, Fusarium, Pyrenochaeta and Monosporascus; oomycete pathogens like Phytophthora; bacterial pathogens, particularly Ralstonia; root knot nematodes and several soil-borne virus pathogens.
+Rootstocks can include intraspecific selections that utilize specific major resistance genes and interspecific and intergeneric selections that exploit non-host resistance mechanisms or multigenic resistance.
+Rootstock selection has also been documented to impact foliar pests including pathogens, arthropods and viruses.
+Over-reliance on specific rootstocks in production systems has led to the emergence of new pathogens or shifts in the host specificity of the pathogen population, emphasizing the need for multi-tactic approaches to manage soilborne pathogens.
+One advantage and associated challenge of grafting is that rootstock selection for disease management is site specific depending on the presence, population structure and dynamics of the pathogen, as well as edaphic, environmental and anthropogenic factors.
+The use of grafting as an Integrated pest management tool to manage biotic stress will be most successful when carried out with increasing knowledge about the biology, diversity, and population dynamics of the pathogen or other pests and when complemented with sustainable farming system practices.
+This review highlights major uses of grafting to manage soilborne pathogens, provides some novel information on managing foliar or other soilborne pests (insects, mites, weeds) and offers discussion on future research and applications.
+(C) 2010 Published by Elsevier B.V.

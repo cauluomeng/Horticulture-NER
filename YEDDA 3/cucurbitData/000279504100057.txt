@@ -1,0 +1,11 @@
+We report on the development of novel simple sequence repeat (SSR) markers from publicly available Cucumis sativus expressed sequence tags (ESTs) and on their transferability among related species.
+In total, 533 di- to penta-type SSRs were identified from 6344 cucumber ESTs retrieved from GenBank.
+Identified SSRs mainly comprised of di- and tri-nucleotide repeats, of which AG and AAG motifs were much abundant.
+A total of 392 SSR-containing unigenes (non-redundant ESTs/consensus sequences) were suitable for primer design.
+From these, 35 primer pairs were designed as representative samples and 28 were usable markers.
+Twenty-six out of 28 usable markers revealed polymorphism among 21 cucumber accessions with 2-7 alleles detected (mean = 3.77) and their polymorphism information content (PIC) values ranged from 0.091 to 0.748 (mean = 0.388).
+The polymorphism observed herein partially arose from the null alleles which occurred at the multiple homoeoloci detected by the markers.
+Transferability of the 28 EST-SSR markers was investigated in four other cucurbits: melon, watermelon, pumpkin and gourd which showed frequency of 92.9%, 57.1%, 53.6% and 60.7%, respectively.
+The EST-SSR markers developed herein will complement the currently available genomic SSR markers and may be useful for genetic studies in cucumber and related species.
+(c) 2010 Elsevier B.V.
+All rights reserved.

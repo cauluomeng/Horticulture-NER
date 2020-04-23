@@ -1,0 +1,9 @@
+Poleroviruses are not mechanically transmittable by sap inoculation, which makes their isolation and multiplication in laboratory hosts for virion extraction and genome sequence analysis difficult.
+A reverse-transcription polymerase chain reaction (RT-PCR) procedure was modified to amplify the entire genomes of cucurbit-infecting poleroviruses in three sections directly from RNA extracts from infected plant field samples.
+The procedure was used to determine the first full-length genome nucleotide sequences of four polerovirus isolates from field samples collected in Taiwan.
+TW1 was identified as Melon aphid-borne yellows virus (MABYV), because it had <10% variation in the deduced amino acid (aa) sequence in any of the encoded proteins when compared to MABYV-China.
+C-TW20 was most similar to Cucurbit aphid-borne yellows virus (CABYV) from China with aa sequence identities of >90% for P3 and P3-5 and aa identities of 7888% for all the other proteins.
+TW19 represents the first full-length sequence for the recently described Suakwa aphid-borne yellows virus (SABYV).
+The deduced aa sequences for all the proteins of TW19 showed >10% variation compared to all other poleroviruses, though recombination analysis suggested MABYV as the major parent and an unidentified polerovirus as minor parent.
+R-TW82 was identified as a strain of CABYV, as the deduced CP aa sequence showed >90% identity to that of other CABYV isolates, and recombination analysis suggested that MABYV was the major parent with CABYV the minor parent.
+Comparative details of the new full-length sequences and their implications on criteria for distinguishing polerovirus species are discussed.

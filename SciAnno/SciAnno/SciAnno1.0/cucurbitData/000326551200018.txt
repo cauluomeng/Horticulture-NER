@@ -1,0 +1,9 @@
+Fundamental to the development of models to predict the spread of cucurbit downy mildew is the ability to determine the escape of Pseudoperonospora cubensis sporangia from infected fields.
+Aerial concentrations of sporangia, C (sporangiam(-3)), were monitored using Rotorod samplers deployed at 0<bold>5</bold> to 3<bold>0</bold>m above a naturally infected cucumber canopy in two sites in central and eastern North Carolina in 2011, where disease severity ranged from 1 to 40%.
+Standing crop of sporangia was assessed each morning at 07<bold>00</bold>h EDT and ranged from 320 to 16170 sporangiam(-2).
+Disease severity and height above the canopy significantly (P<0<bold>0001</bold>) affected C with mean concentration (C-m) being high at moderate disease.
+Values of C-m decreased rapidly with canopy height and at a height of 2<bold>0</bold>m, C-m was only 7% of values measured at 0<bold>5</bold>m when disease was moderate.
+Daily total flux (F-D) was dependent on disease severity and ranged from 5<bold>9</bold> to 2242<bold>3</bold> sporangiam(-2).
+The fraction of available sporangia that escaped the canopy increased from 0<bold>028</bold> to 0<bold>171</bold> as average wind speed above the canopy for periods of high C increased from 1<bold>7</bold> to 3<bold>6</bold>ms(-1).
+Variations of C-m and F-D with increasing disease were well described (P<0<bold>0001</bold>) by a log-normal model with 15% as the threshold above which C-m and F-D decreased as disease severity increased.
+These results indicate that disease severity should be used to adjust sporangia escape in spore transport simulation models that are used to predict the risk of spread of cucurbit downy mildew.

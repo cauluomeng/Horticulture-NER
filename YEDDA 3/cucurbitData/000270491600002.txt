@@ -1,0 +1,7 @@
+Melon (Cucumis melo L.) is an excellent model species for the Study of functional genomics in the Cucurbitaceae, a plant family that includes melon, cucumber.
+watermelon, and squash, because Of its unique traits such as a lianous structure of the plant body and unusual mode of sex determination.
+Following the first workshop on Cucurbit genomics in Barcelona in 2005, the International Cucurbit Genomics Initiative (ICuGI: http://www.icugi.org/) was established at an academic level, and melon became the model Species for cucurbit stud as a result of existing genomic resources for this species.
+The ICuGI is currently overseeing three projects concerned with the development of research tools for functional genomics in melon: sequencing of ESTs, merging of existing melon genetic maps, and development of an ICuGI webpage containing specific genomic tools available to the cucurbit research community.
+Additional efforts are also underway to develop tools for the study of melon functional genomics.
+Availability of these resources will promote research activities in the Cucurbitaceae, especially melon.
+This review summarizes the current status of these tools and discusses future aspects of the study of melon functional genomics.

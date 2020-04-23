@@ -1,0 +1,23 @@
+A reliable and species-specific real-time quantitative polymerase chain reaction (qPCR) assay was developed for detection of the complex soilborne anamorphic fungus Fusarium oxysporum.
+The new primer pair, designed on the translation elongation factor 1-alpha gene with an amplicon of 142 bp, was highly specific to F.
+oxysporum without cross reactions with other Fusarium spp.
+The protocol was applied to grafted melon plants for the detection and quantification of F.
+oxysporum f.
+sp.
+melonis, a devastating pathogen of this cucurbit.
+Grafting technologies are widely used in melon to confer resistance against new virulent races of F.
+oxysporum f.
+sp.
+melonis, while maintaining the properties of valuable commercial varieties.
+However, the effects on the vascular pathogen colonization have not been fully investigated.
+Analyses were performed on 'Charentais-T' (susceptible) and 'Nad-1' (resistant) melon cultivars, both used either as rootstock and scion, and inoculated with E oxysporum f.
+sp.
+melonis race 1 and race 1,2.
+Pathogen development was compared using qPCR and isolations from stem tissues.
+Early asymptomatic melon infections were detected with a quantification limit of 1 pg of fungal DNA.
+The qPCR protocol clearly showed that fungal development was highly affected by host pathogen interaction (compatible or incompatible) and time (days postinoculation).
+The principal significant effect (P <= 0.01) on fungal development was due to the melon genotype used as rootstock, and this effect had a significant interaction with time and F oxysporum f.
+sp.
+melonis race.
+In particular, the amount of race 1,2 DNA was significantly higher compared with that estimated for race 1 in the incompatible interaction at 18 days postinoculation.
+The two fungal races were always present in both the rootstock and scion of grafted plants in either the compatible or incompatible interaction.

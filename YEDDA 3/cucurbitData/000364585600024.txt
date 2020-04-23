@@ -1,0 +1,16 @@
+Begomoviruses represent one of the most damaging virus groups on many important crops worldwide.
+In Venezuela, the begomovirus Melon chlorotic mosaic virus (MeCMV) is the major constraint for melon and watermelon production.
+MeCMV has been associated with the satellite Melon chlorotic mosaic alphasatellite (MeCMA).
+Full-length genome sequencing of 20 and 35 isolates of MeCMV and MeCMA, respectively, was carried out to estimate their genetic variability.
+Furthermore, mechanical transmission assays of MeCMV alone, or in conjunction with MeCMA, were performed.
+Genetic variation was low among MeCMV isolates, which exhibited 97-100% nucleotide identity for the DNA-A component and 95-100% for the DNA-B component.
+Alphasatellite isolates were highly variable ranging from 86.5 to 100% nucleotide identity.
+MeCMV isolates were phylogenetically related to begomoviruses belonging to the Squash leaf curl virus (SLCV) clade, while MeCMA isolates were clustered in two subgroups related to alphasatellites from the New World (Cuba and Brazil).
+MeCMV has a host range restricted to cucurbit species and two experimental hosts: Nicotiana benthamiana and Nicotiana clevelandii.
+MeCMV can be mechanically transmitted with up to 100% efficiency in melon.
+The physiological stage of the inoculated organ (cotyledon or leaf) represents a key factor for inoculation efficiency.
+This result provides a simple and reliable inoculation method to develop extensive screening for MeCMV resistance sources.
+In addition, the complex MeCMV + MeCMA was mechanically transmitted to melon, N.
+benthamiana and N.
+clevelandii plantlets and successfully back-transmitted.
+To the authors' knowledge, this finding is the first evidence of sap transmission for a begomovirus-satellite complex.

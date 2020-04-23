@@ -1,0 +1,10 @@
+The SUN gene is responsible for an elongated fruit shape in tomato and belongs to the IQ domain (IQD) gene family, which is involved in growth and development in plants.
+In the present study, IQD gene homologs were evaluated for their roles in determining fruit shape in cucurbit crops.
+A total of 151 IQD homologs and their chromosomal locations in Arabidopsis, tomato, and three cucurbit species, watermelon, melon, and cucumber, were compared based on their genomic information.
+A phylogenetic dendrogram of these IQD homologs revealed putative orthologous and paralogous relationships among these genes, and showed that previously reported candidate fruit shape IQD genes in watermelon (ClSUN8), melon (CmSUN14), and cucumber (CsSUN2) were clustered under the same node with a similarity coefficient of 0.97.
+A comparison of the physical locations of the IQD homologs with fruit shape QTLs in genetic maps indicated that ClSUN8, CmSUN14, and CsSUN2 were co-localized with the major QTLs for the fruit shape index (FSI).
+This co-localization further indicated that minor QTLs for FSI were also associated with the IQD gene family.
+We used early developmental stages of immature fruits to conduct a morphological assay and characterize ClSUN8 in watermelon.
+Histological analysis indicated that elongated or round fruit shape is determined at the early stage of ovary formation, at least earlier than -4 days after fertilization (-4 DAF), and fruit elongation is due to increased cell division in the longitudinal direction.
+Quantitative RT-PCR showed that the highest expression of ClSUN8 occurred at -4 days after fertilization and gradually decreased; however, there was no direct relationship between the gene expression level and fruit shape.
+RACE-PCR revealed a non-synonymous SNP between the ClSUN8 alleles of elongated- and round-fruited watermelon accessions, suggesting that the SNP might be a causative mutation affecting fruit shape.

@@ -1,0 +1,3 @@
+Cucumber vein yellowing virus (CVYV) (genus Ipomovirus, family Potyviridae) and Cucurbit yellow stunting disorder virus (CYSDV) (genus Crinivirus, family Closteroviridae) are included in the EPPO A2 Action List of pathogens and have become a limiting factor of cucumber production in the southeast of Spain.
+Due to the importance of these two pathogens and the need to have robust tools that can be used in risk assessment procedures to predict future epidemics, a real-time RT-PCR method based on TaqMan(R) chemistry has been developed.
+This method is fast, sensitive, specific and easy to automate in plant health laboratories.

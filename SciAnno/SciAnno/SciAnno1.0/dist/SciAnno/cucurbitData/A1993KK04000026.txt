@@ -1,0 +1,16 @@
+ Adventitious shoots were obtained from watermelon [Citrullus lanatus (Thunb.) Matsun.
+& Nakai] cotyledons incubated on a modified Murashige and Skoog medium containing BA.
+Initial experiments comparing the effects of BA (0, 5, 10, or 20 muM) and IAA (0, 0.5, or 5 muM) demonstrated that BA was required for adventitious shoot formation but its concentration in the medium was not critical.
+The addition of IAA to medium with BA increased callus production and inhibited shoot formation.
+However, the percentage of responding explants in the best treatment was <30%.
+Therefore, the manner in which cotyledon explants were prepared and seedling age at the time of explantation was examined to improve the organogenic response.
+The percentage of explants with shoots was improved by using explants that consisted of cotyledon bases (43%) or cotyledons cut in half longitudinally (39%).
+A lower percentage (16%) of cotyledons cut longitudinally into four pieces produced shoots.
+Explants taken from the apical half of cotyledons failed to regenerate shoots.
+Shoot formation was improved further by using explants from young seedlings.
+The percentage of explants with shoots was >90% for 'Minilee', 64% for S86NE, and 50% for 'Jubilee II' when explants were prepared from 5-day-old seedlings.
+Explants from nongerminated embryos or seedlings germinated for 10, 15, or 20 days produced fewer shoots.
+The effect of several cytokinins on shoot organogenesis was then examined using the optimized protocol.
+The percentage of explants with shoots and the number of shoots per explant were about two to four times higher when 5 to 10 muM BA was used compared to the most effective kinetin (20 muM) or thidiazuron (0.1 muM) concentration.
+The percentage of explants with shoots and the number of shoots per explant were greater for diploid (57% and 2.2, respectively) than for triploid (22% and 0.6, respectively) or tetraploid (20% and 0.8, respectively) lines.
+Chemical names used: N-(phenylmethyl)-1H-purin-6-amine (BA); 6-furfurylaminopurine (kinetin); N-phenyl-N'-1,2,3-thiadiazol-5-ylurea (thidiazuron); 1H-indole-3-acetic acid (IAA).

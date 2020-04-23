@@ -1,0 +1,10 @@
+Complete genome sequences of 22 isolates of Cucurbit aphid-borne yellows virus (CABYV), collected from melon plants showing yellowing symptom in Korea during the years 2013-2014, were determined and compared with previously reported CABYV genome sequences.
+The complete genomes were found to be 5,680-5,684 nucleotides in length and to encode six open reading frames (ORFs) that are separated into two regions by a non-coding internal region (IR) of 199 nucleotides.
+Their genomic organization is typical of the genus Polerovirus.
+Based on phylogenetic analyses of complete nucleotide (nt) sequences, CABYV isolates were divided into four groups: Asian, Mediterranean, Taiwanese, and R groups.
+The Korean CABYV isolates clustered with the Asian group with > 94% nt sequence identity.
+In contrast, the Korean CABYV isolates shared 87-89% sequence identities with the Mediterranean group, 88% with the Taiwanese group, 81-84% with the CABYV-R group, and 72% with another polerovirus, M..
+Recombination analyses identified 24 recombination events (12 different recombination types) in the analyzed CABYV population.
+In the Korean CABYV isolates, four recombination types were detected from eight isolates.
+Two recombination types were detected in the IR and P3-P5 regions, respectively, which have been reported as hotspots for recombination of CABYV.
+This result suggests that recombination is an important evolutionary force in the genetic diversification of CABYV populations.

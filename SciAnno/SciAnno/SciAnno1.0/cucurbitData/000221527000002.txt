@@ -1,0 +1,9 @@
+'Charleston Belle', a root-knot nematode-resistant pepper (Capsicum annuum var.
+annuum [Grossum Group]), and its susceptible recurrent parent, 'Keystone Resistant Giant', were Compared as spring crops for managing the southern root-knot nematode (Meloidogyne incognita) in fall-cropped cucumber (Cucumis sativus) and squash (Cucurbita pepo) at Blackville, SC and Tifton, GA.
+'Charleston Belle' exhibited minimal root galling and nematode reproduction, and 'Keystone Resistant Giant' exhibited severe root galling and high nematode reproduction.
+Cucumber grown in plots following 'Charleston Belle' had lower (P less than or equal to 0.001) root gall severity indices than following 'Keystone Resistant Giant' (4.2 versus 4.9, respectively).
+Cucumber yields were 87% heavier (P less than or equal to 0.0001) and numbers of fruit were 85% higher (P less than or equal to 0.0001) in plots previously planted to 'Charleston Belle' than to 'Keystone Resistant Giant'.
+Squash grown in plots following 'Charleston Belle' had lower (P less than or equal to 0.001) root gall severity indices than following 'Keystone Resistant Giant' (4.0 versus 4.8, respectively).
+Squash yields were 55% heavier (P less than or equal to 0.01) and numbers of fruit were 50% higher (P less than or equal to 0.001) in plots previously planted to 'Charleston Belle' than to 'Keystone Resistant Giant'.
+These results demonstrate that root-knot nematode-resistant bell pepper cultivars such as 'Charleston Belle' are useful tools for managing M.
+incognita in double-cropping systems with cucurbit crops.

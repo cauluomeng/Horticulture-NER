@@ -1,0 +1,14 @@
+Sponge gourd is a versatile vegetable that can be used as a household cleaning product, industrial material and medicine, and possesses anti-human immunodeficiency virus activity.
+In the current study, a large dataset composed of 77,858 unigenes derived from the sponge gourd transcriptome was assembled.
+Of all unigenes, 52,113 (66.93 %) had significant similarity to known proteins from NCBI non-redundant, Swiss-Prot, Clusters of Orthologous Group and Kyoto Encyclopedia of Genes and Genomes databases.
+Based on these generated sequences, we identified 12,932 putative simple sequence repeats (SSRs) and successfully designed 8,523 high-quality SSR primer pairs.
+Six hundred and forty-one primer pairs were randomly selected to be verified among S1174 [Luffa acutangula (L.) Roxb.], 93075 [L.
+cylindrica (L.) Roem.] and their hybrid F1.
+The result showed that 494 (77.07 %) exhibited successful amplification, of which 201 (40.69 %) revealed polymorphism between S1174 and 93075.
+Fifty polymorphic expressed sequence tag (EST)-SSRs were used to genotype 60 sponge gourd accessions.
+Cluster analysis revealed two major clusters, one comprising 42 accessions of L.
+acutangula and the other 18 accessions belonging to L.
+cylindrica.
+Transferability of the 77 polymorphic EST-SSR markers was investigated in six other cucurbits: pumpkin, cucumber, wax gourd, bitter gourd, bottle gourd and chieh-qua, and the percentage of cross-genus amplification was 85.90, 83.33, 83.33, 79.49, 75.64 and 74.36 %, respectively.
+This indicated that EST-SSRs in sponge gourd could well be applied to other cucurbits.
+These transcriptome shotgun assembly sequences and EST-SSR data are of great value for the discovery of novel genes and for marker-assisted selection in sponge gourd.

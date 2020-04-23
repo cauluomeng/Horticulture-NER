@@ -1,0 +1,13 @@
+Watermelon mosaic virus (WMV), a plus-strand RNA virus that belongs to the family Potyviridae, is one of the most damaging viruses that infect cucurbit crops.
+However, isolates of this species frequently induce mild symptoms, which makes difficult to manage the disease in the field and breeding programs.
+A new generation of marker genes has been recently developed to visually track plant virus infection.
+Virus-mediated expression of the Pantoea ananatis phytoene synthase (crtB) induces accumulation in infected tissues of pigmented carotenoids that can be readily detected by the naked eye.
+Here we investigated whether this visual marker may facilitate visual diagnosis of WMV infection in cucurbits.
+First, we cloned a mild WMV isolate (WMV-Vera) and built a recombinant clone that expresses crtB (WMV-crtB).
+Next, we inoculated a series of cucurbit cultivars frequently used in breeding programs.
+We observed that WMV-mediated expression of crtB helps to visually score infection in two susceptible and highly appreciated melon cultivars, such as Pinonet Piel de Sapo and Vedrantais, but not in susceptible Cucurbita spp.
+cultivars.
+An increase in yellow pigmentation was experimentally confirmed in susceptible melon cultivars by measuring the Hue angle using a solid colorimeter.
+Carotenoid analyses in infected tissues explained why the visual crtB marker performs better in susceptible melon than in Cucurbita spp.
+cultivars.
+These results support that the visual marker crtB may facilitate visual diagnosis of WMV infection in melon breeding programs.

@@ -1,0 +1,9 @@
+A complementary RNA (cRNA) probe, BMI, was prepared by transcription of a 1,061 nucleotide cDNA fragment complementary to nucleotides 1 to 1,061 (open reading frame [ORF] 1) within the sequence of a French sugar beet-infecting beet mild yellowing luteovirus (BMYV)-2ITB isolate.
+This probe detected specifically the homologous isolate as well as 14 other BMYV isolates collected from sugar beet grown in various areas, mainly in Europe.
+It did not hybridize with nonbeet-infecting isolates of the closely related beet western yellows luteovirus (BWYV) or cucurbit aphid-borne yellows luteovirus (CABYV)-N isolate, but reacted weakly with two English BMYV isolates that do not infect Capsella bursa-pastoris or Montia perfoliata.
+The probe BMI detected BMYV in single Myzus persicae, giving no reaction with nonviruliferous individuals.
+As a comparison, a second BMYV probe (BM2) was produced to the coat protein gene (ORF 4) of the French BMYV-2ITB isolate.
+This probe detected all BMYV, BWYV and CABYV isolates, highlighting the closer sequence homology within this region among Subgroup 2 luteoviruses.
+The dilution end-point for the detection of virus from infected material by radioactively labeled probes was 1:500, and about 250 fg of viral RNA could be detected from purified virions preparations.
+Non-radioactively labeled (digoxigenin [DIG]) probes were found to be 30-fold less sensitive than radioactive cRNA probes, Probe BM1 has potential for large-scale screening with applications in epidemiology and sugar beet-breeding programs.
+This report shows that heterogeneity at the 5' proximal regions of the genomes of BMYV and BWYV offers the potential for discriminating between the two viruses and identifying the sugar beet-infecting BMYV isolates.

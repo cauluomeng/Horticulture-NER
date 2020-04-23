@@ -1,0 +1,13 @@
+This study describes the intraspecific variation of 30 edible-seed Lagenaria siceraria germplasm accessions from the University of Abobo-Adjame.
+These accessions were collected from three (Centre, East and South) geographical zones of Cote d'Ivoire.
+Selection based on seed size by the farmers has resulted in subdividing the species into two cultivars: large-seeded and small-seeded.
+The morphological diversity study of the collection included 18 accessions and 24 traits.
+The multivariate analysis of variance (MANOVA) showed a significant difference between the two groups of cultivars.
+Principal component analysis on 13 traits pointed out variations among individuals, mainly on the basis of flower, fruit, and seed size.
+Dendrogram with UPGMA method allowed clustering of the cultivars.
+The genetic structure analysis among accessions using allozyme markers showed the following values: 18.95% for the proportion of polymorphic loci (P), 1.21 for the number of alleles (A) and 0.053 for observed heterozygosity (Ho).
+The level of the within accessions genetic diversity (H-S = 0.188) was higher than the genetic variation among accessions (D-ST = 0.082).
+The estimates of F-statistics indicated a low level of genetic differentiation between accessions (F-ST = 0.298).
+Such a value suggested that L.
+siceraria maintains about 30% of its genetic variation among accessions.
+Nei genetic distances between the two cultivars were also low (0.002), indicating that cultivars were genetically similar enough to belong to the same genetic group.

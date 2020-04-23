@@ -1,0 +1,8 @@
+The European Central Cucurbits database is being developed at the COMAV, Spain (http://www.comav.upv.es/eccudb.html) on the initiative of the European Cooperative Programme for Crop Genetic Resources Networks (ECP/GR).
+The database contains the passport information on 22815 accessions of 21 cucurbits genus and more than 75 species from thirty three institutions belonging to nineteen European countries.
+6187 accessions belong to Citrullus genus, 9169 accessions to Cucumis genus and 6893 accessions to Cucurbita genus, the cultivated species being the best represented in the database.
+The most important contributors are VIR (Russian Federation), IPK Gatersleben (Germany), "K.
+Malkov" Institute (Bulgaria), RICP Olomouc (Czech Republic), the Institute for Agrobotany (Hungary), AARI Izmir (Turkey), COMAV (Spain) and CGN (The Netherlands).
+The database is being developed following the IPGRI/FAO Multicrop Passport Descriptors List.
+The database will be extended to include characterization and evaluation data.
+The characterization data are a set of ten to fifteen descriptors, those included in the minimum descriptors list for melons, cucumbers, watermelons and Cucurbita species, agreed by the members of the Cucurbits Working Group (CWG)

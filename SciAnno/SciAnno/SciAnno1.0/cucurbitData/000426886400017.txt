@@ -1,0 +1,7 @@
+Cucurbit yellow stunting disorder virus (CYSDV) reduces melon (Cucumis melo L.) fruit quality and yield in many parts of the world.
+Host plant resistance of melon to CYSDV is a high priority for sustainable melon production in affected production areas.
+High-level resistance to CYSDV exhibited by TGR 1551 (PI 482420) appeared, initially, to be controlled by a dominant gene, based on greenhouse tests in Malaga, Spain that were terminated 28 to 42 days post-inoculation (DPI).
+We report here results of tests that were evaluated over periods ranging from 49 DPI (Malaga) to 91 DPI (Texas) following exposure to CYSDV that show resistance to CYSDV in TGR 1551 to be a recessive trait.
+Mean CYSDV symptom severity rating of F-1 TGR 1551 x 'Dulce' did not significantly differ from the mean rating for TGR 1551, but the F-2 distribution suggested a recessive gene for resistance to CYSDV in controlled inoculation, greenhouse tests in Texas.
+The F-1 TGR 1551 x 'Bola de Oro' was susceptible in a greenhouse in Malaga, where it exhibited CYSDV symptoms and was positive for CYSDV infection prior to symptom expression.
+TGR 1551 clearly expressed recessive genetic resistance in open field tests in Imperial Valley, California where the mean symptom severity ratings of 'Top Mark' and the F-1 TGR 1551 x 'Top Mark' were not significantly different, and the F-2 and respective testcrosses confirmed recessive resistance to CYSDV.

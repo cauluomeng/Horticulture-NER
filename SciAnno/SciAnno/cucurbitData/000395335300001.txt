@@ -1,0 +1,14 @@
+The dwarf or compact plant architecture is an important trait in plant breeding.
+A number of genes controlling plant height have been cloned and functionally characterized which often involve in biosynthesis or signaling of plant hormones such as brassinosteroids (BRs).
+No genes for plant height or vine length have been cloned in cucurbit crops (family Cucurbitaceae).
+From an EMS-induced mutagenesis population, we identified a super compact (SCP) mutant C257 which was extremely dwarf due to practically no internode elongation.
+Under dark growing condition, C257 did not undergo skotomorphogenesis and its mutant phenotype could be rescued with exogenous application of brassinolide (BL), suggesting SCP might be a BR-deficient mutant.
+Segregation analysis revealed a single recessive gene scp-1 that was responsible for the SCP mutation.
+Map-based cloning combined with a modified MutMap identified CsCYP85A1, a member of the plant cytochrome P450 monooxygenase gene family, as the most possible candidate gene for scp-1, which encodes a BR-C6-oxidase in the BR biosynthesis pathway.
+We show that a SNP within the second exon of scp-1 candidate gene caused the SCP phenotype.
+Three copies of the CsCYP85A gene are present in the cucumber genome, but only the scp-1/CsCYP85A1 gene seemed active.
+The expression of CsCYP85A1 was higher in flowers than in the leaves and stem; its expression in the wild type (WT) was feedback regulated by BL application.
+Its expression was reduced in C257 as compared with the WT.
+This was the first report of map-based cloning of a plant height gene in cucurbit crops.
+The research highlighted the combined use of linkage mapping, an improved MutMap method and allelic diversity analysis in natural populations in quick cloning of simply inherited genes in cucumber.
+The roles of CsCYP85A1 in regulation of internode elongation in cucumber was discussed.

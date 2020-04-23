@@ -1,0 +1,9 @@
+ECA-DE-NEGRO
+SO PHYTOCHEMISTRY
+LA English
+DT Article
+DE CAPUT NIGRI; CUCURBITACEAE; CABECA-DE-NEGRO; ROOTS; CUCURBITACIN
+   GLYCOSIDE; BRYODULCOSIGENIN; CABENOSIDE D-H
+ID FRUCTUS MOMORDICAE; CONSTITUENTS
+AB Five cucurbitacin glycosides named cabenosides D-L were isolated from 'Cabeca-de-negro', the roots of Caput nigri.
+Among them, the structures of cabenosides D-H were elucidated as 10 alpha-cucurbit-5-en-11-oxo-3 beta,24R,25-triol-3-O-beta-D-glucopyranoside, 10 alpha-cucurbit-5-en-24-oxo-3 beta,11 alpha,25-triol-25-O-beta n-D-glucopyranosyl, [3,O-beta-D-glucopyranoside, 3-O-beta-D-glucopyranosyl-(1-2)-beta-D-glucopyranoside, 3-O-beta-D-glucopyranosyl-(1-6)-beta-D-glucopyranoside] and 10 alpha-cucurbit-5-en-11,24-dioxo-3 beta,25-diol-25-O-beta-D-glucopyranosyl, 3-O-beta-D-glucopyranosyl(1-6)-beta-D-glucopyranoside, respectively, on the basis of chemical and spectral evidence.

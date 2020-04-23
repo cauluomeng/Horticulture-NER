@@ -1,0 +1,13 @@
+Melon yellow spot virus (MYSV) and Watermelon silver mottle virus (WSMoV) are distinct virus species belonging to the genus Tospovirus in the Family Bunyaviridae.
+They have quasi-spherical virions with lipid envelopes where three single-stranded RNA segments are contained, and are persistently transmitted by Thrips palmi.
+WSMoV was first identified in 1982, and it has been causing problems on watermelon, wax gourd, melon, cucumber and bitter gourd productions in Japan and Taiwan.
+MYSV was first identified in 1992, and it has been causing severe damages on melon and cucumber productions in Japan.
+Nucleotide sequences of the smallest RNA segments of WSMoV and MYSV were analyzed to examine genetic relationships.
+Identities of the nucleocapsid protein genes of WSMoV or MYSV with other tospovirus species suggested that MYSV and Physalis severe mottle virus (PYSV) were considerably similar.
+Identities of the nucleocapsid protein genes and the non-structural genes of two isolates of MYSV from cucumber plants with those of reported MYSV with those with PSMV were more than 96%.
+Therefore, PSMV and MYSV should be classified as the same species.
+Comparison of Japanese isolates and Taiwanese isolates of WSMoV suggested that they are genetically related each other, except for a 20 nucleotide insertion sequence was found in Japanese isolates.
+RT-PCR assay with specific primers of WSMoV or MYSV were examined.
+RT-PCR with WSMoV specific primers WN5 ((5') -GCACACACATAGGTATAACT-(3')) and WN3 ((5') -TCCTTTGTAAACACCATG-(3-)) detected approximately 1.1 kb DNA fragment from WSMoV-infected samples.
+RT-PCR with MYSV specific primers MN5 ((5') TATTTCATTCAACTAGTTAA(3')) and MN3 ((5') ATTCAACATCAGCAAGTCAA(3')) detected approximately 1.0 kb DNA fragment only from MYSV-infected samples.
+No significant amplification was detected from other tospovirus -infected samples or healthy samples.

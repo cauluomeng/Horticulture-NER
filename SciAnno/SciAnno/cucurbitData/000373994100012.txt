@@ -1,0 +1,11 @@
+Bacterial fruit blotch (BFB) of cucurbits, caused by the seed-borne bacterium Acidovorax citrulli, is a destructive disease that threatens the melon and watermelon industries worldwide.
+The available means to manage the disease are very limited and there are no reliable sources of BFB resistance.
+Mineral nutrition has marked effects on plant diseases.
+To the best of our knowledge, no studies reporting effects of mineral nutrition on BFB severity have been reported to date.
+In the present study we assessed the influence of nitrogen nutrition on BFB severity and A.
+citrulli establishment in the foliage of melon plants under greenhouse conditions.
+Our results show that nitrogen fertilization, based on nitrate only, led to reduced disease severity and bacterial numbers in melon leaves, as compared with two combinations of nitrate and ammonium.
+No consistent effect of nitrogen nutrition on expression of several plant defense-associated transcripts was found, except for hydroperoxide lyase (HPL), which upon inoculation was repressed to a greater extent under the "nitrate-only" nitrogen regime compared with combined nitrate and ammonium.
+Reducing BFB severity and A.
+citrulli establishment in the plant foliage are of particular importance since establishment of the pathogen during the growing season is assumed to increase the incidence of fruit infection, leading to serious yield losses.
+Further research is needed to elucidate the mechanisms by which nitrogen nutrition influences BFB development, and to assess the effects of nitrogen as well as other minerals on the disease under field conditions.

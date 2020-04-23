@@ -1,0 +1,9 @@
+A survey of the incidence of yellowing viruses in Greek glasshouse (and occasional field) cucumber and melon crops was carried out during 2000-03.
+In most cases disease incidence ranged from 50 to 80%.
+Simplex RT-PCR was used for the detection of Beet pseudo-yellows virus (BPYV) and Cucurbit yellow stunting disorder virus (CYSDV), and DAS-ELISA for the detection of Cucurbit aphid-borne yellows virus (CABYV).
+The results showed that BPYV was the predominant virus in cucumber and melon crops, whereas CYSDV, reported for first time in Greece, was isolated only in three regions of southern Greece: Rhodes, Crete and Arkadia.
+CABYV was detected only in three cucumber glasshouses in Pella (Macedonia).
+A simplified triplex RT-PCR method using a simple sample-preparation protocol was developed to allow rapid, sensitive and simultaneous detection of the three viruses.
+Sequence comparisons of the PCR products of BPYV and CYSDV revealed 98.7 and 100% amino acid identity, respectively, with previously reported sequences.
+The arable weed species Amaranthus retroflexus, Selosia cristata, Sonchus oleraceus and Sonchus sp.
+were identified as potential BPYV reservoirs.

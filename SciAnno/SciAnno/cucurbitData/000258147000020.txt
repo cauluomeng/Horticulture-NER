@@ -1,0 +1,5 @@
+Beet pseudo-yellows virus (BPYV) was previously found to be associated with severe yellowing and chlorosis in field-grown cucurbits in Costa Rica.
+To determine the prevalence and molecular variability of BPYV in Costa Rica, leaf samples were collected in 2004 and 2005 from symptomatic cucurbit plants growing in geographically distinct cucurbit-growing regions, and weedy plants growing adjacent to production fields.
+The samples were tested for the presence of BPYV using RT-PCR with virus-specific primers and nucleic acid hybridization probes specific for genes encoding the BPYV minor coat protein, heat shock protein, and polymerase protein.
+Several isolates were also amplified using primers spanning an insertion region in RNA1 to examine isolate variability.
+Our results revealed that (1) BPYV in cucurbits is currently limited to an isolated region of the country, (2) genetic variation in the genes examined among the isolates is very low, and (3) BPYV is present in wild cucurbit and other plant species growing adjacent to production fields containing BPYV-positive cucurbits.

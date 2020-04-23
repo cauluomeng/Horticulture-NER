@@ -1,0 +1,15 @@
+Ali, A., Mohammad, O., and Khattab.
+A.
+2012.
+Distribution of viruses infecting cucurbit crops and isolation of potential new virus-like sequences from weeds in Oklahoma.
+Plant Dis.
+96:243-248.
+   Field surveys were conducted from 2008 to 2010 to detect and determine the incidence of viruses in the major cucurbit-growing areas of Oklahoma.
+In total, 1,049 symptomatic leaf samples (890 from cucurbits, 109 from weed species, and 50 from crop plants [agricultural crops]) were collected from 90 fields in four counties (Atoka, Blaine, Jefferson, and Tulsa) of Oklahoma.
+Samples were tested against seven viruses, including Cucumber mosaic virus (CMV), Cucumber green mottle mosaic virus (CGMMV), Melon necrotic spot virus (MNSV), Papaya ringspot virus-watermelon strain (PRSV-W, formerly known as Watermelon mosaic virus-I), Squash mosaic virus (SqMV), Watermelon mosaic virus-2 (WMV-2), and Zucchini yellow mosaic virus (ZYMV), using dot-immunobinding assay (DIBA).
+Results showed the highest incidence for PRSV (51%), followed by WMV-2 (14%) and ZYMV (10%) among the collected samples.
+SqMV, MNSV, and CMV were detected in 3.8, 3.3, and 1.1% of the samples, respectively.
+None of the samples collected during surveys reacted positively against the antiserum of CGMMV.
+Mixed virus infections were common involving two (5.18%) or three (4.61%) viruses in various combinations.
+New weed host species were found to be infected with PRSV when confirmed by both DIBA and reverse-transcription polymerase chain reaction (RT-PCR).
+Some weed species contained possible new viruses when analyzed by random RT-PCR, followed by cloning, sequencing, and BLAST analysis with sequences in GenBank.

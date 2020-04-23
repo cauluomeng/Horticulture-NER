@@ -1,0 +1,13 @@
+Cucurbit powdery mildew caused by Podosphaera fusca limits crop production in Spain.
+Since its management is strongly dependent on chemicals, the rational design of control programmes requires a good understanding of the fungicide resistance phenomenon in field populations.
+Fifty single-spore isolates of P.
+fusca were tested for sensitivity to three quinone-outside inhibiting (QoI) fungicides: azoxystrobin, kresoxim-methyl and trifloxystrobin.
+Minimum inhibitory concentration (MIC) values for QoI-sensitive isolates were found to range from 0.25 to 10 mu g ml(-1) for azoxystrobin to 5-25 mu g ml(-1) for kresoxim-methyl, using a leaf disc-based bioassay.
+High levels of cross-resistance to QoI fungicides were found.
+Eleven isolates showed resistance to the three QoI fungicides tested with MIC and EC50 values > 500 mu g ml(-1)resulting in RF values as high as > 715 and > 1000 for trifloxystrobin and azoxystrobin, respectively.
+A survey of P.
+fusca QoI resistance was carried out in different provinces located in the south central area of Spain during the cucurbit growing seasons in 2002, 2003 and 2004.
+Examination of a collection of 250 isolates for QoI resistance revealed that 32% were resistant to the three fungicides tested; the provinces of Ciudad Real, Cordoba and Murcia being the locations with the highest frequencies of resistance (44-74%).
+By contrast, no resistance was found in Badajoz, and relatively low frequencies were observed in Almeria and Valencia (10-13%).
+Nearly 50% of resistant isolates were collected from melon plants.
+Based on these data, recommendations about the use of QoI fungicides for cucurbit powdery mildew management in the sampled areas are made.

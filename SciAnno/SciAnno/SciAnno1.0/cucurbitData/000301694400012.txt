@@ -1,0 +1,9 @@
+Effects of end-of-day far-red (EOD-FR) light on hypocotyl elongation of a commercial cucurbit root-stock were investigated using movable and stationary light fixtures, since adequate hypocotyl length is required in vegetable grafting.
+Seedlings of an interspecific squash 'Tetsukabuto' (Cucurbita maxima x Cucurbita moschata) were grown in greenhouse and subject to daily EOD-FR light treatments with various application methods.
+The response of seedling hypocotyl length was well described using a Michaelis-Menten-type saturation curve over the range of 0-8.8 mmol m(-2) d(-1) FR light doses, as we previously reported for tomato rootstocks.
+Using a near saturating close of 4.0 mmol m(-2) d(-1) FR light, efficacy of a movable FR light fixture for EOD-FR light treatment was compared with that of a stationary FR light fixture.
+The movable light fixture was a 120-cm metal bar equipped with FR light emitting diodes (LEDs) and the application was tested at two different traveling speeds (0.78 and 3.13 mm s(-1)) with one and four repeated applications per day, respectively, to reach the same target FR light dose (4.0 mmol m(-2) d(-1)).
+Regardless of traveling speed, the extent of hypocotyl elongation under the moving FR LED fixture was statistically the same as that under stationary LED fixture and was 55-69% greater than non-treated control, suggesting that EOD-FR light applications can be designed flexibly.
+As far as we are aware, this is the first paper demonstrating the effect of EOD light quality treatment using moving light fixtures.
+(c) 2011 Elsevier B.V.
+All rights reserved.

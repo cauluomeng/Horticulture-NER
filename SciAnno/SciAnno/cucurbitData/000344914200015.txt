@@ -1,0 +1,10 @@
+Plant-fungal specificity between cucurbitaceous crops and Diaporthe sclerotioides, the causal agent of black root rot, was studied using cucumbers (Cucumis sativa), melons (Cucumis melo), pumpkins (Cucurbita maxima), watermelons (Citrullus lanatus) and bottlegourd (Lagenaria siceraria var.
+gourda).
+Twelve D.sclerotioides isolates from these cucurbit species were cross-inoculated.
+The virulence of the isolates was evaluated as the area under the disease progress curve (AUDPC).
+All cucurbit species were susceptible to each isolate, but AUDPCs were significantly different among the hosts, with the order of greatest to least being melon, cucumber, watermelon, bottlegourd and finally, pumpkin.
+The infectiveness of isolates was assessed as the quantity of D.sclerotioides DNA detected in the hypocotyls of seedlings 2weeks after inoculation using a real-time PCR protocol.
+The fungal DNA quantities varied among the species in the same order as the AUDPCs.
+Whilst there were statistically significant correlations between the virulence and infectiveness of D.sclerotioides isolates in cucumbers, melons and bottlegourds, their coefficients of determination were not high (r(2)<06).
+Orthogonal contrasts indicated no specificity in either the fungal virulence or infectiveness between D.sclerotioides isolates and the cucurbit hosts from which these isolates originated.
+Thus, although the degree of host susceptibility to D.sclerotioides varies among cucurbit species, the absence of specificity to the host species in either virulence or infectiveness suggests the pathogen may spread via various cucurbit crops, irrespective of their original host species.

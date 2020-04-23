@@ -1,0 +1,10 @@
+The present study critically examined the influence of weather parameters on the initiation and spread of the [$cucumber#Plant*] ([$Cucumis sativus#Plant*]) [$downy mildew disease#Disease*] and developed a suitable weather based disease forewarning models.
+The [$field experiment #Method*]was laid out in the farm of Bidhan Chandra Krishi Viswavidyalaya, Kalyani, West Bengal during 2008-2011.
+[$Cucumber#Plant*] [$crops#Plant*] were sown during 33 times throughout the entire span of four years covering all the growing seasons of the years.
+High humidity (RH>94%) and average temperature (24-30 degrees C) along with leaf wetness not less than 8 hrs was found to trigger the initiation of [$downy mildew disease#Disease*] of [$cucumber#Plant*].
+A model was produced [@using logistic regression analysis#Method*] and cumulative value of night leaf wetness duration, average night temperature, night relative humidity (RH) and number of night hours having RH>95% from [$sowing#Plant*] time were a significant disease predictor.
+Among the weather parameters daily mean temperature during growth period had maximum degree of association (r = -0.50) with percent disease intensity (PDI).
+Disease progress curves were presented using logistic and Gompertz model.
+Weather based prediction model has been developed with different weather indices and disease severity using weekly average value and cumulative value from date of sowing.
+Cumulative values of weather variables could explain 95% variance of disease intensity, whereas average values of weather variable could explain only 33 % variance of disease intensity.
+These results will improve the timing and application of the fungicide spray for the control of [$cucurbit downy mildew#Disease*].

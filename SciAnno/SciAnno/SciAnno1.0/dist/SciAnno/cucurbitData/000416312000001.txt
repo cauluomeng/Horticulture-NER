@@ -1,0 +1,11 @@
+Drought, cold and salinity are the major environmental stresses that limit agricultural productivity.
+NAC transcription factors regulate the stress response in plants.
+Pumpkin (Cucurbita moschata) is an important cucurbit vegetable crop and it has strong resistance to abiotic stress; however, the biological functions of stress-related NAC genes in this crop are largely unknown.
+This study reports the function of CmNAC1, a stress-responsive pumpkin NAC domain protein.
+The CmNAC1-GFP fusion protein was transiently expressed in tobacco leaves for subcellular localization analysis, and we found that CmNAC1 is localized in the nucleus.
+Transactivation assay in yeast cells revealed that CmNAC1 functions as a transcription activator, and its transactivation domain is located in the C-terminus.
+CmNAC1 was ubiquitously expressed in different organs, and its transcript was induced by salinity, cold, dehydration, H2O2, and abscisic acid (ABA) treatment.
+Furthermore, the ectopic expression (EE) of CmNAC1 in Arabidopsis led to ABA hypersensitivity and enhanced tolerance to salinity, drought and cold stress.
+In addition, five ABA-responsive elements were enriched in CmNAC1 promoter.
+The CmNAC1-EE plants exhibited different root architecture, leaf morphology, and significantly high concentration of ABA compared with WT Arabidopsis under normal conditions.
+Our results indicated that CmNAC1 is a critical factor in ABA signaling pathways and it can be utilized in transgenic breeding to improve the abiotic stress tolerance of crops.

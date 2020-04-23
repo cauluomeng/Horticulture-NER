@@ -1,0 +1,9 @@
+The inheritance of foreground stripe pattern in rind of watermelon fruits [Citrullus lanatus (Thunb.) Matsum.
+& Nakai] was evaluated and molecular markers for selecting the Jubilee-type (JT) stripe pattern were developed based on bulked segregant analysis (BSA).
+Divergence in rind pattern among F-2 progeny derived from crossing Crimson-type (CT) 'Arka Manik' (AM) with JT 'TS34' (TS) indicated that stripe pattern is a quantitative trait controlled by more than one gene.
+The BSA of F-2 plants (derived from a cross between 'AM' and 'TS') using 60 random amplified polymorphic DNA (RAPD) primers revealed a distinct RAPD band (AT14-900) polymorphic between 'AM' (CT) and 'TS' (JT).
+The AT14-900 sequence (925 bp) was blasted to the reference watermelon (97103) genome and high sequence similarity (97.8%) was identified on physical location of 26246077 to 26246993 bp on chromosome 6.
+Two expressed sequence tags (ESTs) designated 'wsbin6-10' and 'wsbin6-11' that were closely linked to AT14-900 on a genetic linkage map (developed using the F-2 population derived from 'AM' x 'TS') were positioned 2,216 kb and 71 kb from AT14-900, respectively on the reference watermelon genome sequence.
+Marker genotyping of the F-2 population showed that wsbin6-11 was tightly linked to the JT stripe pattern of 'TS' and could be a useful codominant marker for selecting this trait.
+In a test using 100 breeding lines, 34 of the 36 lines carrying the JT stripe pattern were homozygous for the wsbin6-11 marker (450 bp) derived from 'TS', while other lines (e.g., with no stripe or CT stripe pattern) were homozygous for the wsbin6-11 marker (420 bp) derived 'AM'.
+These results indicated that wsbin6-11 would be a useful marker in watermelon breeding programs aiming to select for the JT stripe pattern from other various foreground and background rind patterns.

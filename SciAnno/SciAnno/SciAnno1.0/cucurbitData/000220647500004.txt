@@ -1,0 +1,11 @@
+Polygalacturonase-inhibiting proteins (PGIPs) are believed to aid in plant defense against fungal pathogens by inhibiting polygalacturonases (PGs) secreted by the invading organism.
+In an effort to better understand this type of plant-pathogen interaction in cucurbits, we have isolated a cantaloupe PGIP (CmPGIP) from 5 to 15 day postanthesis cantaloupe fruit.
+CmPGIP inhibited crude extracts of PG from two of four fungal pathogens of cantaloupe that were tested.
+Results from assays for PG activity that utilized rate of substrate viscosity reduction or rate of reducing group formation were consistent with CmPGIP inhibition of endo-PG activity.
+The M, of CmPGIP by sedimentation equilibrium or MALDI-TOF MS was 38,500.
+The pI of CmPGIP was approximate to8.2, and its absorptivity at 280 nm was 0.93 ml/mg.
+The circular dichroism spectrum of native CmPGIP exhibited strong negative ellipticity in the near UV and possessed a far UV spectrum indicative of beta-sheet periodic structure.
+Amino acid sequences of the N terminus and a cyanogen bromide peptide were used to construct oligonucleotide primers for polymerase chain reaction sequencing.
+The sequenced open reading frame predicts a mature protein of 307 amino acids with up to 68% identity to other PGIP molecules.
+Northern blot analysis revealed differential expression during fruit development.
+The isolation and structural information obtained for CmPGIP by this investigation provide a foundation for the development of molecular strategies for pre- and postharvest crop protection.

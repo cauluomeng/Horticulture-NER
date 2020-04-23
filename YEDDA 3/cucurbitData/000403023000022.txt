@@ -1,0 +1,11 @@
+BACKGROUND: Cucurbit yellow stunting disorder virus (CYSDV) is a cosmopolitan viral disease transmitted by Bemisia tabaci that infects cucurbit crops.
+Cantaloupe production in the southwestern USA has been confronted by epidemics of CYSDV since 2006 when itwas first identified inArizona and California.
+As a phloem-limited virus that is vectored in a semi-persistent manner by B.
+tabaci, CYSDV has transmission characteristics thatmay be suppressed by select insecticide applications.
+   RESULTS: Eight active ingredients formulated as foliar and/or soil-applied insecticideswere tested to determine the suppressive effect on transmission and incidence of CYSDV in greenhouse and field studies.
+Many compounds limited virus transmission to <10% infected plants even when challenged by 30 viruliferous whiteflies.
+Foliar formulations had greater knockdown activity than their soil-applied analogs and resulted in lower virus transmission.
+Insecticides that had the greatest effect on reducing virus transmission in the greenhouse also showed the lowest incidence of CYSDV in field trials.
+   CONCLUSIONS: Select insecticides can significantly reduce transmission of CYSDV.
+However, insecticidemanagement of CYSDV incidence in cantaloupes has limitations in chronically high infestation areas such as the southwestern USA, and is often only able to delay disease onset rather than prevent its occurrence.
+(C) 2016 Society of Chemical Industry

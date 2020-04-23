@@ -1,0 +1,15 @@
+Modern watermelon cultivars (Citrullus lanatus [Thunb.] Matsum.& Nakai var.
+lanatus) have fruits with diverse phenotypes, including fruit shape, rind patterns, and flesh color.
+Molecular markers enable efficient selection of plants harboring desirable phenotypes.
+In the present study, publicly available DNA markers tightly linked to fruit shape, rind stripe pattern, and flesh color were evaluated using 85 watermelon accessions with diverse fruit phenotypes.
+For fruit shape, the dCAPS SUN - Cla011257 marker revealed an 81% of marker - trait match for accessions with elongated or round fruits.
+For rind stripe pattern, the SCAR wsb6-11marker was effective for selecting Jubilee-type rind pattern from other rind patterns.
+For flesh color, the Clcyb.
+600 and Lcyb markers derived from a mutation in the Lycopene beta - cyclase (Lcyb) gene, were effective at selecting red or yellow flesh.
+Forty-eight accessions possessing diverse fruit -related traits were selected as a reference array and their genetic relationships assessed using 16 SSR markers.
+At a coefficient of 0.11, the 48 accessions grouped into two major clades: Clade I and Clade II.
+Clade I subdivided further into subclades I -1 and I - 2 at a coefficient of 0.39.
+All accessions with colored flesh were classified into Clade I, whereas those with white - flesh were classified into Clade II.
+Differences in fruit traits between subclades I - 1 and I - 2 were observed for rind pattern and fruit color; a majority of the accessions with Crimson-type striped or non-striped rind were grouped together in subclade I - 1, while most accessions in subclade I - 2 had a Jubilee - type rind stripe pattern.
+These results imply that reference array watermelon accessions possess distinguishable genetic structure based on rind stripe pattern.
+However, no significant grouping pattern was observed based on other fruit-related traits.

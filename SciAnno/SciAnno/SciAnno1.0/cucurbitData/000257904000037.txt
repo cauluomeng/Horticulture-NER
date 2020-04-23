@@ -1,0 +1,8 @@
+The laboratory germination (radicle emergence) percentages of 9 watermelon, 12 melon, and 7 cucumber seed lots were tested after storing in relatively adverse storage conditions of 25 degrees C and 12% me for 6, 12, and 18 months in sealed aluminum foil packets.
+The laboratory germination (radicle emergence) of lots was determined after controlled deterioration (CD) at 45 degrees C with 20% or 24% moisture content (me) for 48, 72, 96,120, and 144 h.
+The accelerated aging test (AA) was conducted at 45 degrees C for the same aging periods.
+A number of seed lots was dead by 12 and 18 months in watermelon and cucumber, respectively.
+Various combinations of test regimens were found to be correlated with laboratory germination after 6 months storage, but the most consistent regimens for AA tests was 96 h at 45 degrees C in all species (r = 0.71 to 0.98).
+In the CD tests, 72 h with 20% me at 45 degrees C gave the best correlation (r = 0.86 to 0.96).
+These conditions of highest correlation were observed after laboratory germination after 6 months storage and are suggested as good predictors of storage life in cucurbit seed lots.
+The initial standard germination before storage was also significantly correlated with seed longevity, but the correlation coefficient was generally lower (r = 0.60 to 0.83) than the AA and CD test results and separation of lots less clear.

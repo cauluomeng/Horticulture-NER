@@ -1,0 +1,7 @@
+The definition of "minor" veins in leaves is arbitrary and of uncertain biological significance.
+Generally, the term refers to the smallest vein classes in the leaf, believed to function in phloem loading.
+We found that a galactinol synthase promoter, cloned from melon (Cucumis melo), directs expression of the gusA gene to the smallest veins of mature Arabidopsis and cultivated tobacco (Nicotiana tabacum) leaves.
+This expression pattern is consistent with the role of galactinol synthase in sugar synthesis and phloem loading in cucurbits.
+The expression pattern in tobacco is especially noteworthy since galactinol is not synthesized in the leaves of this plant.
+Also, we unexpectedly found that expression in tobacco is limited to two of three companion cells in class-V veins, which are the most extensive in the leaf.
+Thus, the "minor" vein system is defined and regulated at the genetic level, and there is heterogeneity of response to this system by different companion cells of the same vein.

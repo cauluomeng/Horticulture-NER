@@ -1,0 +1,23 @@
+Cucumber (Cucumis sativus L.) is a major cucurbit vegetable species whose genetic base has been drastically reduced during its domestication.
+The crop's narrow genetic base (3-12% DNA polymorphism) has resulted from the use of limited genetic material and intense selection during plant improvement.
+Recently, however, interspecific hybridization has been successful in Cucumis via mating of C.
+hystrix Chakr.
+and C.
+sativus, which resulted in the amphidiploid C.
+hytivus.
+We report herein a marker-assisted strategy for increasing genetic diversity in cucumber through introgression backcrossing employing C.
+hytivus.
+The comparatively late-flowering but high-yielding, indeterminate, monoecious line WI 7012A (P(1); donor parent) derived from a C.
+hytivus x C.
+sativus-derived line (long-fruited Chinese C.
+sativus cv.
+Beijingjietou) was initially crossed to the determinate, gynoecious C.
+sativus line WI 7023A (P(2); recurrent parent 1), and then advanced backcross generation progeny (BC(2)) were crossed with the gynoecious indeterminate line WI 9-6A (P(3); recurrent parent 2).
+More specifically, a single F(1) individual (P(1) x P(2)) was backcrossed to P(2), and then BC progeny were crossed to P(2) and P(3), where marker-assisted selection (MAS) for genetic diversity (8 mapped and 16 unmapped markers; designated Sel) or no selection (designated NSel) was applied to produce BC(3)P(2) (Sel) and BC(3)P(3) (Sel), and BC(2)P(2) (NSel) and BC(2)P(2)S(1) (NSel) progeny.
+Relative vegetative growth, number of lateral branches (LB), days to flowering (DF), yield (fruit number), and fruit quality [as measured by length:diameter (L:D) and endocarp:total diameter (E:T) ratios] were assessed in parents and cross-progeny.
+DF varied from similar to 20 (BC(3)P(2)Sel) to similar to 25 days (BC(2)P(3)Sel) among the populations examined, where progeny derived from P(2) possessed the shortest DF.
+Differences in cumulative yield among the populations over six harvests were detected, varying from similar to 8 fruits per plant in BC(3)P(2) (Sel) to similar to 39 fruits per plant in BC(2)P(3) (Sel).
+Although the vigorous vegetative growth of line P(1) was observed in its backcross progeny, highly heterozygous and polymorphic backcross progeny derived from P(3) were comparatively more vigorous and bore many high-quality fruit.
+Response to selection was detected for LB, DF, L:D, and E:T, but the effectiveness of MAS depended upon the parental lines used.
+Data indicate that the genetic diversity of commercial cucumber can be increased by introgression of the C.
+hystrix genome through backcrossing.

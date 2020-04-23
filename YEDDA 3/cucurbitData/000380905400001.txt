@@ -1,0 +1,7 @@
+In our previous efforts to understand the regulatory mechanisms of cucumber unisexual flower development, we observed a stamen-specific down-regulation of the ethylene receptor CsETR1 in stage 6 female flowers of cucumber (Cucumis sativus L.).
+This down-regulation is correlated with the primordial anther-specific DNA damage that characterizes inappropriate stamen development in cucumber female flowers.
+To understand how CsETR1 is down regulated in the stamen, we characterized a cucumber MADS box gene homologous to Arabidopsis AP3, CsAP3.
+We demonstrated that CsAP3 is functionally equivalent to the Arabidopsis B-class MADS gene AP3.
+However, three novel characteristics of CsAP3 were found.
+These include firstly, binding and activating CsETR1 promoter in vitro and in vivo; secondly, containing a GV repeat in its C-terminus, which is conserved in cucurbits and required for the transcription activation; and thirdly, decreased expression as the node number increases, which is similar to that found for CsETR1.
+These findings revealed not only the conserved function of CsAP3 as a B-class floral identity gene, but also its unique functions in regulation of female flower development in cucumber.

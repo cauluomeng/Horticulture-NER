@@ -1,0 +1,3 @@
+ Based on the weekly male catches in pheromone traps and weather data for 2 years (1985, 1986), regression models were developed to predict the densities of [$melon#Plant*] [$fruit fly#Plant*], [@Dacus cucurbitae Coq.#Plant*], which is an important pest of [$cucurbit #Plant*]and [$solanaceous fruits#Plant*].
+ Among the simple linear regression models, the model SQRT (male counts + 1) = -5.37 + 0.75 (mean daily temperature in degrees Celsius) was the best, as it explained the highest (68%) variability.
+ The model log(male counts + 1) = -7.54 + 0.35 (maximum temperature) + 0.63 (minimum temperature) -0.02 (maximum x minimum temperature) explained 80% variability, and was considered to be the best for forecasting [$fruit fly#Plant*] populations.

@@ -1,0 +1,21 @@
+Seed protein profiling of 34 lines of Cucurbita pepo L.
+from different geographic regions of the world were evaluated for their polypeptide patterns and their phylogenetic relationship with other taxa of the genus Cucurbita.
+Considerable variations were observed in the polypeptide patterns of various lines on the SDS-polyacrylamide gels under reduced conditions, i.e.
+seed protein extract with 2-mercaptoethanol.
+The variations were observed in five different molecular weight regions, i.e.
+in the range 64-70, 53-60, 30-41, 20-26 and 18-20 kDa.
+Cluster analysis showed 100% genetic similarity between C.
+pepo and C.
+pepo var.
+pepo whereas it is quite distinct from C.
+pepo var.
+texana and C.
+pepo var.
+fraterna.
+On the basis of electrophoretic profiling C.
+pepo var.
+texana and C.
+pepo var.
+fraterna should be considered as different species and also supports the origin of C.
+pepo from C.
+texana.

@@ -1,0 +1,9 @@
+A virus identified as a new pathotype of Papaya leaf distortion mosaic virus (PLDMV, P-TW-WF) was isolated from diseased papaya in an isolated test-field in central Taiwan, where transgenic papaya lines resistant to Papaya ringspot virus (PRSV) were evaluated.
+The infected plants displayed severe mosaic, distortion and shoe-stringing on leaves; stunting in apex; and water-soaking on petioles and stems.
+This virus, which did not react in enzyme-linked immunosorbent assay with the antiserum to the PRSV coat protein, infected only papaya, but not the other IS plant species tested.
+Virions studied under electron microscope exhibited mor-phology and dimensions of potyvirus particles.
+Reverse transcription-polymerase chain reaction conducted using potyvirus-specific primers generated a 1,927-nucleotide product corresponding to the 3' region of a potyvirus, showing high sequence identity to the CP gene and 3' non-coding region of PLDMV.
+Search for similar isolates with the antiserum against CP of P-TW-WF revealed scattered occurrence of PLDMV in Taiwan.
+Phylogenetic analysis of PLDMV isolates of Taiwan and Japan indicated that the Taiwan isolates belong to a separate genetic cluster.
+Since all the Taiwan isolates infected only papaya, unlike the cucurbit-infecting Japanese P type isolates, the Taiwan isolates are considered a new pathotype of PLDMV.
+Susceptibility of all our PRSV-resistant transgenic papaya lines to PLDMV indicates that the virus is an emerging threat for the application of PRSV-resistant transgenic papaya in Taiwan and elsewhere.

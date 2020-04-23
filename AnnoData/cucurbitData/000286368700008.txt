@@ -1,0 +1,11 @@
+A virus isolate (Su-95-67) was obtained from a snake melon (Cucumis melo var.
+flexuosus) plant presenting severe chlorotic spots, mosaic, stunting, and leaf deformations collected in Eastern Sudan in 1995.
+Su-95-67 was easily mechanically transmissible and had a host range limited to a few cucurbit species.
+Isometric virus particles approximately 30 nm in diameter were observed in leaf dip preparations.
+A cytopathological study did not reveal alterations specific for a virus genus or family.
+A polyclonal antiserum was obtained and used in double-antibody sandwich enzyme-linked immunosorbent assay (DAS-ELISA).
+Su-95-67 was transmitted by seed at a low rate, by the red melon beetle (Aulacophora foveicollis), but not by the melon aphid (Aphis gossypii).
+Because Su-95-67 shared several properties with sobemoviruses, generic Sobemovirus reverse-transcription polymerase chain reaction primers were developed.
+They allowed amplification of a 384-bp fragment from extracts of plants infected by two sobemoviruses or by Su-95-67 but not from healthy plants extracts.
+Sequence comparison confirmed that Su-95-67 belongs to a new tentative Sobemovirus species for which we propose the name Snake melon asteroid mosaic virus (SMAMV).
+DAS-ELISA tests conducted on extracts of virus-infected cucurbit plants collected from 1992 to 2003 revealed the presence of SMAMV in 10.2% of 600 samples originating from different regions of Sudan.

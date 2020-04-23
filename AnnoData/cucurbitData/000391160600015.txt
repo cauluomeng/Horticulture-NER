@@ -1,0 +1,12 @@
+Cucurbit yellow vine disease (CYVD), caused by the squash bug (Anasa tristis)-transmitted bacterium Serratia marcescens, was first identified in Oklahoma and Texas in 1988 and in Georgia in 2012.
+S.
+marcescens is a highly diverse species found in many ecological niches.
+In previous studies, CYVD strains of S.
+marcescens formed a closely related group separate from non-CYVD strains based on biological and molecular characterization techniques.
+Multilocus sequence analysis (MLSA) of six housekeeping genes and repetitive elements-based polymerase chain reaction (rep-PCR) using the BOX and ERIC primers were used to assess the genetic diversity of CYVD strains of S.
+marcescens collected in Georgia together with a strain from Texas and seven non-CYVD strains of S.
+marcescens.
+rep-PCR results revealed genetic diversity among CYVD strains while MLSA results showed a 100% similarity across the six loci for all but one of the CYVD strains, which differed at the icd locus by five polymorphisms.
+For both methods, CYVD strains clustered separately from nonplant-pathogenic S.
+marcescens strains and were most similar to a rice endophyte strain.
+One CYVD strain isolated from a squash bug shared genetic similarities with non-CYVD strains, and may be the result of a recombination event between CYVD and non-CYVD strains.

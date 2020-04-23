@@ -1,0 +1,15 @@
+Isolates of two biologically and phylogenetically distinct species, referred to as Fusarium solani f.
+sp.
+cucurbitae race I (Fse-1 = Nectria haematococca mating population I [MPI]) and E solani f.
+sp.
+cucurbitae race 2 (Fsc-2 = N.
+haematococca mating population V [MPV]), were suspected of causing an outbreak of Fusarium foot and fruit rot of pumpkin during 2001 to 2003 in Connecticut, New York, Ohio, and Missouri.
+Both species affect the fruit, but Fsc-1 also affects the crown and causes a stem rot.
+In this study, 156 isolates from affected plants and from soil under diseased fruit that tentatively were identified morphologically as members of the F.
+solani species complex were assayed for pathogenicity on pumpkin seedlings and mature fruit.
+Results of the pathogenicity assay indicated that 81 of the isolates were Fsc-1.
+The remaining 74 isolates were either nonpathogenic or only weakly pathogenic on the fruit.
+A subset of 53 test isolates from soil and plants, plus reference isolates of Fsc-1 and Fsc-2 and an isolate from wheat reported to cause a seedling rot on cucurbits, were characterized phylogenetically by sequencing a portion of the translation elongation factor 1-alpha gene.
+A BLAST query of the FUSARIUM-ID database at Pennsylvania State University indicated that 42 of the 53 test isolates were Fsc-1, whereas none were typed as Fsc-2.
+A polymerase chain reaction assay for mating-type (MAT) idiomorph revealed that all of the Fsc-1 isolates were MAT-1-2, suggesting that the pathogen may be strictly clonal in the affected fields.
+These findings provide convincing evidence that the Fusarium foot and fruit rot outbreaks were incited by Fsc-1.

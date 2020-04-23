@@ -1,0 +1,10 @@
+I, describe temporal patterns of seed production in the andromonoecious lily Zigarlenus paniculatus.
+Fruit set per flower and seed set per fruit declined through time within plants.
+Hand pollination experiments showed that this was not due to increasing pollen limitation.
+Nutrient supplementation had little effect on seed output, but leaf clipping reduced seed production, especially in late-blooming flowers, and removal of early-blooming flowers increased seed see by later flowers.
+Thus, the temporal pattern of seed output was due to declining availability of photosynthates.
+Plants with larger bulbs produced larger inflorescences, a greater proportion of hermaphrodite flowers, more fruits per hermaphrodite flower, and more seeds per fruit, but lost a greater fraction of their initial bulb mass as a consequence of fruiting.
+After controlling for the effects of bulb mass, plants with larger inflorescences produced a greater proportion of male flowers, and plants with more hermaphrodite flowers produced fewer fruits per hermaphrodite flower and fewer seeds per fruit.
+Thus, the female fitness gain curve was decelerating.
+The temporal decline in seed output provides a partial explanation for the parallel decline in allocation to pistils.
+However, a complete explanation for the pattern of gamete packaging requires an understanding of factors controlling male, as well as female, fitness.

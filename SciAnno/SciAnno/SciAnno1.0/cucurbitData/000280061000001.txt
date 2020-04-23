@@ -1,0 +1,9 @@
+Fruit development proceeds from cell division to expansion, maturation, and ripening.
+Expansion is critical for size, yield, and quality; however, this period of development has received little attention.
+We used 454-pyrosequencing to develop a cucumber (Cucumis sativus) fruit transcriptome, identify highly expressed transcripts, and characterize key functions during exponential fruit growth.
+The resulting 187,406 expressed sequence tags (ESTs) were assembled into 13,878 contigs.
+Quantitative real-time polymerase chain reaction (qRT-PCR) verification of differentially expressed genes from fruit of different ages, and high correlation in transcript frequency between replicates, indicated that number of reads/contig reflects transcript abundance.
+Putative homologs were identified in Arabidopsis thulium, for 89% of the contigs represented by at least 10 ESTs; another 4% had homologs in other species.
+The remainder had homologs only in cucurbit species.
+The most highly expressed contigs were strongly enriched for growth (aquaporins, vacuolar ATPase, phloem proteins, tubulins, actins, cell wall-associated, and hormone-related), lipid, latex, and defense-related homologs.
+These results provide a resource for gene expression analysis in cucumber, profile gene expression in rapidly growing fruit, and shed insight into an important, but poorly characterized, developmental stage influencing fruit yield and quality.

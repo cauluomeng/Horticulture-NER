@@ -1,0 +1,4 @@
+Samples of Cucurbita maxima plants with foliar yellowing and curling symptoms were collected in Komae City (Japan) in 2011 and shown by Southern blot hybridization to be associated with a begomovirus.
+Rolling circle amplification and PCR-mediated amplification with specific primers showed the presence of a begomovirus and an alphasatellite, but neither a DNA-B component or a betasatellite.
+Sequence analysis of full-length clones showed the virus to be an isolate of the Israel strain of Tomato yellow leaf curl virus and the alphasatellite Sida yellow vein China alphasatellite.
+This is the first identification of these components in a cucurbit in Japan.

@@ -1,0 +1,12 @@
+Zucchini yellow mosaic virus (ZYMV) is one of the most important pathogens that cause significant yield losses in many cucurbit crops including cucumber (Cucumis sativus L).
+ZYMV resistance in cucumber is inherited by a single recessive gene.
+The purpose of this study was to identify molecular markers linked to the gene conferring ZYMV resistance in cucumber.
+We developed a population of 188 F-2 plants derived from inbred cucumber lines.
+Individual F-2 plants were self-pollinated to generate F-3 populations.
+Ten randomly selected plants from each F-3 population were tested for ZYMV resistance.
+We used a bulk segregant analysis method to identify putative molecular markers linked to ZYMV resistance.
+Using bulked DNA samples with parental lines and F-1, a total of 170 sequence-related amplified polymorphism (SRAP), 586 simple sequence repeat (SSR), and 308 amplified fragment length polymorphism (AFLP) primer combinations were screened.
+Neither polymorphic SRAP nor SSR markers were linked with ZYMV resistance.
+Among the 308 AFLP primer combinations tested, an AFLP marker in the E-ACA/MCA primer combination showed significant association among parental lines, F-1, and resistant and susceptible plants.
+The combination of E-ACA/M-CA was achieved on parental lines, F-1, and 188 F-2 individuals for confirmation of the marker segregation on the F-2 population.
+We found that the combination of E-ACA/M-CA was linked to the zym locus with 6.91 cM.

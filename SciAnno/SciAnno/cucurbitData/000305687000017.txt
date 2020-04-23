@@ -1,0 +1,12 @@
+Cucurbit species grown in the Vojvodina Province, Serbia, were surveyed for the incidence of Zucchini yellow mosaic virus (ZYMV), Watermelon mosaic virus (WMV), Cucumber mosaic virus (CMV), Squash mosaic virus (SqMV), Papaya ringspot virus (PRSV) and Tobacco ringspot virus (TRSV) from 2007 to 2009.
+Samples from more than 700 pumpkin, squash and bottle gourd plants with virus-like symptoms were analyzed by double-antibody sandwich (DAS)-ELISA.
+ZYMV, WMV and CMV were detected in 79.2, 32.2, and 12.8% of tested samples, respectively.
+WMV was prevalent in 2007 and ZYMV in 2008-09.
+Mixed infections were the most frequent type in 2007-08 in contrast to 2009 when single infection of ZYMV prevailed.
+ZYMV was the most widespread being found in 33 out of 39 inspected fields.
+Virus species identification was confirmed in selected samples by conventional reverse transcription-polymerase chain reaction (RT-PCR) and sequencing of their coat protein genes.
+By comparing the obtained virus isolate sequences with those available in GenBank, the identification of serologically detected viruses was confirmed.
+Phylogenetic analysis based on complete coat protein (CP) sequences highlighted that Serbian ZYMV isolates were closely related to other Central European ZYMV isolates.
+Finally, additional testing of ELISA-negative samples by RT-PCR using primers specific to six other mosaic viruses revealed the presence of Tomato spotted wilt virus (TSWV) in winter (Cucurbita maxima) and summer (C.
+pepo 'Beogradska') squash.
+This is the first report of TSWV natural occurrence on cucurbits in Serbia and on winter squash worldwide.

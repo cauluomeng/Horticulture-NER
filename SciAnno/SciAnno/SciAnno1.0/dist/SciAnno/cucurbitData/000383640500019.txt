@@ -1,0 +1,19 @@
+Gummy stem blight (GSB) is a destructive disease of cucurbits caused by three closely related Stagonosporopsis species.
+In the southeastern United States, GSB management relies heavily on triazole fungicides.
+Our objectives were to determine if resistance to triazoles has developed in populations of GSB fungi in the southeastern United States, and if so, to investigate the molecular basis of resistance.
+A tebuconazole sensitivity assay was conducted on 303 Stagonosporopsis citrulli and 19 S.
+caricae isolates collected from the southeastern United States in 2013 and 2014, as well as three S.
+citrulli, three S.
+cucurbitacearum, and six S.
+caricae isolates from other regions or years.
+Tebuconazole resistance was detected for all 19 S.
+caricae isolates from the southeastern United States and one S.
+caricae isolate from Brazil.
+All S.
+citrulli and S.
+cucurbitacearum isolates were sensitive to tebuconazole.
+For resistant and sensitive isolates of S.
+caricae, coding and promoter regions of the target gene Cyp51 were sequenced and expression levels of Cyp51 and ScAtrG (an ATP-binding cassette transporter) were measured.
+Tebuconazole resistance was not associated with mutations within Cyp51, multiple copies of Cyp51, changes in the promoter region, or increased expression of Cyp51 or ScAtrG.
+Tebuconazole resistance may explain the increase in frequency of S.
+caricae isolates recovered from GSB-infected cucurbits in Georgia.

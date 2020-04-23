@@ -1,0 +1,34 @@
+Based on spore morphology, appressorium development, sequence similarities of the rDNA, and similarities in amplified restriction fragment length polymorphism (AFLP), it has been proposed that Colletotrichum orbiculare, C.
+trifolii, C.
+lindemuthianum, and C.
+malvarum represent a single phylogenetic species, C.
+orbiculare.
+In the current study, the phylogenetic relationship among isolates in the C orbiculare species complex was reassessed.
+In all, 72 isolates of C.
+orbiculare from cultivated cucurbit or weed hosts, C.
+trifolii from alfalfa, C.
+lindemuthianum from green bean, and C.
+malvarum from prickly sida (Sida spinosa) were examined for mitochondrial DNA (mtDNA) restriction fragment length polymorphisms (RFLPs), RFLPs and sequence variation of a 900-bp intron of the glutamine synthetase gene and a 200-bp intron of the glyceraldehyde-3-phosphate dehydrogenase gene, and vegetative compatibility.
+In addition, host specificity was examined in foliar inoculations on cucurbit, bean, and alfalfa hosts.
+Inoculations also were conducted on cucumber fruit.
+Genetically distinct isolates, based on vegetative compatibility, within the species complex (C.
+orbiculare, C.
+trifolii, and C.
+malvarum) had an identical mtDNA haplotype (haplotype A) when examined with each of three different restriction enzymes.
+Isolates of C.
+lindemuthianum had a very similar mtDNA haplotype to haplotype A, with a single polymorphism detected with the enzyme HaeIII.
+The four species represent a phylogenetically closely related group based on a statistical analysis of the 900- and 200-bp intron sequences.
+However, distinct RFLPs in the 900-bp intron were consistently associated with each species and could be used to qualitatively and quantitatively distinguish each species.
+Furthermore, each of the species showed distinct host specificity, with isolates of C.
+orbiculare (from cucurbits), C.
+lindemuthianum, and C.
+trifolii being pathogenic only on cucurbits, green bean, and alfalfa, respectively.
+Consequently, distinct and fixed nucleotide, or genotypic (intron sequences and RFLPs) and phenotypic (host specificity) characteristics can be used to distinguish C.
+orbiculare, C.
+lindemuthianum, and C.
+trifolii from one another; therefore, they should be recognized as distinct species.
+This species delineation is consistent with the most current species concepts in fungi.
+More isolates and further characterization is needed to determine whether C.
+orbiculare from cocklebur and C.
+malvarum represent distinct species.
+RFLPs of the 900-bp intron may represent a relatively inexpensive, reliable, and useful diagnostic tool for general species differentiation in the genus Colletotrichum.

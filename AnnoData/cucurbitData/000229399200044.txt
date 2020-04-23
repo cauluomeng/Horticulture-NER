@@ -1,0 +1,20 @@
+The effects of drip-applied 1,3-dichloropropene (1,3-D) and chloropicrin on fumigant soil gas levels and growth of vegetable seedlings were investigated in three separate tests in Tifton, Ga.
+Tests were conducted in Spring 2002, Fall 2002, and Spring 2003.
+Phytotoxicity of 1,3-D + chloropicrin was induced in the 2002 tests by applying progressively higher rates (0 to 374 L-ha(-1)) of drip-irrigated InLine (an emulsifiable formulation (EC) containing 60.8% 1,3-D and 33.3% chloropicrin) and planting vegetable seedlings within four days after application.
+Vegetables evaluated were tomato, pepper and cucumber (Spring 2002), and tomato and squash (Fall 2002).
+In Spring 2003, the effects of 1,3-D formulation (InLine versusTeloneEC, an EC containing 94% 1,3-D), plastic mulch type [low density polyethylene (LDPE) versus virtually impermeable film (VIF)] and drip tape configuration (one versus two drip tapes) on fumigant soil gas levels and growth of tomato were investigated.
+Tomato was planted after the recommended 3-week waiting period.
+Fumigant concentrations in soil were measured using Gastec detection tubes at 1 to 4 days after drip fumigation in all three tests.
+Measured fumigant soil gas concentrations were correlated with fumigant application rates in Spring 2002, but not in Fall 2002.
+Vegetables were visibly affected by residual fumigant levels in the soil and showed symptoms such as leaf chlorosis (cucumber, squash and pepper), leaf bronzing (tomato) and stem browning and stunting (all crops).
+Fumigant soil air levels were negatively and linearly correlated with different plant growth parameters, in particular plant vigor.
+The cucurbit crops showed an immediate response and high mortality within 1 week after planting.
+Surviving plants recovered well in fall.
+The solanaceous crops showed a more delayed response and lower mortality rates.
+However, phytotoxic effects with tomato and pepper were more persistent and plants did not seem to recover with time.
+Overall, fumigant residue levels and potential phytotoxicity were greater in spring than in fall.
+Greater fumigant soil concentrations were measured under VIF as compared to LDPE plastic mulch.
+The effect of drip-tape configuration varied with the type of plastic mulch that was used.
+The double-tape treatment resulted in lower fumigant levels at the bed center under LDPE mulch, and higher fumigant levels at the bed shoulder under VIF mulch.
+The formulation containing 94% 1,3-D resulted in higher soil fumigant levels as compared to the formulation containing 61% 1,3-D and 33% chloropicrin, especially with VIF mulch.
+Early plant vigor of tomato was negatively correlated with fumigant soil gas levels, and was especially poor following drip fumigation with 94% 1,3-D under VIF mulch.

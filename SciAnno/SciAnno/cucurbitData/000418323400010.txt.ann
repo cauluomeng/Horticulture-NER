@@ -1,0 +1,8 @@
+The hemibiotrophic [$pathogen#Virus*] [$Colletotrichum orbiculare#Virus*] preferentially expresses a necrosis and [@ethylene-inducing peptide 1 (Nep1)-like protein#Gene*] named [@NLP1#Gene*] during the switch to necrotrophy.
+Here, we report that the constitutive expression of [$NLP1#Gene*] in [$C.orbiculare#Virus*] blocks [$pathogen#Virus*] infection in multiple [@Cucurbitaceae#Plant*] cultivars via their enhanced defense responses.
+[$NLP1#Gene*] has a cytotoxic activity that induces cell death in [$Nicotiana benthamiana#Plant*].
+However, [$C.orbiculare#Virus*] transgenic lines constitutively expressing a mutant [$NLP1#Gene*] lacking the cytotoxic activity still failed to infect [$cucumber#Plant*], indicating no clear relationship between cytotoxic activity and the [$NLP1#Gene*]-dependent enhanced defense.
+[$NLP1#Gene*] also possesses the microbe-associated molecular pattern (MAMP) sequence called nlp24, recognized by [$Arabidopsis thaliana#Plant*] at its central region, similar to NLPs of other [$pathogens#Virus*].
+Surprisingly, inappropriate expression of a mutant [$NLP1#Gene*] lacking the MAMP signature is also effective for blocking [$pathogen#Virus*] [$infe#Plant*]ction, uncoupling the infection block from the corresponding MAMP.
+Notably, the deletion analyses of [$NLP1#Gene*] suggested that the C-terminal region of [$NLP1#Gene*] is critical to enhance defense in [$cucumber#Plant*].
+The expression of mCherry fused with the C-terminal 32 amino acids of [$NLP1#Gene*] was enough to trigger the defense of [$cucurbits#Plant*], revealing that the C-terminal region of the [$NLP1#Gene*] protein is recognized by [$cucurbits#Plant*] and, then, terminates [$C.orbiculare#Virus*] infection.

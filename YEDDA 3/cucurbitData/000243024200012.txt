@@ -1,0 +1,15 @@
+Dieldrin and endrin, a group of persistent organic pollutants (POPs), were used extensively on arable land in Japan from 1958 to 1971.
+Because of their extreme persistence in soils, dieldrin and endrin have been detected in cucumber fruits produced in some areas at concentrations exceeding the limit set by the Food Sanitation Law.
+Thus, we compared the uptake of dieldrin and endrin by 32 plant species of arable crops in 17 families and by 34 cultivars of Cucurbita sp.
+grown in contaminated soil to select a candidate cleaning crop for phytoremediation and substitute produce crops.
+Cucurbits took up more dieldrin and endrin than the other families, and uptake by zucchini was the highest.
+Apart from the cucurbits, only jute (Tiliaceae) took up any dieldrin and endrin, and uptake by the other 15 families was negligible.
+Among Cucurbita sp., a number of cultivars took up nearly as much dieldrin and endrin as zucchini, and some took up less than popular rootstock cultivars for graft cultivation of cucumber.
+These results suggest that cucurbits, especially zucchini, would make good candidates for phytoremediation, and non-cucurbits crops would make good substitute crops in dieldrin-contaminated and endrin-contaminated fields.
+Moreover, low-uptake Cucurbita sp.
+cultivars offer promise for breeding substitute rootstocks for grafting cucumber.
+To determine the uptake mechanism of dieldrin and endrin, a sand culture experiment was conducted.
+Komatsuna (Brassica campestris var.
+perviridis), soybean and tomato, which took up negligible chemicals from soil, took up significant quantities from sand culture mixed with dieldrin and endrin.
+Therefore, even non-cucurbits accumulate dieldrin and endrin under saturated conditions in the rhizospere.
+This result suggests that cucurbits are able to desorb or dissolve dieldrin and endrin that are strongly sorbed in soil.

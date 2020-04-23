@@ -1,0 +1,11 @@
+Zehneria capillacea (Shumach) C.
+Jeffrey is a wild edible leafy vegetable that belongs to the Cucurbitaceae.
+An efficient protocol was developed for in vitro shoot multiplication from nodal segments derived from in vitro generated seedlings.
+The explants were cultured on MS medium supplemented with 1.0, 3.0 and 5.0 mg L-1 6-benzylaminopurine (BAP) alone or in combination with 0.5 mg L-1 indole-3-acetic acid.
+Multiple shoot formation and root inhibition occurred on all the BAP concentrations tested, except the control which had a single shoot with profuse rooting.
+The lowest number of shoots (2.62) with induction frequency of 90% was obtained on MS medium supplemented with 1.0 mg L-1 BAP, while nodal segments cultured on 3.0 mg L-1 BAP gave the highest percentage of shoot induction (98%) with a mean number of 16.98 shoots per culture.
+Increasing BAP concentration to 5.0 mg L-1 decreased the shoot induction frequency to 90% with a mean number of 7.23.
+Shoots were rooted on MS medium supplemented with 0-2.0 mg L-1 1-naphthaleneacetic acid (NAA).
+The highest percentage of root induction (100%), mean number of roots (9.68) and root length (29.71 cm) were observed on MS media without NAA.
+Rooted plantlets were successfully acclimatized in the greenhouse and subsequently established in the field with 98% survival.
+The rooting of shoots on hormone-free medium indicates that exogenous auxins may not be required at the rooting stage for the micropropagation of this wild cucurbit.

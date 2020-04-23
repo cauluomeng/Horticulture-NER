@@ -1,0 +1,8 @@
+Plant species display various mechanisms to cope with waterlogging.
+However, little was known about ethylene response factors (ERF) group regulation in waterlogging response in cucumber, which plays an important role in low oxygen tolerance in Arabidopsis (Arabidopsis thaliana L.) and rice (Oryza sativa L.), associated with waterlogging stress.
+Three ERF group.
+genes in cucumber were identified, named CsERF1, CsERF2 and CsERF3, based on the information of differentially expressed genes in waterlogging tolerant line Zaoer-N root under waterlogging stress by digital gene expression profile and Cucurbit Genomics Database (htpp://www.icugi.org).
+Previous research had shown that CsERF1 was induced in the root of tolerant line Zaoer-N under waterlogging stress, while CsERF3 was repressed, and no significant change was found in CsERF2.
+When pretreated with 1-methylcyclopropene (1-MCP), an inhibitor of ethylene perception, CsERF1 was significantly down-regulated, but CsERF3 was slightly up-regulated.
+In the present study, a series of stagnant concentrations (deoxygenated 0, 0.05% and 0.10% Agar) was used to simulate the hypoxic environment and test the expression pattern of CsERF1 and CsERF3 at 4h and 12h after stagnant treatment.
+The results suggested a key role of CsERF1 in response to low oxygen and waterlogging stress in cucumber.

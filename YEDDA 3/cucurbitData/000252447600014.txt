@@ -1,0 +1,9 @@
+The development, characterization and application of cucumber (Cucumis sativus L.) microsatellite markers was accomplished using a library-enrichment procedure.
+Fifty-seven primer pairs flanking the microsatellite repeats were used for DNA amplification.
+Sixteen C.
+sativus accessions were assessed for polymorphisms using 45 primer pairs.
+The average number of alleles per locus was 3.6, and up to seven alleles were found at one locus.
+The maximum polymorphism information content value was 0.78 with an average of 0.47.
+The cucumber microsatellite makers could be useful for seed purity control in hybridity testing.
+Some of these cucumber markers were transferable to other cucurbit species (i.e.
+melon, watermelon, pumpkin and bitter gourd).

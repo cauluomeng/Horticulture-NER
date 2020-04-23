@@ -1,0 +1,11 @@
+Powdery mildew caused by Podosphaera xanthii is a major disease in melon.
+Here we report two Px race 1 strains named Px1A and Px1B in Xinjiang, which have different pathogenicities.
+The more pathogenic Px1B made some powdery mildew resistant genes on linkage group V (LGV) lose their resistant traits.
+The inheritances of resistance to Px1A and Px1B in melon Edisto47 were studied using a BC1 population derived from a cross between the resistant genotype Edisto47 and the susceptible cultivar Queen.
+The resistance/susceptibility segregation ratios observed in the Px1A-inoculated BC1 population and the loci of polymorphic markers indicated that resistance to Px1A was controlled by two dominant genes.
+Quantitative trait locus analysis identified two loci mapped on LGII and LGV, respectively, for powdery mildew resistance.
+However, for resistance to Px1B, Edisto47 was found to bear one dominant gene.
+A genetic linkage map was constructed using the Px1B-inoculated BC1 population to map the resistant gene.
+Comparative genomic analyses revealed that the linkage map of Pm-Edisto47-1 was collinear with the corresponding genomic region of the melon chromosome 2.
+Genetic analysis showed that Pm-Edisto47-1 was located between simple sequence repeat (SSR) markers CMGA36 and SSR252089, at a genetic distance of 2.1 cM to both markers.
+Synteny analysis showed that two genes named MELO3C015353 and MELO3C015354 were predicted as candidates for Edisto47-1 in this region.

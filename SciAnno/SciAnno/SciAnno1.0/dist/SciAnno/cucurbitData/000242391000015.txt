@@ -1,0 +1,6 @@
+Constitutive expression of the ORF0 (open reading frame 0) gene product from the Potato leafroll virus (PLRV) in transgenic host potato plants is known to produce viral-disease-like symptoms.
+To determine whether these symptoms were the result of a host-specific response to transgene expression, PLRV ORF0 and the orthologous-ORF0 genes of the closely related poleroviruses Beet western yellows virus (BWYV) and Cucurbit aphid-borne yellows virus (CABYV) were stably transformed into Solanum tuberosum and Nicotiana benthamiana plants.
+Only potato plants expressing the PLRV ORF0 displayed symptoms typical of virus infection, indicating a host-specific response of potato to the ORF0 gene product of the naturally infecting virus PLRV.
+Nicotiana benthamiana plants transgenic for PLRV ORF0 were phenotypically indistinguishable from pBIN19-transgenic and nontransformed plants, and symptom development was not obtained with potato or tobacco plants transgenic for ORF0 from BWYV or CABYV.
+Symptom development in potato plants transgenic for PLRV ORF0 coincided with an abnormal sugar metabolism resulting in an unusually high accumulation of starch in mesophyll cells.
+Tissue-specific expression of ORF0 in potato tubers resulted in abnormal tuber formation, reduced dormancy, and increased starch accumulation.

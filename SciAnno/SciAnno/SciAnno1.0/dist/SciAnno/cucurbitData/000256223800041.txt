@@ -1,0 +1,13 @@
+Vine decline diseases of melons (Cucumis melo) and watermelons (Citrullus lanatus) caused by soil-borne organisms constitute a major production limitation in many cucurbit production regions worldwide.
+Root infection/damage by pathogens reduces water uptake, leading to eventual plant collapse.
+This problem is exacerbated by stresses such as high temperature and water deficits.
+Grafting commercial varieties on disease resistant rootstocks is a potential alternative to chemical means of soil-borne disease management.
+Several rootstocks have been used for watermelon grafting with varying degrees of success due in part to lack of information regarding rootstock potential for soil resource acquisition and rootstock effects on scion physiology.
+The objective of this study was to characterize the physiological responses of commercial watermelon ('Summer Flavor 800' and 'Super Seedless 7167') scions grafted on hybrid squash (Cucurbita maxima x C moschata - 'Tetsukabuto' and 'RS1330') rootstocks.
+Five-week old grafted and non-grafted seedlings were transplanted in a commercial field with a history of vine decline diseases.
+Growth and physiological assessments were conducted before full canopy development and also during the fruit maturation period.
+Vines of grafted plants were generally longer than those of non-grafted plants especially prior to full canopy development.
+Grafted plants also had more crown side branches than non-grafted plants; however, fruit yields were similar among the graft combinations for each scion variety.
+Midday leaf water potentials (psi(leaf)) and stomatal conductance measured during fruit maturation period were consistently higher in grafted plants than in non-grafted plants, indicating ample water supply from the root systems.
+This observation is consistent with the proposition that rootstocks with vigorous root systems can resist vine collapse by improving the capacity for water uptake.
+Adequate water uptake and maintenance of high (psi(leaf)) by grafted plants indicates that such plants could better tolerate root infection and damage by soil-borne pathogens without late season collapse.

@@ -1,0 +1,9 @@
+Two methods for the detection of Cucumber vein yellowing virus (CVYV) on infected plants were developed, based on the information provided by cDNA clones covering the 3'-end of the genome of a Spanish isolate (CVYV-AILM).
+The sequenced portion of the CVYV-AILM genome showed a 96.6% aminoacid identity with that of a reported sequence of another CVYV isolate from Israel ( Lecoq et al., 2000).
+The first detection method used a RNA specific probe for hybridization with nucleic acids extracted from infected plants.
+The probe was complementary to a portion of the CVYV genome including the C-terminal part of the NIb and most of the coat protein ( CP) coding regions.
+The second detection method employed polyclonal antisera raised against recombinant viral CP expressed in bacteria.
+The specific antibodies were used to detect the presence of virus particles in plant extracts.
+Both procedures resulted in a highly specific detection of CVYV in plants infected with different isolates of the virus.
+No interference was observed with other cucurbit-infecting viruses.
+Sensitivities achieved were sufficient for routine diagnosis of the presence of the virus in plants.

@@ -1,0 +1,15 @@
+Watermelon (Citrullus lanatus (Thunb.) Matsum.
+& Nakai var.
+lanatus) is an economically important crop in South Korea.
+Although efforts have been made to develop disease-resistant cultivars, defense signal pathways in watermelon are still unknown.
+GNK2 domain containing proteins in plants are involved in oxidative stress and salt stress, and in defense signaling responses to pathogens and viruses.
+Arabidopsis thaliana plasmodesmata-located protein 5 (PDLP5) controls cell-to-cell communication and defense signaling.
+We identified five Arabidopsis PDLP5 (AtPDLP5) homologous in watermelon, using the Cucurbit Genomics Database.
+The five putative watermelon PDLPs had two GNK2 domains and showed high sequence identities to AtPDLP5.
+Their mRNAs were expressed in three watermelon cultivars, PI189225, Au-Producer, and 920533.
+Each mRNA was differently expressed after infection of Colletotrichum orbiculare, Didymella bryoniae, and Pseudomonas syringae.
+In addition to pathogen infection, their expression patterns were altered when subjected to abiotic stresses (drought, salt, and cold) or salicylic acid treatment.
+Cla006974 mRNA was absent in the 920533 cultivar infected with D.
+bryoniae.
+Based on these findings, we propose that five putative watermelon PDLPs are involved in defense against fungal pathogens and abiotic stresses.
+In addition, Cla006974 could be useful as a marker for selecting Gummy stem blight-resistant cultivars via molecular screening.

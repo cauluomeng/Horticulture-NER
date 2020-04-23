@@ -1,0 +1,9 @@
+The whitefly Bemisia tabaci (Gennadius) B-Biotype is a major pest on cucurbits in the Caribbean islands.
+Five field trials were conducted to identify resistance among 80 genotypes of Cucumis meto L.
+from diverse geographic origins.
+We focused on resistant rather than tolerant genotypes by counting adults on the abaxial side of two leaves of each plant at least three times in each trial, and larval density of under leaf disk samples at least twice in each trial.
+On the basis of insect density, three Indian accessions, PI 414723, PI 164723, and 90625, and one Korean accession, PI 161375, had field resistance.
+On those accessions, we observed 3.6 to 6 times fewer adults than on the most susceptible genotypes ('AR Top Mark' or 'Delice de Table') and 11 to 29 times fewer larvae than on 'AR Top Mark' or B66-5.
+Those levels of resistance may be sufficient to significantly reduce pesticide use in Guadeloupe (Lesser Antilles) where B.
+tabaci populations are lower than in the Southern United States or in the Mediterranean Basin.
+Higher levels of resistance are needed for genetic control, and may be achieved by a combination of different partial resistance genes.

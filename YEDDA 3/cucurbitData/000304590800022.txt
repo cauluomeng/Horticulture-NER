@@ -1,0 +1,15 @@
+Begonia plants (Begonia semperflorens Link & Otto) with chlorotic ringspot symptoms on the leaves were found in Taichung, Chinese Taipei.
+Isolation of the virus was conducted by single-lesion transfers on Chenopodium quinoa by mechanical inoculation.
+Chlorotic spots appeared 7-10 days after inoculation.
+Back inoculation with an isolated virus culture to virus-free begonia confirmed the pathogenicity of the virus to begonia.
+Electron microscopic examinations revealed flexuous rod-shaped virus particles of 750x13 nm in the crude sap from infected plants and purified virus preparations.
+Typical inclusion bodies of potyviruses were also observed in ultrathin sections of infected tissues from begonia, squash and C.
+quinoa.
+Serological tests, including indirect-ELISA and western blotting, indicated that the isolated virus was serologically related to Zucchini yellow mosaic virus (ZYMV).
+The virus caused local lesions on inoculated leaves of C.
+quinoa, systemic mosaic in cucumber (Cucumis sativus), zucchini (Cucurbita pepo) and Cucumis metuliferus, and chlorotic ringspots in begonia.
+The symptoms caused in cucurbits by the begonia isolate were much milder than those caused by ZYMVs of cucurbit origin.
+Complementary DNA fragments derived from viral genomic RNAs were cloned, sequenced, and the full-length sequence was submitted to the EMBL database (AM422386).
+The genomic RNA consists of 9591 nucleotides excluding the poly-A tail and contains an identical genome organization as those reported for members of the genus Potyvirus.
+The nucleotide sequence of the full-length genome and the deduced amino acid sequence of the coat protein share 98% identity to those of ZYMV-CU (AJ307036), ZYMV-SG (AJ316228), and ZYMV-TW-TN3 (AF127929).
+This is the first observation of natural ZYMV-infection in begonia.

@@ -1,0 +1,13 @@
+To examine possible genetic connectivity between crop viruses found in Southeast Asia and Australia, Papaya ringspot virus biotype W (PRSV-W) isolates from cucurbits growing in East Timor and northern Australia were studied.
+East Timorese samples from cucumber (Cucumis sativus) or pumpkin (Cucurbita moschata and C.
+maxima) were sent to Australia on FTA cards.
+These samples and others of pumpkin, rockmelon, honeydew melon (Cucumis melo), or watermelon (Citrullus lanatus) growing in one location each in northwest, north, or northeast Australia were subjected to high throughput sequencing (HTS).
+When the 17 complete PRSV genomic sequences obtained by HTS were compared with 32 others from GenBank, the five from East Timor were in a different major phylogroup from the 12 Australian sequences.
+Moreover, the East Timorese and Australian sequences each formed their own minor phylogroups named VI and I, respectively.
+A Taiwanese sequence was closest to the East Timorese (89.6% nt dentity), and Mexican and Brazilian sequences were the closest to the Australian (92.3% nt identity).
+When coat protein gene (CP) sequences from the 17 new genomic sequences were compared with 126 others from GenBank, three Australian isolates sequenced more than 20 years ago grouped with the new Australian sequences, while the closest sequence to the East Timorese was from Thailand (93.1% nt identity).
+Recombination analysis revealed 13 recombination events among the 49 complete genomes.
+Two isolates from East Timor (TM50, TM32) and eight from GenBank were recombinants, but all 12 Australian isolates were non-recombinants.
+No evidence of genome connectivity between Australian and Southeast Asian PRSV populations was obtained.
+The strand-specific RNA library approach used optimized data collection for virus genome assembly.
+When an Australian PRSV isolate was inoculated to plants of zucchini (Cucurbita pepo), watermelon, rockmelon, and honeydew melon, they all developed systemic foliage symptoms characteristic of PRSV-W, but symptom severity varied among melon cultivars.

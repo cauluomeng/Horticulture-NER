@@ -1,0 +1,7 @@
+Hydrophobic pollutants, such as polychlorinated biphenyls (PCBs), are detected at high concentrations in plants of the Cucurbitaceae family, including cucumber and zucchini.
+Given that the uptake of these compounds by crops can lead to their accumulation in animals via the food chain and that they may have potentially adverse health effects, it is desirable to take appropriate preventative measures.
+However, the mechanisms underlying the uptake of these pollutants are still unclear.
+We found that the Magda (MG) cultivar of Cucurbita pepo showed high accumulation of PCBs, especially 2-chlorinated PCBs, in leaves, stems, and xylem sap compared with the Patty Green (PG) cultivar.
+In the MG cultivar, we identified two major latex-like proteins (MLPs) produced in roots that are translocated to xylem sap, wherein they bind to PCBs, and it is assumed that these MLPs are associated with the accumulation of PCBs in the aerial parts of plants.
+These results indicate that PCBs are transported by specific mechanisms via the xylem sap.
+Collectively, our findings indicate that the expression of MLP genes and production of MLPs in roots, the excretion of MLPs into xylem sap, and the binding of hydrophobic pollutants by MLPs are critical steps in the accumulation of hydrophobic pollutants in cucurbits.

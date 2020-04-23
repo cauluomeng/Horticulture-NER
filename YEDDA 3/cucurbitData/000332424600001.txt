@@ -1,0 +1,7 @@
+The combinational analysis of polymerase chain reaction and restriction enzyme analysis (PCR-RE) to distinguish six Tomato yellow leaf curl virus (TYLCV) isolates from five countries was developed.
+Tomato yellow leaf curl virus has spread from the Middle East to Western Europe, Central America and Eastern Asia, and occurs on infected crops such as tomatoes, peppers, cucurbits and beans.
+Tomato yellow leaf curl virus isolates from Jordan (TYLCV-Mld[Jo:Cuc] and TYLCV-IL[Jo:Cuc]), Israel (TYLCV-IL[IL:Reo:86]), Spain (TYLCV-Mld[ES72/97]), USA (TYLCV-IL[US:F10:04]) and Korea (TYLCV-KR) were collected, and the sequences of the six isolates were analysed to distinguish them by PCR-RE combination analysis.
+Oligonucleotide primers for the six TYLCV isolates were designed to amplify approximately 740 base pairs including the intergenic region (IR) and parts of V1 and V2 ORF.
+Unique restriction enzyme sites were analysed to identify isolate-specific restriction enzyme sites on the PCR products of each isolate.
+Three enzymes (DdeI, FauI and BssSI) were selected by in silico analysis, and then, the PCR products following the serial digestion of each restriction enzyme were separated by agarose gel electrophoresis to distinguish the TYLCV isolates.
+Taken together, the PCR-RE combination analysis by serial digestion with three restriction enzymes could be a useful method for distinguishing the six isolates.

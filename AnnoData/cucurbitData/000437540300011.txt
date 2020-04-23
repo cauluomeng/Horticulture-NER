@@ -1,0 +1,16 @@
+Cytogenetic investigations based on chromosome composition provide insight into basic genetic and genomic characteristics of a species that in turn facilitate species identification and breeding programs.
+Tandem repeats (TRs) like the 45S rDNA, 5S rDNA and telomeric repeats are ubiquitous in nuclear genomes and are good cytogenetic markers for karyotyping.
+In this study, we analyzed the karyotypes of three exotic cucurbit species, namely Cucumis melo var.
+flexuosus (L.) Naudin (2n = 24), Melothria pendula L.
+(2n = 24) and Trichosanthes anguina L.
+(2n = 22), based on the cytogenetic distribution of the 45S, 5S and Arabidopsis-type telomeric TRs through triple-color fluorescence in situ hybridization.
+T anguina had larger chromosomes (3.2-5.4 mu m) compared to C.
+melo var.
+flexuosus and M pendula (1.5-2.2 um and 1.8-2.5 mu m).
+One and two pairs of 5S and 45S rDNA signals were observed in C.
+melo var.
+flexuosus, respectively; while M pendula and T anguina had four and three pairs of 45S rDNA, respectively, and two pairs of 5S rDNA.
+Co-localized signals of 5S and 45S rDNA were observed in M pendula and T anguina, but not in C.
+melo var.flexuosus.
+Telomeric repeats were observed at chromosome ends of all chromosomes.
+This information will be useful in future cytogenomic and phylogenetic studies facilitating cucurbit breeding programs.

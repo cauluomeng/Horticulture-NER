@@ -1,0 +1,26 @@
+Bacterial fruit blotch (BFB), caused by the seedborne bacterium Acidovorax citrulli, is an economically important threat to cucurbitaceous crops worldwide.
+Since the first report of BFB in Brazil in 1990, outbreaks have occurred sporadically on watermelon and, more frequently, on melon, resulting in significant yield losses.
+At present, the genetic diversity and the population structure of A.
+citrulli strains in Brazil remain unclear.
+A collection of 74 A.
+citrulli strains isolated from naturally infected tissues of different cucurbit hosts in Brazil between 2000 and 2014 and 18 A.
+citrulli reference strains from other countries were compared by pulsed-field gel electrophoresis (PFGE), multilocus sequence analysis (MLSA) of housekeeping and virulence-associated genes, and pathogenicity tests on seedlings of different cucurbit species.
+The Brazilian population comprised predominantly group I strains (98%), regardless of the year of isolation, geographical region, or host.
+Whole-genome restriction digestion and PFGE analysis revealed that three unique and previously unreported A.
+citrulli haplotypes (assigned as haplotypes B22, B23, and B24) occurred in Brazil.
+The greatest diversity of A.
+citrulli (four haplotypes) was found among strains collected from the northeastern region of Brazil, which accounts for more than 90% of the country's melon production.
+MLSA clearly distinguished A.
+citrulli strains into two well-supported clades, in agreement with observations based on PFGE analysis.
+Five Brazilian A.
+citrulli strains, representing different group I haplotypes, were moderately aggressive on watermelon seedlings compared with four group II strains that were highly aggressive.
+In contrast, no significant differences in BFB severity were observed between group I and II A.
+citrulli strains on melon and squash seedlings.
+Finally, we observed a differential effect of temperature on in vitro growth of representative group I and II A.
+citrulli haplotypes.
+Specifically, of 18 group II strains tested, all grew at 40 and 41 degrees C, whereas only 3 of 15 group I strains (haplotypes B8 [P], B3[K], and B15) grew at 40 degrees C.
+Three strains representing haplotype B8 (P) were the only group I strains that grew at 41 degrees C.
+These results contribute to a better understanding of the genetic diversity of A.
+citrulli associated with BFB outbreaks in Brazil, and reinforce the efficiency of MLSA and PFGE analysis for assessing population structure.
+This study also provides the first evidence to suggest that temperature might be a driver in the ecological adaptation of A.
+citrulli populations.

@@ -1,0 +1,16 @@
+BACKGROUND: Pseudoperonospora cubensis, the causal oomycete agent of cucurbit downy mildew, is responsible for enormous crop losses in many species of Cucurbitaceae, particularly in cucumber and melon.
+Disease control is mainly achieved by combinations of host resistance and fungicide applications.
+However, since 2004, resistance to downy mildew in cucumber has been overcome by the pathogen, thus driving farmers to rely only on fungicide spray applications, including carboxylic acid amide (CAA) fungicides.
+Recently, CAA-resistant isolates of P.
+cubensis were recovered, but the underlying mechanism of resistance was not revealed.
+The purpose of the present study was to identify the molecular mechanism controlling resistance to CAAs in P.
+cubensis.
+   RESULTS: The four CesA (cellulose synthase) genes responsible for cellulose biosynthesis in P.
+cubensis were characterised.
+Resistant strains showed a mutation in the CesA3 gene, at position 1105, leading to an amino acid exchange from glycine to valine or tryptophan.
+Cross-resistance tests with different CAAs indicated that these mutations lead to resistance against all tested CAAs.
+   CONCLUSION: Point mutations in the CesA3 gene of P.
+cubensis lead to CAA resistance.
+Accurate monitoring of these mutations among P.
+cubensis populations may improve/facilitate adequate recommendation/deployment of fungicides in the field.
+(C) 2011 Society of Chemical Industry

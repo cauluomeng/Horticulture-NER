@@ -1,0 +1,10 @@
+Bottle gourd [Lagenaria siceraria (Mol.)Standl.] is an easy growing climber that has made great impact due to its medicinal importance.
+For estimating genetic diversity among accessions inbreeding programs, SSR markers are an essential tool, but for the species that have meager number of these markers available, their development is a challenging aspect.
+In the present study a microsatellite-enriched library was constructed from the genotype 'Pusa Santushti'.
+Sequencing of 100 putative SSR-positive clones from a total of 220 clones provided 44 SSR repeats and primer pairs could be designed for a total of 40 SSRs.
+Of these, 30 (75%) primer pairs yielded scorable amplicons and seven (17.5%) primers showed polymorphism among 40 bottle gourd accessions.
+The 20 polymorphic alleles from seven polymorphic markers were used for UPGMA dendrogram and population structure analysis; both revealed that five populations are present in the 40 accessions that did not group consistent with their geographical origins probably due to gene flow.
+The results of this study provide 30 novel SSR markers that would be valuable in agriculture via plant breeding, phylogenetic relationships, cultivar identification and linkage mapping in cultivated bottle gourd as well as related cucurbits species.
+Significantly, 49 partial genome sequences were also isolated that can be helpful in further gene based studies in this vegetable crop.
+(c) 2015 Elsevier B.V.
+All rights reserved.

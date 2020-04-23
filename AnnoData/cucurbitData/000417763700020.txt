@@ -1,0 +1,7 @@
+The growing impact of phloem-limited pathogens on high-value crops has led to a renewed interest in understanding how they cause disease.
+Although these pathogens cause substantial crop losses, many are poorly characterized.
+In this review, we present examples of phloem-limited pathogens that include intracellular bacteria with and without cell walls, and viruses.
+Phloem-limited pathogens have small genomes and lack many genes required for core metabolic processes, which is, in part, an adaptation to the unique phloem environment.
+For each pathogen class, we present multiple case studies to highlight aspects of disease caused by phloem-limited pathogens.
+The pathogens presented include Candidatus Liberibacter asiaticus (citrus greening), Arsenophonus bacteria, Serratia marcescens (cucurbit yellow vine disease), Candidatus Phytoplasma asteris (Aster Yellows Witches' Broom), Spiroplasma kunkelii, Potato leafroll virus and Citrus tristeza virus.
+We focus on commonalities in the virulence strategies of these pathogens, and aim to stimulate new discussions in the hope that widely applicable disease management strategies can be found.

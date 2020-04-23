@@ -1,0 +1,9 @@
+[@Podosphaera xanthii#Virus*] is the main causal agent of[$ powdery mildew disease#Disease*] in [$cucurbits#Plant*].
+In a previous study, we determined that [@P.xanthii#Virus*] expresses approximately 50 Podosphaera effector candidates (PECs), identified based on the presence of a predicted signal peptide and the absence of functional annotation.
+In this work, we used [@host-induced gene silencing (HIGS), employing Agrobacterium tumefaciens as a vector for the delivery of the silencing constructs (ATM-HIGS)#Method*], to identify genes involved in early plant-[$pathogen#Virus*] interaction.
+The analysis of seven selected PEC-encoding genes showed that six of them, PEC007, PEC009, PEC019, PEC032, PEC034, and PEC054, are required for [@P.xanthii#Virus*] pathogenesis, as revealed by reduced fungal growth and increased production of hydrogen peroxide by host cells.
+In addition, protein models and protein-ligand predictions allowed us to identify putative functions for these candidates.
+The biochemical activities of PEC019, PEC032, and PEC054 were elucidated using their corresponding proteins expressed in [$Escherichia coli#Virus*].
+These proteins were confirmed as phospholipid-binding protein, alpha-mannosidase, and cellulose-binding protein.
+Further, BLAST searches showed that these three effectors are widely distributed in phyto[$pathogen#Virus*]ic fungi.
+These results suggest novel targets for fungal effectors, such as host-cell plasma membrane, host-cell glycosylation, and damage-associated molecular pattern-triggered immunity.

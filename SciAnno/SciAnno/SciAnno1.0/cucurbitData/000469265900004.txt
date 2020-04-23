@@ -1,0 +1,21 @@
+Bacterial fruit blotch (BFB) caused by Acidovorax citrulli is one of the most important bacterial diseases of cucurbits worldwide.
+However, the mechanisms associated with A.
+citrulli pathogenicity and genetics of host resistance have not been extensively investigated.
+We idenitfied Nicotiana benthamiana and Nicotiana tabacum as surrogate hosts for studying A.
+citrulli pathogenicity and non-host resistance triggered by type III secreted (T3S) effectors.
+Two A.
+citrulli strains, M6 and AAC00-1, that represent the two major groups amongst A.
+citrulli populations, induced disease symptoms on N.
+benthamiana, but triggered a hypersensitive response (HR) on N.
+tabacum plants.
+Transient expression of 19 T3S effectors from A.
+citrulli in N.
+benthamiana leaves revealed that three effectors, Aave_1548, Aave_2708, and Aave_2166, trigger water-soaking-like cell death in N.
+benthamiana.
+Aave_1548 knockout mutants of M6 and AAC00-1 displayed reduced virulence on N.
+benthamiana and melon (Cucumis melo L.).
+Transient expression of Aave_1548 and Aave_2166 effectors triggered a non-host HR in N.
+tabacum, which was dependent on the functionality of the immune signalling component, NtSGT1.
+Hence, employing Nicotiana species as surrogate hosts for studying A.
+citrulli pathogenicity may help characterize the function of A.
+citrulli T3S effectors and facilitate the development of new strategies for BFB management.

@@ -1,0 +1,17 @@
+The most economically important plant pathogens in the genus Pseudoperonospora (family Peronosporaceae) are Pseudoperonospora cubensis and P humuli, causal agents of downy mildew on cucurbits and hop, respectively.
+Recently, P.
+humuli was reduced to a taxonomic synonym of P.
+cubensis based on internal transcribed spacer (ITS) sequence data and morphological characteristics.
+Nomenclature has many practical implications for pathogen identification and regulatory considerations; therefore, further clarification of the genetic and pathogenic relatedness of these organisms is needed.
+Phylogenetic analyses were conducted considering two nuclear and three mitochondrial loci for 21 isolates of P cubensis and 14 isolates of P humuli, and all published ITS sequences of the pathogens in GenBank.
+There was a consistent separation of the majority of the P hunudi isolates and the P cubensis isolates in nuclear, mitochondrial, and ITS phylogenetic analyses, with the exception of isolates of P.
+humuli from Hainalus japonicas from Korea.
+The P cubensis isolates appeared to contain the P humuli cluster, which may indicate that P.
+humuli descended from P cubensis.
+Host-specificity experiments were conducted with two reportedly universally susceptible hosts of P cubensis and two hop cultivars highly susceptible to P cubensis consistently infected the hop cultivars at very low rates, and sporangiophores invariably emerged from necrotic or chlorotic hypersensitive-like lesions.
+Only a single sporangiophore of P humuli was observed on a cucurbit plant during the course of the studies.
+Together, molecular data and host specificity indicate that there are biologically relevant characteristics that differentiate P.
+cubensis and P humuli that may be obfuscated if P humuli were reduced to a taxonomic synonym of P.
+cubensis.
+Thus, we recommend retaining the two species names P.
+cubensis and P humuli until the species boundaries can be resolved unambiguously.

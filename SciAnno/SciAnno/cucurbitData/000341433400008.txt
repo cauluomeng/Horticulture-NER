@@ -1,0 +1,11 @@
+Premise of the study: Floral traits play important roles in pollinator attraction and defense against floral herbivory.
+However, plants may experience trade-offs between conspicuousness to pollinators and herbivore attraction.
+Comparative studies provide an excellent framework to examine the role of multiple traits shaping mutualist and antagonist interactions.
+   Methods: To assess whether putative defensive and attractive traits predict species interactions, we grew 20 different Cucurbitaceae species and varieties in the field to measure interactions with pollinators and herbivores and in the greenhouse to assess trait variation.
+Cucurbits are characterized by the production of cucurbitacins, bitter nonvolatile terpenoids that are effective against generalist herbivores but can attract specialist beetles.
+We determined whether plant traits such as cucurbitacins predict herbivore resistance and pollinator attraction using an information-theoretic approach.
+   Key results: Mutualists and floral antagonists were attracted to the same cucurbit varieties once they flowered.
+However, rather than cucurbitacin concentration, we found that the size of the flower and volatile emissions of floral sesquiterpenoids explained both pollinator and floral herbivore visitation preference across cucurbit taxa.
+This pattern held across cucurbit taxa and within the Cucurbita genus.
+   Conclusions: Surprisingly, floral sesquiterpenoid volatiles, which are associated with direct defense, indirect defense, and attraction, rather than defense traits such as cucurbitacins, appeared to drive interactions with both pollinators and floral herbivores across cucurbit taxa.
+Identifying the relevant plant traits for attraction and deterrence is important in this economically valuable crop, particularly if pollinators and floral herbivores use the same plant traits as cues.

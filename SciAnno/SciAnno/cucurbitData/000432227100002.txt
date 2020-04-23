@@ -1,0 +1,7 @@
+The biological control of the watermelon seedling blight and fruit blotch disease was investigated by screening the potential use of antagonistic bacteria.
+Between May and August 2012, totally 322 putative antagonistic bacteria were isolated from symptomless melon and watermelon plants grown in Adana, Hatay, and Osmaniye provinces of the Eastern Mediterranean Region of Turkey.
+In vitro dual culture tests showed that 54 out of 322 strains inhibited the Acidovorax citrulli (Ac) growth with an appearance of clear zones between 2.3 and 27.0 mm in diameter.
+However, the remaining 268 strains did not exhibit any antagonistic activity against Ac.
+Seed treatments with fourteen individual antagonistic bacteria resulted in a significant reduction in disease incidence (DI) and severity (DS) ranging between 14.06-79.47% and between 4.57-41.49%, respectively.
+The bacteria Pseudomonas oryzihabitans (Antg-12), Microbacterium oxydans (Antg-57), Curtobacterium flaccumfaciens (Antg-198), and Pseudomonas fluorescens (Antg-273) were the most potent antagonistic bacterial isolates which reduced DI and DS as compared to the untreated control.
+This study suggested the potential of bacterial antagonists Curtobacterium flaccumfaciens, Microbacterium oxydans, Pseudomonas oryzihabitans, and Pseudomonas fluorescens for the biocontrol of Ac-induced bacterial fruit blotch (BFB).

@@ -1,0 +1,11 @@
+Successful cultivation of bottle gourd in arid and semi-arid areas of sub-Saharan Africa and globally requires the identification of drought tolerant parents for developing superior genotypes with increased drought resistance.
+The objective of this study was to determine the level of drought tolerance among genetically diverse South African bottle gourd landraces based on leaf gas exchange and photosynthetic efficiency and identify promising genotypes for breeding.
+The responses of 12 bottle gourd landraces grown in glasshouse under non-stressed (NS) and drought-stressed (DS) conditions were studied.
+A significant genotype x water regime interaction was observed for gs, T, A, A/C-i, IWUE, WUEins, F-m', F-v'/F-m', Phi (PSII), qP, qN, ETR, ETR/A and AES indicating variability in response among the studied bottle gourd landraces under NS and DS conditions.
+Principal component analysis identified three principal components (PC's) under drought stress condition contributing to 82.9% of total variation among leaf gas exchange and chlorophyll fluorescence parameters measured.
+PC1 explained 36% of total variation contributed by gs, T, F-0', F-m', F-v'/F-m' and qN, while PC2 explained 28% of the variation and highly correlated with A, A/C-i, IWUE, WUEins ETR/A and AES.
+PC3 explained 14% of total variation contributed by Phi(PSII), qP and ETR.
+Principal biplot analysis allowed the identification of drought tolerant genotypes such as BG-27, BG-48, BG-58, BG-79, BG-70 and BG-78 which were grouped based on high gs, A, F-m'F-v'/F-m', qN, ETR/A and AES under DS condition.
+The study suggests that the identified physiological traits could be useful indicators in the selection of bottle gourd genotypes for increased drought tolerance.
+(C) 2017 Elsevier Masson SAS.
+All rights reserved.

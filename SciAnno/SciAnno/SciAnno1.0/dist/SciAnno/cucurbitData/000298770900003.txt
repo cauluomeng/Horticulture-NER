@@ -1,0 +1,13 @@
+Melon (Cucumis melo L.) is a fresh vegetable and dessert fruit that may also be cooked or dried, processed for juice and flavoring, and the seeds of which are a source of high-quality cooking oil and high protein seed meal.
+Melon production throughout many parts of the world is now threatened by the crinivirus Cucurbit yellow stunting disorder virus (CYSDV) in tropical and subtropical areas favorable to its whitefly vector.
+CYSDV is transmitted by the sweetpotato whitefly, Bemisia tabaci Gennadius, biotypes A, B, and Q.
+CYSDV first appeared on melon in the 1980s in the United Arab Emirates and emerged on melon in the Yuma, AZ, and Imperial Valley, CA, regions and western Mexico during the Fall season of 2006 followed by Florida in 2007.
+PI 313970, C.
+melo var.
+acidulus Naudin, a salad-type melon from India, expressed high-level resistance to CYSDV in Yuma and Imperial Valley in Fall 2006, but it was not immune; the virus was detected in asymptomatic plants.
+Inheritance of resistance to CYSDV in PI 313970 was studied in three naturally infected, replicated field tests in Imperial Valley during the Fall seasons of 2007 and 2008 and the Spring season of 2009.
+Resistance in PI 313970 was recessive: all F(1) PI 313970 (PI) x susceptible 'Top Mark' (TM) and BC (TM) individuals were susceptible, and the F(2) and BC,., segregated 3:1 and 1:1 susceptible to resistance, respectively.
+Frequency distributions of CYSDV symptom severity ratings suggested a single recessive gene in PI 313970 for resistance to CYSDV.
+PI 313970 was, however, observed to be variable for resistance; a few plants in each test expressed distinct symptoms of CYSDV infection and its frequency distributions overlapped those of 'Top Mark'.
+This variation may represent genetic variation selectable for uniform reaction to infection by CYSDV or phenotypic variation in the resistant reaction.
+The genetic relationship between the genes for resistance to CYSDV in P1 313970 (recessive) and TGR-1551 (dominant) is not known.

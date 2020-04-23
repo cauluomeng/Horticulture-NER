@@ -1,0 +1,17 @@
+Chemical control is currently the most effective method for controlling cucurbit downy mildew (CDM) caused by Pseudoperonospora cubensis.
+Most commercial cucurbit cultivars, with the exception of a few new cucumber cultivars, lack adequate disease resistance.
+Fluopicolide and propamocarb were among the most effective fungicides against CDM in the United States between 2006 and 2009.
+Since then, reduced efficacy of these two fungicides under field conditions was reported starting around 2013 but occurrence of resistance to fluopicolide and propamocarb in field isolates of P.
+cubensis had not been established.
+Thirty-one isolates collected from cucurbits in the eastern United States were tested for their sensitivity to fluopicolide and propamocarb using a leaf disc assay.
+This same set of isolates and four additional isolates (i.
+e, 35 isolates) were also used to establish the baseline sensitivity of P.
+cubensis to ethaboxam, an ethylamino-thiazole-carboxamide fungicide, which was recently granted registration to control CDM in the United States.
+About 65% of the isolates tested were resistant to fluopicolide with at least one resistant isolate being present in samples collected from 12 of the 13 states in the eastern United States.
+About 74% of the isolates tested were sensitive to propamocarb with at least one resistant isolate being among samples collected from 8 of the 12 states in the study.
+The frequency of resistance to fluopicolide and propamocarb was high among isolates collected from cucumber, while the frequency was low among isolates collected from other cucurbit host types.
+All isolates tested were found to be sensitive to ethaboxam and EC50 values ranged from 0.18 to 3.08 mg a.i./liter with a median of 1.55 mg a.i./liter.
+The ratio of EC50 values for the least sensitive and the most sensitive isolate was 17.1, indicating that P.
+cubensis isolates were highly sensitive to ethaboxam.
+The most sensitive isolates to ethaboxam were collected from New York, North Carolina, and Ohio, while the least sensitive isolates were collected from Georgia, Michigan, and New Jersey.
+These results show that ethaboxam could be a viable addition to fungicide programs used to control CDM in the United States.

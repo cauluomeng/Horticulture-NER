@@ -1,0 +1,10 @@
+Melon (Cucumis melo L.) displays a range of sexual phenotypes including various combinations of male, female, or bisexual flowers.
+Gynoecious sex expression is of great value in heterosis breeding in melon (Cucumis melo L.) because artificial emasculation can partially be avoided and hybrid purity can be ascertained.
+The gynoecious melon line WI998 was crossed as female parent with the monoecious melon line 3-2-2 as male parent.
+The F-2 population was used for linkage analysis to map gene a using SSR markers.
+The resulting map consisted of 5 linkage groups with 18 SSR markers and one morphological marker.
+It spanned a total of 442.7 cM of genetic distance with a 24.6 cM average interval.
+Two SSR markers, MU4128-2 and MU5028-1 flanking gene a with the distance at 42.8 and 26 cM, respectively.
+Two QTL named FP 2.1 (female percentage 2.1) and FP 2.2 (female percentage 2.2) were located in linkage group 3.
+The ratio of dominant and additive effect of FP 2.1 and FP 2.2 were 1.19 and 1.09, respectively.
+The location information of gene a which controlling presence of staminate and pistillate flower quantitative trait locus in melon should have great value on sex expression research in cucurbits.

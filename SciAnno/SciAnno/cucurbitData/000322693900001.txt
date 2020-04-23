@@ -1,0 +1,17 @@
+Cucumber (Cucumis sativus L.) and melon (C.
+melo L.) are globally important crop species in the family cucurbit.
+However, pests and disease, including various viral diseases, affect cucumber and melon production in Japan.
+Choosing a resistant cultivar is one of the most effective methods for disease control.
+Many sources of viral resistance have been identified in cucurbits, and various resistant commercial cultivars have been bred.
+This review describes the present status of cucurbit breeding and sources of resistance to the four major viruses in Japan.
+Melon yellow spot virus (MYSV) and Cucurbit chlorotic yellows virus (CCYV) are devastating insect-transmitted viruses that were first reported in Japan.
+MYSV-resistant cucumber and CCYV-resistant melon were selected from germplasm collections.
+The resistance of cucumber accession 27028930 to MYSV is temperature dependent and intermediate; melon isolate (MYSV-S) inoculation resulted in no systemic infection of resistant cucumber plants at low temperature (20 degrees C).
+The melon accession JP 138332 exhibits high resistance to CCYV.
+These accessions are considered promising sources for breeding resistant cultivars.
+Cucumber green mottle mosaic virus (CGMMV) and Melon necrotic spot virus (MNSV) are soil-borne viruses.
+The Korean melon accession 'Chang Bougi' is resistant to the SH isolate of CGMMV.
+The resistance of 'Chang Bougi' is controlled by two independent complementary recessive genes (cgmmv-1 and cgmmv-2), whereas resistance to MNSV is controlled by a single recessive gene (nsv) in melon.
+The nsv gene was introduced into commercial cultivars, and these cultivars have shown high resistance to MNSV.
+There is an increasing demand for new cultivars with resistance to additional viruses.
+To satisfy this demand and solve problems related to cucurbit viruses, core collections of each cucurbit crop are required for the identification of resistant germplasm, and marker-assisted selection will allow us to breed new cultivars rapidly and accurately.

@@ -1,0 +1,16 @@
+Yellowing symptoms of greenhouse-and open field-grown cucurbit crops are becoming increasingly important in many cucurbit growing regions of the world, and particularly in Iran.
+A survey was conducted from 2011 to 2012 in eight major cucurbit growing regions in Iran.
+Yellowing and specifically vein clearing symptoms were observed in many cucumber plants grown in greenhouses and open fields, suggesting the presence of Cucumber vein yellowing virus (CVYV, genus Ipomovirus, family Potyviridae).
+The identification of CVYV was carried out with a specific triple-antibody sandwich enzyme-linked immunosorbent assay (TAS-ELISA) and reverse transcription (RT)-PCR.
+CVYV was detected in 42% of the collected samples, in all surveyed provinces, except Bushehr.
+CVYV was also detected in melon and cucumber crops grown in open fields.
+These results indicate that CVYV is widely distributed on these two cucurbit species in the major cucumber growing areas of Iran.
+CVYV positive samples were also tested, using DAS-ELISA, for the presence of Cucurbit chlorotic yellows virus (CCYV) and Cucurbit yellow stunting disorder virus (CYSDV), two criniviruses reported previously to occur in Iran.
+Double or triple infections of CCYV and CYSDV occurred in 49 of 166 of the CVYV-infected plants.
+The CVYV and CCYV combined infections were more prevalent than CVYV and CYSDV combined infections.
+TAS-ELISA positive samples were used to mechanically inoculate healthy cucumber plants, and mild vein yellowing was observed on the inoculated leaves.
+Identical symptoms were also observed on whitefly inoculated healthy cucumber plants.
+The presence of CVYV in mechanically and whitefly inoculated plants was confirmed by TAS-ELISA and RT-PCR.
+Sequence analysis revealed that the Iranian isolate of CVYV was more closely related to Spanish isolates than to isolates from Jordan.
+Phylogenetic analysis showed that CVYV isolates can be divided into two phylogenetic groups (I and II).
+Despite the close vicinity of Jordan to Iran, the Iranian CVYV isolate clustered with Spanish isolates in group I and not with the Jordanian isolates of group II.

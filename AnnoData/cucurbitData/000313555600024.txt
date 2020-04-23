@@ -1,0 +1,11 @@
+Papaya ringspot virus (PRSV) is a major limiting factor for large-scale planting of papaya and cucurbits.
+Based on the difference of host range, most strains of PRSV belong to type P (PRSV P, papaya infecting) devastating on papaya in tropical areas or type W (PRSV W, non-papaya-infecting) causing severe loss on cucurbits worldwide.
+Viruses of PRSV P infect plants of the families Chenopodiaceae, Cucuribitaceae and Caricaceae (papaya family), whereas, viruses of PRSV W only infect plants of Chenopodiaceae and Cucuribitaceae.
+Phylogenetic analyses of PRSV isolates revealed that the divergence of PRSV is correlated to geographic distribution and not to the biological difference in host reactions, suggesting that P type viruses may derive from W type viruses.
+To study the genetic determinant(s) of PRSV for papaya infection, infectious cDNA clones of type P and type W viruses, driven by a bacteriophage promoter to express in vitro infectious transcript or by Cauliflower mosaic virus 35S promoter to express in vivo infectious transcript, were generated in our laboratory and used for recombination analyses.
+The bioassay of recombinant viruses revealed that the nt 6500-7000 of PRSV P genome is responsible for papaya infection.
+Sequence comparison showed that amino acid positions at 176 of NIaVPg, and 27 and 205 of NIaPro are significantly different among type P and type W viruses.
+Site-directed mutagenesis indicated that Lys(27) of NIaPro determines host specificity of PRSV for infection of papaya.
+Our results indicate that the host range of PRSV can be switched just by a single amino acid mutation.
+Thus, we have shown experimental evidence that PRSV type P may easily evolve from type W and explained the reason why type P and W viruses are closer to each other in the same geographic zone.
+Furthermore, the potential risk for planting papaya adjacent to cucurbit fields is also discussed.

@@ -1,0 +1,8 @@
+Cucumber green mottle mosaic virus (CGMMV), genus Tobamovirus, is a major pathogen of cucurbits that primarily affects cucumber, melon, and watermelon crops.
+The aim of this study was to reveal the contribution of CGMMV-infected female flowers to disease spread.
+Using a fluorescent in situ hybridization (FISH) technique, we show that ovaries and ovules of CGMMV-infected cucumber and melon plants showed a CGMMV-specific fluorescence signal prior to and following anthesis.
+The fluorescence signal was prominent but sporadic.
+Ripe fruits of infected melon plants showed strong signals in the funiculus, the seed stalk, which connects the developing seed to the interior ovary wall.
+Importantly, in seeds, a strong fluorescence signal was observed in the perisperm-endosperm (PE) envelope, which underlies the seed coat and surrounds the embryo.
+Interestingly, the fluorescence signal was not uniformly distributed in the PE envelope but was localized to a specific envelope layer.
+These results have important epidemiological implications for CGMMV management and commercial seed production, particularly regarding the improvement of seed disinfection methods that will contribute to limit the global distribution of the virus.

@@ -1,0 +1,5 @@
+Cucurbit powdery mildew (CPM), which is caused most frequently by two obligate erysiphaceous ectoparasites (Golovinomyces cichoracearum, Podosphaera xanthii), Occurs on field and glasshouse cucurbit crops worldwide.
+We review the current state of understanding of variation for pathogenicity of these two pathogens at the pathotype and race levels, and propose for use by the international CPM research, breeding, seed and production communities: 1) two sets of differential cucurbit genotypes for the identification of CPM pathotypes and races, and 2) an objective, efficient, uniform, comprehensive coded system for meaningful, concise designation of CPM pathotypes (sextet code) and races (septet code).
+The proposed set of pathotype differentials includes six genotypes, three genera (Cucumis, Cucurbita, Citrullus), and five species.
+The proposed the set of CPM race differentials includes 21 genotypes of a single species, Cucumis melo L.
+The race set can determine the race identity of either pathogen species when isolated from the cucurbit genera included in the pathotype differential set.

@@ -1,0 +1,4 @@
+ The sterol composition of conidia of powdery mildews of apple (Podosphaera leucotricha), barley (Erysiphe graminis f.sp.
+hordei), and cucurbits (Sphaerotheca fuliginea) was very similar, and simple compared with that of other plant pathogenic fungi.
+Ergosta-5,24(24(1))-dien-3-beta-ol was the principal sterol in all three species, accompanied by much smaller amounts of 5-alpha-ergosta-7,24(24(1))-dien-3-beta-ol in apple and barley mildews, and cholesterol in the cucurbit mildew.
+All the ergostane derivatives found share the structural feature of a 24(24(1))-double bond, suggesting that in powdery mildews sterol side-chain biosynthesis does not proceed beyond the initial introduction of C-24(1).

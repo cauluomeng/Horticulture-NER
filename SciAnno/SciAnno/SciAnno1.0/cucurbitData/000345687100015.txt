@@ -1,0 +1,10 @@
+Ethylene is a key factor regulating sex expression in cucurbits, such as melon (Cucumis melo L.).
+Our previous studies found that transgenic andromonoecious melon plants expressing the dominant negative ethylene perception mutant gene, etr1-1, under the control of the carpel and nectary primordia-targeted CRABSCLAW (CRC) promoter showed increased and earlier carpel bearing buds and flowers in the greenhouse.
+To further investigate this phenotype and its potential usefulness for earlier fruit production, we observed T-2 transgenic CRC:: etr1-1 plants in the field for sex expression, fruit set, and fruit ripening phenotypes.
+CRC:: etr1-1 plants in the field showed an increased number of carpel bearing buds and open flowers, earlier onset of first open carpel-bearing flower, and increased early fruit set relative to controls.
+However, fruit from the transgenic melon plants were smaller, resulting in equivalent total kg/plot.
+CRC:: etr1-1 lines also showed earlier fruit ripening phenotypes, manifested either as earlier external signs of ripening in the field (line M5), or no obvious external signs of ripening despite extensive internal ripening phenotypes (i.e.
+mesocarp and septum degradation, and separation of seeds from septum) (line M15).
+M15 fruit that appeared green externally were found to have elevated levels of internal ethylene, equivalent to those seen in WT orange stage fruit.
+These observations likely reflect differences in the requirement for ethylene for different ripening processes, and suggest localized effects of perception inhibition.
+Thus, targeting inhibition of ethylene perception to the carpel and nectary led to increased and earlier carpel-bearing buds and open flowers in the greenhouse and field, and increased early fruit set, however, transgenic fruit exhibited decreased fruit weight, and altered ripening.

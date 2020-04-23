@@ -1,0 +1,8 @@
+The [@Cucurbita genus#Plant*] ([$squashes#Plant*], [$pumpkins#Plant*] and [$gourds#Plant*]) includes important domesticated species such as [$C.pepo#Plant*], [$C.maxima#Plant*] and [$C.moschata#Plant*].
+In this study, we present a high-quality draft of the [$zucchini#Plant*] ([$C.pepo#Plant*]) genome.
+The assembly has a size of 263 Mb, a scaffold N50 of 1.8 Mb and 34 240 gene models.
+It includes 92% of the conserved BUSCO core gene set, and it is estimated to cover 93.0% of the genome.
+The genome is organized in 20 pseudomolecules that represent 81.4% of the assembly, and it is integrated with a genetic map of 7718 SNPs.
+Despite the small genome size, three independent lines of evidence support that the [$C.pepo#Plant*] genome is the result of a whole-genome duplication: the topology of the gene family phylogenies, the karyotype organization and the distribution of 4DTv distances.
+Additionally, 40 transcriptomes of 12 species of the genus were assembled and analysed together with all the other published genomes of the [@Cucurbitaceae family.#Plant*]
+The duplication was detected in all the[$ Cucurbita#Plant*] species analysed, including [$C.maxima#Plant*] and [$C.moschata#Plant*], but not in the more distant [$cucurbits#Plant*] belonging to the [$Cucumis#Plant*] and [$Citrullus#Plant*] genera, and it is likely to have occurred 30 +/- 4 Mya in the ancestral species that gave rise to the genus.

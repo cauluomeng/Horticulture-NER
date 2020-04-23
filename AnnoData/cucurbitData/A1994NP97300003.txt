@@ -1,0 +1,8 @@
+ Studies of the striped   cucumber beetle (StCB), Acalymma vittata (F.), were conducted to: 1) develop predictive models for time of first colonization of cucurbit hosts in the spring, and for time of mating and oviposition activity; and 2) develop guidelines for sampling over a range of densities and precision levels.
+There was no apparent trend of thermal unit accumulation associated with time of first colonization, and so a degree-day model approach was abandoned.
+However, evidence suggests that time Of first colonization is associated with daily mean temperatures greater than 12-degrees-C.
+A strong correlation was found between change in number of beetles per plant and the previous days' mean temperatures.
+Both mating and oviposition activity were positively influenced by temperature in the range of 18 to 26-degrees-C.
+Access to foliage influenced maturation rate but not mating.
+Thresholds of mating and oviposition activity were found to be 13-degrees-C and 10-degrees-C, respectively.
+A high degree of aggregation of StCB adults (b = 1.986) was described, and sample size estimates for three desired levels of precision under a random sampling design are presented.

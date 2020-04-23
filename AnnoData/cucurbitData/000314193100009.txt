@@ -1,0 +1,16 @@
+Cucurbit downy mildew caused by the oomycete Pseudoperonospora cubensis (Berk.
+And Curt) Rostov is a major disease of cucumber (Cumin's sativus L.) (Palti and Cohen, 1980) globally.
+Chemical control of downy mildew is necessary to achieve high yields in the absence of adequate host plant resistance.
+Most of the currently grown cultivars have some resistance to downy mildew.
+Before the resurgence of the disease in 2004, host plant resistance was sufficient to control the disease without fungicide use, and downy mildew was only a minor problem on cucumber.
+There are currently no cultivars that show resistance at a level equal to that observed before 2004.
+However, differences in resistance exist among cultivars, ranging from moderately resistant to highly susceptible.
+In this study, we evaluated the disease severity and yield of four cucumber cultivars that differed in disease resistance and were treated with fungicide programs representing a range of efficacy levels.
+The experiment was a split plot design with six replications and four years.
+Disease was evaluated as chlorosis, necrosis, and reduction in plant size on a 0 to 9 scale.
+Cultigen had a large effect in all four years.
+Fungicide has a smaller effect on resistance component traits and a larger effect on yield traits.
+The effects of cultivar resistance and fungicides appear to be additive until a threshold where maximum yield is reached.
+Highly resistant cultigens such as PI 197088 required only the least effective fungicides to achieve highest yields, whereas moderately resistant cultigens required a more effective fungicide to reach a similar level of yield.
+Susceptible cultigens did not achieve high yield even with the most effective fungicide treatments.
+It is likely that, even as highly resistant cultivars are released, growers will need to continue a minimal fungicide program to achieve maximum yield.

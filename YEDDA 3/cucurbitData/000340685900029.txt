@@ -1,0 +1,27 @@
+Due to the great ecological plasticity and adaptability of the western corn rootworm, Diabrotica virgifera virgifera LECONTE, the unilateral use of one control option could result in it becoming less effective within a few years.
+Therefore, no one option alone is sufficient for resolving the problem with D.
+virgifera virgifera.
+In fact all possibilities have to be considered and integrated.
+One possibility is to control the adult beetles and so minimize egg deposition and reduce the beetle population size below the economic threshold for the following year.
+By applying mixtures of insecticides with bitter substances from cucurbits, which are strong feeding stimulants for D.
+virgifera virgifera, it should be possible to reduce insecticide dosages by up to 95%.This would control the beetles and minimize undesired side-effects to the agro-ecosystem and non-target organisms.Therefore, the aim of this study was to determine (i) the interactions between cucurbitacins (Invite) and five insecticides with different modes of action (indoxacarb, neonicotinoids, organophosphates, pyrethroids and spinosyns), (ii) the effects of biological factors (age, gender and pre-contact) and (iii) the possibility of selection for resistance to bitter agents.
+   In laboratory trials it was shown that the stimulatory effect Invite has on feeding had little or no effect on the efficacy of the five insecticides tested.
+The improvement in the efficacy after five hours of exposure to Avaunt (indoxacarb) and Biscaya (neonicotinoid) disappeared after 24 and 48 h, and is attributed to the slow initial effects of Avaunt and the recovery of beetles exposed to Biscaya, respectively.
+Although the LC-values of Biscaya and Avaunt were significantly greater than the corresponding values for mixtures with Invite, it was not possible to reduce the dosages of these active substances by up to 90%.
+There was no improvement in the efficacy after 48 h of exposure to any of the other insecticides analyzed.
+The assumption that contact (e.
+g.
+pyrethroides) and gas phase insecticides (e.
+g.
+organophosphate) are generally less suitable for mixing with Invite was only partly supported by our results.
+The lack of improvement in the efficacy of Spinosad when mixed with Invite is especially puzzling.
+Neonicotinoids and indoxacarb are suitable for mixing with Invite, especially in terms of delaying the selection for resistance.
+Carbamates, e.
+g.
+carbaryl (not analyzed in this study), were successfully applied in mixtures with cucurbitacins.
+   The results indicate that biological factors such as gender, age and pre-contact have a strong effect on the attractiveness of Invite.
+In the experiments, the strength of the response of young beetles to the bitter agents was greater than that of old beetles and that of females less intense than that of males, and pre-contact markedly reduced the stimulatory effect for both sexes.
+These results and the findings of trials using D.
+virgifera virgifera caught in Austrian maize fields before and after applications of insecticide-Invite mixtures indicate that the attractiveness of cucurbitacins varies and is subject to selection.
+If this control strategy is applied extensively then it is likely that this beetle will develop resistance to the bitter agents.
+Thus, it is important to monitor the resistance of the beetles to these substances.

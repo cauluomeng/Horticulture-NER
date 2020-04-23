@@ -1,0 +1,13 @@
+Generation and screening for nonpathogenic mutants is a popular tool for identifying pathogenicity-related genes.
+Successful application of this technique for plant fungal pathosystems requires reliable and rapid screening procedures.
+This study reports on the development of a rapid in vitro bioassay enabling large-scale screening and isolation of nonpathogenic mutants of Colletotrichum gloeosporioides and C.
+acutatum on strawberry seedlings.
+Inoculation was carried out on strawberry seedlings at two different developmental stages: 12-week-old (young) and 15-week-old (older) seedlings.
+A comparison was made between two inoculation techniques, (i) foliar dip and (ii) root soak, at two incubation temperatures (19 and 25degreesC).
+Mortality of young seedlings was observed 4 days after inoculation with both species, reaching 50% within 10 days, using both techniques at 25degreesC.
+However, mortality of older seedlings was delayed by 4 days compared with that in the young seedlings when using the root-soak method.
+Disease development decreased in young and older seedlings at the lower temperature.
+This method also was reliable in determining pathogenicity of the cucurbit-specific C.
+magna that did not cause disease symptoms on strawberry by either inoculation method.
+The proposed method enabled screening of more than 980 restriction enzyme-mediated integration mutants resulting in a selection of five reduced-virulence isolates.
+Initial characterization of some of these mutants revealed large differences in germination and appressorial formation compared with pathogenic isolates.

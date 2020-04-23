@@ -1,0 +1,8 @@
+Genotype x environment interaction (G x E) can lead to differences in the performance of genotypes across environments.
+A G x E analysis can be used to analyze the stability of genotypes and the value of test locations.
+We developed a SAS program (SASG x E) that calculates univariate stability statistics, descriptive statistics, pooled and yearly ANOVA, genotypic and location variation, cluster analysis for location, and correlations among stability parameters.
+Univariate stability statistics calculated are Wricke's ecovalence (W-i(2)), Shukla's variance (sigma(2)(i)), Lin and Binns cultivar superiority measure (P-i), Francis and Kannenberg coefficient of variation (CVi), Kang's yield stability statistic (YSi), Perkins and Jinks beta (beta(i)), regression slope (b(i)), and deviation from regression (S-d(2)).
+Other output includes input files for analyzing stability in R soft ware using AMMI and GGEBiplotGUI packages.
+SASG x E uses SAS programming language features (macro and structured query language [SQL]) for repetitive tasks, making it efficient and flexible for the simultaneous analysis of multiple dependent variables.
+SASG x E is free and intended for use by scientists studying the performance of polygenic or quantitative traits in multiple environments.
+The SASG x E program is presented here and is also available at http://cuke.hort.ncsu.edu/cucurbit/wehner/soft ware.html.

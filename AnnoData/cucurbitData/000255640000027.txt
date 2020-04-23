@@ -1,0 +1,7 @@
+Our objectives were to screen melon (Cucumis melo L.) breeding lines and cultivars for resistance to cucurbit yellow stunting disorder virus (CYSDV) in four different environments, detect virus from dsRNA extracts of infected leaves of lines and cultivars using RT-PCR with the previously developed specific primer pair for CYSDV, and identify RAPD markers associated with QTL for resistance to CYSDV in two F-2 melon populations under natural and controlled-inoculation conditions.
+Regardless of environments, TGR1551 consistently showed slight yellowing symptoms on lower leaves, whereas it showed no disease symptoms on upper leaves.
+A PCR product was obtained from the lower leaves of TGR1551, but no PCR product was produced from the upper leaves, indicating its moderate resistance to CYSDV.
+Continuous frequency distributions for reactions to CYSDV were observed in the two F2 populations in natural and controlled-inoculation conditions indicating quantitative inheritance of the reactions to CYSDV.
+Eight RAPD markers were found to be significantly associated with QTL for CYSDV resistance in natural and controlled-inoculation conditions based on simple linear regression.
+Significant associations of markers OOM15.600 and OAU03.700 from TGR1551 with CYSDV resistance were consistently expressed in our populations under natural and controlled-inoculation conditions, and accounted for 7% and 25% of the phenotypic variation.
+These markers linked to QTL for CYSDV resistance could be utilized in the development of resistant cultivars or breeding lines.

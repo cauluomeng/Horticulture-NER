@@ -1,0 +1,14 @@
+Watermelon production is often limited by powdery mildew in areas with a large daily temperature range.
+Development of resistant watermelon cultivars can protect against powdery mildew; however, little is known about the characteristics of its causal agents.
+Here, we identified the genus and race of a causal pathogen of powdery mildew in Ansung province of South Korea, and developed molecular markers for the generation of resistant watermelon cultivars.
+The causal pathogen was determined to be Podosphaera xanthii based on multiple sequence alignments of internal transcribed spacers (ITS) of rDNA.
+The physiological race was identified as 1W, and the Ansung isolate was named P xanthii 1W-AN.
+Following inoculation with the identified P.
+xanthii 1W-AN, we found inheritance of the resistant gene fitting a single dominant Mendelian model in a segregated population ('SBA' x PI 254744).
+To develop molecular markers linked to fungus-resistant loci, random amplified polymorphic DNA (RAPD) was accomplished between DNA pooled from eight near-isogenic lines (NILs; BC4F6), originated from PI 254744 and susceptible 'SBB' watermelon.
+After sequencing bands from RAPD were identified in all eight NILs and PI254744, 42 sequence-characterized amplified region (SCAR) markers were developed.
+Overall, 107 F-2 plants derived from BC4F6 NIL-1 X 'SBB' were tested, and one SCAR marker was selected.
+Sequence comparison between the SCAR marker and the reference watermelon genome identified three Nco I restriction enzyme sites harboring a single nucleotide polymorphism, and codominant cleavage-amplified polymorphic site markers were subsequently developed.
+A CAPS marker was converted to a high-resolution melt (HRM) marker, which can discriminate C/T SNP (254PMR-HRM3).
+The 254PMR-HRM3 marker was evaluated in 138 F2:3 plants of a segregating population ('SBA' X PI254744) and was presumed to be 4.3 cM from the resistance locus.
+These results could ensure P xanthii 1W-AN resistance in watermelon germplasm and aid watermelon cultivar development in marker-assist breeding programs.

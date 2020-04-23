@@ -1,0 +1,9 @@
+P>Based on the high density of plasmodesmata interconnecting the intermediary cells and their neighboring phloem parenchyma or bundle-sheath cells, and based on the insensitivity to the sucrose transport inhibitor p-chloromercuribenzenesulfonic acid (PCMBS), cucurbits have been concluded to be symplastic loaders.
+In the present study, we identified and characterized the full-length sequence of sucrose transporter gene (CmSUT1) from melon (Cucumis melo L.
+cv.
+Hale's best jumbo).
+In vitro experiments confirmed that the identified gene product has sucrose transporter activity in baker's yeast.
+Healthy and cucumber mosaic virus (CMV)-infected melon plants were employed to examine sucrose transporter activity in planta.
+Pretreatment with PCMBS inhibited loading of newly fixed 14CO(2) into minor veins of CMV-infected plants.
+Moreover, CMV infection caused significant increase in CmSUT1 transcripts expression, mainly in vascular bundles of minor veins, which was associated with elevated sucrose content in phloem sap collected from source-leaf petioles.
+We propose that cucurbit plants contain the machinery for apoplastic phloem loading and that CMV infection causes a quantitative shift in the mode by which photoassimilates are loaded into the sieve tube.

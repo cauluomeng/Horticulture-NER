@@ -1,0 +1,15 @@
+Zucchini yellow mosaic virus (ZYMV) isolates from cucurbit crops growing in northern Australia and East Timor were investigated to establish possible genetic connectivity between crop viruses in Australia and Southeast Asia.
+Leaves from symptomatic plants of pumpkin (Cucurbita moschata and C.
+maxima), melon (Cucumis melo), and zucchini (C.
+pepo) were sampled near Broome, Darwin, and Kununurra in northern Australia.
+Leaves from symptomatic plants of cucumber (C.
+sativus) and pumpkin sampled in East Timor were sent to Australia on FTA cards.
+These samples were subjected to high-throughput sequencing and 15 complete new ZYMV genomic sequences obtained.
+When their nucleotide sequences were compared with those of 48 others from GenBank, the East Timorese and Kununurra sequences (three per location) and single earlier sequences from Singapore and Reunion Island were all in major phylogroup B.
+The seven Broome and two Darwin sequences were in minor phylogroups I and respectively, within larger major phylogroup A.
+When coat protein (CP) nucleotide sequences from the 15 new genomes and 47 Australian isolates sequenced previously were compared with 331 other CP sequences, the closest genetic match for a sequence from Kununurra was with an East Timorese sequence (95.5% nucleotide identity).
+Analysis of the 63 complete genomes found firm recombination events in 12 (75%) and 2 (4%) sequences from northern Australia or Southeast Asia versus the rest of the world, respectively; therefore, the formers' high recombination frequency might reflect adaptation to tropical conditions.
+Both parents of the recombinant Kununurra sequence were East Timorese.
+Phylogenetic analysis, nucleotide sequence identities, and recombination analysis provided clear evidence of genetic connectivity between sequences from Kununurra and East Timor.
+Inoculation of a Broome isolate to zucchini and watermelon plants reproduced field symptoms observed in northern Australia.
+This research has important biosecurity implications over entry of damaging viral crop pathogens not only into northern Australia but also moving between Australia's different agricultural regions.

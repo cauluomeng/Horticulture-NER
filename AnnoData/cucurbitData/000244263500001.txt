@@ -1,0 +1,11 @@
+Despite the importance of field-grown cucurbits in Spain, only limited information is available about the impact of disease on their production.
+During the 2003 and 2004 growing seasons, systematic surveys were carried out in open field melon (Cucumis melo) and squash (Cucurbita pepo) crops of Murcia Province (Spain).
+The fields were chosen with no previous information regarding their sanitation status, and samples were taken from plants showing viruslike symptoms.
+Samples were analyzed using molecular hybridization to detect Beet pseudo-yellows virus (BPYV), Cucurbit aphid-borne yellows virus (CABYV), Cucumber mosaic virus (CMV), Cucumber vein yellowing virus (CVYV), Cucurbit yellow stunting disorder virus (CYSDV), Melon necrotic spot virus (MNSV), Papaya ringspot virus (PRSV), Watermelon mosaic virus (WMV), and Zucchini yellow mosaic virus (ZYMV).
+We collected 924 samples from 48 field plots.
+Out of these, almost 90% were infected by at least one of the viruses considered, usually CABYV, which was present in 83 and 66% of the melon and squash samples, respectively.
+In the case of melon, CYSDV, BPYV, and WMV followed CABYV in relative importance, with frequencies of around 20 to 30%, while in squash, CVYV and BPYY showed frequencies between 28 and 21%.
+The number of multiple infections was very high, 66 and 56% of the infected samples of melon and squash, respectively, being afflicted.
+CABYV was present in all multiple infections.
+The high incidence of CABYV in single and multiple infections suggests that this virus may well become an important threat for cucurbit crops in the region.
+Restriction fragment length polymorphism (RFLP) analysis revealed that CABYV isolates can be grouped into two genetic types, both of which seemed to be present during the 2003 epidemic episode, but only one of the types was found in 2004.

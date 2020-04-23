@@ -1,0 +1,10 @@
+A weather-based simulation model, called Powdery Mildew of Cucurbits Simulation (POMICS), was constructed to predict fungicide application scheduling to manage powdery mildew of cucurbits.
+The model was developed on the principle that conditions favorable for Podosphaera xanthii, a causal pathogen of this crop disease, generate a number of infection cycles in a single growing season.
+The model consists of two components that (i) simulate the disease progression of P.
+xanthii in secondary infection cycles under natural conditions and (ii) predict the disease severity with application of fungicides at any recurrent disease cycles.
+The underlying environmental factors associated with P.
+xanthii infection were quantified from laboratory and field studies, and also gathered from literature.
+The performance of the POMICS model when validated with two datasets of uncontrolled natural infection was good (the mean difference between simulated and observed disease severity on a scale of 0 to 5 was 0.02 and 0.05).
+In simulations, POMICS was able to predict high-and low-risk disease alerts.
+Furthermore, the predicted disease severity was responsive to the number of fungicide applications.
+Such responsiveness indicates that the model has the potential to be used as a tool to guide the scheduling of judicious fungicide applications.

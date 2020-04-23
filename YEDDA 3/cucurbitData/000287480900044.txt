@@ -1,0 +1,11 @@
+Muskmelon (Cucumis melo L.) is a warm-season, frost-sensitive crop that germinates poorly at low temperatures.
+The cold-sensitive cultivar 'Noy Yizre'el' (NY) and the cold-tolerant cultivar 'Persia 202' (P-202) were compared at 15 and 25 degrees C to determine how seed-coat anatomy and O-2 uptake affected low-temperature germinability.
+A Clark-type oxygen electrode was used to measure the O-2 uptake of intact and decoated seeds through the gas phase.
+Scanning electron microscopy revealed pores on the surface and in the cross sections of seed coats of P-202 but not NY.
+Both genotypes germinated at 25 degrees C, but only intact P-202 and decoated seeds of both genotypes germinated at 15 degrees C.
+After 17 h of imbibition at 25 degrees C, O-2 uptake was 47% greater for intact seeds of P-202 compared with those of NY.
+Removing the seed coat increased O-2 uptake by 37 and 58% for P-202 and NY, respectively, after 17 h of imbibition.
+At 15 degrees C, the O-2-uptake rate of intact P-202 seeds plateaued at a level 40% higher than that of NY after 80 h of imbibition.
+Removing the seed coat before imbibition at 15 degrees C increased the O-2 uptake of P-202 and NY by 50 and 57%, respectively, compared with intact seeds.
+The seed coats of both cultivars restricted O-2 uptake, but NY had a lower rate of uptake compared with P-202 with or without the seed coat.
+The poor germination of NY at lower temperatures was related to lower O-2 uptake by the embryo and to the restriction of O-2 uptake by the seed coat.

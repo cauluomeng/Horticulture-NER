@@ -1,0 +1,12 @@
+Fusarium wilt caused by Fusarium oxysporum f.sp.melonis (FOM) is a devastating disease of melon worldwide.
+Pathogenicity tests performed with F.oxysporum isolates obtained from Italian melon-growing areas allowed to identify thirty-four FOM isolates and the presence of all four races.
+The aims of this work were to examine genetic relatedness among FOM isolates by race determination and to perform phylogenetic analyses of identified FOM races including also other formae speciales of F.oxysporum of cucurbits.
+Results showed that FOM race 1,2 was the most numerous with a total of eighteen isolates, while six and nine isolates were identified as race 0 and 1, respectively, and just one isolate was assigned to race 2.
+Phylogenetic analysis was performed by random amplified polymorphic DNA (RAPD) profiling and by translation elongation factor-1 (TEF-1) sequencing.
+The analysis of RAPD profiles separated FOM races into two distinct clades.
+Clade 1, which included races 0, 1 and 1,2, was further divided into subclade a' which grouped almost all race 1,2 isolates, and into subclade b' which included race 0 and 1 isolates.
+Clade 2 comprised only race 2 isolates.
+The phylogenetic analysis based on TEF-1 separated FOM from the other formae speciales of F.oxysporum.
+Also with TEF-1 analysis, FOM races 0, 1 and 1,2 isolates grouped in one single clade clearly separated from FOM race 2 isolates which grouped closer to F.oxysporum f.sp.cucumerinum.
+RAPD technique was more effective than TEF-1 in differentiating FOM race 1,2 isolates from those belonging to the closely related races 0 and 1.
+Both phylogenetic analyses supported the close relationship between the three different FOM races which might imply the derivation from one another and the different origin of FOM race 2.

@@ -1,0 +1,10 @@
+Three trials were conducted to evaluate the growth and yield responses of summer squash (Cucurbita pepo L.) to N rates.
+Preplant fertilizer rates were 50,100,150,200,250, and 300 lb/acre of N.
+In Ruskin, summer squash plant vigor increased linearly with N rate.
+However, this constant increase in vigor did not reflect on total yield, which sharply increased between 50 and 100 lb/acre of N, remaining stable afterwards.
+In Balm, a linear equation characterized the effect of N rates on plant vigor.
+However, this response was not expressed as increased total yield, since there was no significant N rate effect.
+At all N rates and in both locations, petiole sap N-NO3 readings at 8 weeks after treatment (WAT) ranged from approximately 700 to 2000 ppm, which are within sufficiency levels for the crop.
+These results indicated that between 50 and 100 lb/acre of N could be sufficient to maximize summer squash production, depending on potential amounts of N in the soil from previous growing seasons.
+In this particular case, the estimated N release (ENR) potential of Ruskin soils, which was determined through wet-ashing of the organic matter, was only 25 lb/acre, whereas the ENR in the two Balm sites were 45 and 75 lb/acre of N.
+It is suggested, as an appropriate nutrient management practice, perform soil analysis prior to planting summer squash as a double crop to estimate residual N amounts and consequently adjusting N application rates.

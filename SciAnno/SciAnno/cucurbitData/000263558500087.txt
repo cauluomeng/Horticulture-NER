@@ -1,0 +1,4 @@
+In this study we describe the inhibitory effect exerted by developing cucumber fruits on later-developing ovaries.
+Such pollinated ovaries do not set fruit but do not degenerate readily, remaining in a "stand-by" state that can be reversed when older fruits are removed.
+An increase in fruit set and decrease in inhibition was obtained by exogenous gibberellin and cytokinin treatment, and to a lesser extent by auxin.
+A decrease in transcript levels of genes expressed during fruit set was apparent in inhibited ovaries.

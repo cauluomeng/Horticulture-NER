@@ -1,0 +1,7 @@
+Three aphid-transmitted viruses belonging to the Polerovirus genus, Beet mild yellowing virus (BMYV), Beet chlorosis virus (BChV), and Beet western yellows virus (BWYV), have been described as pathogens of sugar beet.
+We present the complete biological, serological, and molecular characterization of an American isolate of Beet western yellows virus (BWYV-USA), collected from yellow beet leaves.
+The biological data suggested that BWYV-USA displayed a host range similar to that of BMYV, but distinct from those of BChV and the lettuce and rape isolates of Turnip yellows virus.
+The complete genomic RNA sequence of BWYV-USA showed a genetic organization and expression typical of other Polerovirus members.
+Comparisons of deduced amino acid sequences showed that PO and the putative replicase complex (P1-P2) of BWYV-USA are more closely related to Cucurbit aphid-borne yellows virus (CABYV) than to BMYV, whereas alignments of P3, P4, and P5 showed the highest homology with BMYV.
+Intraspecific and interspecific phylogenetic analyses have suggested that the BWYV-USA genome may be the result of recombination events between a CABYV-Iike ancestor contributing open reading frame (ORF) 0, ORF 1, and ORF 2, and a beet Polerovirus progenitor providing the 3' ORFs, with a similar mechanism of speciation occurring for BMYV in Europe.
+Results demonstrate that BWYV-USA is a distinct species in the Polerovirus genus, clarifying the nomenclature of this important group of viruses.

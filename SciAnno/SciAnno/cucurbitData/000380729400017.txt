@@ -1,0 +1,9 @@
+BACKGROUNDDespite being of great importance to crop protection, the disadvantages of intensive and inappropriate use of pesticides have stimulated the search for more selective and less harmful agrochemicals.
+Thus, we have evaluated the effectiveness of 16 synthetic molecules (phthalides and precursors) to control the melonworm Diaphania hyalinata, a key pest in cucurbit crops of economic importance in Brazil.
+The selectivity to beneficial organisms Solenopsis saevissima and Tetragonisca angustula and the phytotoxicity to Cucumis sativus of the promising insecticides were also assessed.
+   RESULTSIn the screening assay, compounds 1 and 6 provided 91 and 88% mortality of the melonworm.
+Compound 1 presented higher toxicity (median lethal dose LD50 = 15.99 mu mol g(-1)) and higher speed on pest control (median survival time LT50 = 420 min) than compound 6 (LD50 = 44.51 mu mol g(-1) and LT50 = 840 min).
+Both compounds inhibited less than 11% of host-plant growth and caused 36 and 93% mortality of predator and pollinator respectively.
+   CONCLUSIONAmong the tested compounds, only compounds 1 and 6 were effective in melonworm control.
+Both compounds presented no considerable phytotoxicity and were selective to predator but non-selective to pollinator, which enables their application for pest control if the exposure of the bees is minimised.
+(c) 2015 Society of Chemical Industry

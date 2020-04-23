@@ -1,0 +1,8 @@
+Zucchini squash is host to Cucurbit yellow stunting disorder virus (CYSDV), a member of the genus Crinivirus, and Cucumber vein yellowing virus (CVYV), a member of the genus Ipomovirus, both transmitted by the whitefly Bemisia tabaci.
+Field observations suggest the appearance of new symptoms observed on leaves of zucchini squash crops when both viruses were present.
+When infected during controlled experiments with CYSDV only, zucchini plants showed no obvious symptoms and the virus titer decreased between 15 and 45 days postinoculation (dpi), after which it was no longer detected.
+CVYV caused inconspicuous symptoms restricted to vein clearing on some of the apical leaves and the virus accumulated progressively between 15 and 60 dpi.
+Similar accumulations of virus followed single inoculations with the potyvirus Zucchini yellow mosaic virus (ZYMV) and plants showed severe stunting, leaf deformation, and mosaic yellowing.
+However, in mixed infections with CYSDV and CVYV, intermediate leaves showed chlorotic mottling which evolved later to rolling, brittleness, and complete yellowing of the leaf lamina, with exception of the veins.
+No consistent alteration of CVYV accumulation was detected but the amounts of CYSDV increased approximate to 100-fold and remained detectable at 60 dpi.
+Such synergistic effects on the titer of the crinivirus and symptom expression were not observed when co-infected with ZYMV.

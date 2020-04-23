@@ -1,0 +1,11 @@
+Key messageSix QTLs were associated with affected leaf area in response to inoculation with Acidovorax citrulli in a recombinant inbred line population of Citrullus amarus.AbstractAcidovorax citrulli, the causal agent of bacterial fruit blotch (BFB) of cucurbits, has the potential to devastate production of watermelon and other cucurbits.
+Despite decades of research on host-plant resistance to A.
+citrulli, no germplasm has been found with immunity and only a few sources with various levels of BFB resistance have been identified, but the genetic basis of resistance in these watermelon sources are not known.
+Most sources of resistance are plant introductions of Citrullus amarus (citron melon), a closely related species that crosses readily with cultivated watermelon (Citrullus lanatus L.).
+In this study, we evaluated a recombinant inbred line population (N=200), derived from a cross between BFB-resistant (USVL246-FR2) and BFB-susceptible (USVL114) C.
+amarus lines, for foliar resistance to A.
+citrulli in three replicated greenhouse trials.
+We found the genetics of BFB resistance to be complicated by strong environmental influence, low heritability and significant genotype-by-environment interactions.
+QTL mapping of affected leaf area identified six QTL that each explained between 5 and 15% of the variation in BFB resistance in the population.
+This study represents the first identification of QTL associated with resistance to A.
+citrulli in any cucurbit.

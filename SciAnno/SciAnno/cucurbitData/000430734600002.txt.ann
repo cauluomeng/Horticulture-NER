@@ -1,0 +1,11 @@
+Infection risk models of [$downy mildew#Virus*] of [$cucumber#Plant*] caused by [@Pseudoperonospora cubensis#Virus*] were evaluated for their performance in predicting the [$infe#Plant*]ction risk of [$squash #Plant*]and [$cantaloupe#Plant*] plants under field conditions.
+Experiments were conducted from 2012 to 2014 in Clayton, NC and Charleston, SC, where disease-free potted plants were exposed to weather conditions during a 24- and 48-h period (hereafter 24- and 48-h models, respectively) within a plot with naturally occurring inoculum.
+Exposed plants were subsequently placed in a growth chamber where they were monitored for disease symptoms, which was indicative of a successful infection.
+Disease severity was assessed after 7 days as the proportion of leaf area with disease symptoms.
+Two predictor variables, day temperature and hours of relative humidity >80% during each exposure were used as inputs to generate model predictions that were compared with observed data.
+The threshold probability on the receiver operating characteristic (ROC) curve that minimized the overall error rate for the 24-h model was 0.85 for both [$squash #Plant*]and [$cantaloupe#Plant*].
+The 24-h model was consistently more accurate than the 48-h model in predicting the infection risk for the two hosts.
+The accuracy of the 24-h model as estimated using area under ROC curie ranged from 0.75 to 0.81, with a correct classification rate ranging from 0.69 to 0.74 across the two hosts.
+Specificity rates for the model ranged from 0.81 to 0.84, while the sensitivity rates ranged from 0.58 to 0.67.
+Optimal decisions thresholds (Par) developed based on estimates of economic damage and costs of management showed that Par was dependent on the probability of disease occurrence, with the benefit of using the 24-h model for making management decisions being greatest at low levels of probability of disease occurrence.
+This 24-h model, previously developed using [$cucumber#Plant*] as the host, resulted in accurate estimates of the daily infection risk of [$squash #Plant*]and [$cantaloupe#Plant*] and could potentially be useful when incorporated into a decision support tool to guide fugicide applications to manage [$downy mildew#Virus*] in these other [$cucurbit #Plant*]host types.

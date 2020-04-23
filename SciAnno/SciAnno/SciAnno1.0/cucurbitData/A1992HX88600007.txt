@@ -1,0 +1,8 @@
+The nonspecificity of pathogen-induced systemic acquired resistance (SAR) of tobacco, cucurbits, and other plants against plant pathogens has led to speculation that cross-resistance might also be afforded to arthropod herbivores.
+However, we found that inoculation of the lower leaves of tobacco (Nicotiana tabacum) with tobacco mosaic virus (TMV) had no effect on population growth of tobacco aphids (Myzus nicotianae) reared on upper leaves, for which SAR to TMV was active.
+Newly hatched tobacco hornworms (Manduca sexta) were reared to pupation on upper leaves from TMV-inoculated or control plants.
+Although larval weight gain during the first week was somewhat lower on induced plants in some tests, there were no significant effects on duration of development to pupation or mean pupal weight.
+In reciprocal tests, previous feeding damage by M.
+sexta did not induce SAR to TMV.
+However, reproduction of tobacco aphids was reduced on intact leaves of hornworm-damaged plants in two of four trials.
+These findings suggest the absence of strong, reciprocal interactions in response to induction by pathogens or herbivores and that TMV-activated SAR of tobacco is unlikely to provide significant cross-protection from these arthropod herbivores in the field.

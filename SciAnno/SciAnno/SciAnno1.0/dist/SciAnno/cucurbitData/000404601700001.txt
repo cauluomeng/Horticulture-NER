@@ -1,0 +1,9 @@
+Drought is one of the most prevalent limiting factors causing considerable losses in crop productivity, inflicting economic as well as nutritional insecurity.
+One of the greatest challenges faced by the scientific community in the next few years is to minimize the yield losses caused by drought.
+Drought resistance is a complex quantitative trait controlled by many genes.
+Thus, introgression of drought resistance traits into high yielding genotypes has been a challenge to plant breeders.
+Vegetable grafting using rootstocks has emerged as a rapid tool in tailoring plants to better adapt to suboptimal growing conditions.
+This has induced changes in shoot physiology.
+Grafting applications have expanded mainly in Solanaceous crops and cucurbits, which are commonly grown in arid and semi-arid areas characterized by long drought periods.
+The current review gives an overview of the recent scientific literature on root-shoot interaction and rootstock-driven alteration of growth, yield, and fruit quality in grafted vegetable plants under drought stress.
+Further, we elucidate the drought resistance mechanisms of grafted vegetables at the morpho-physiological, biochemical, and molecular levels.

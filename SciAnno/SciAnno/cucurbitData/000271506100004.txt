@@ -1,0 +1,10 @@
+Understanding the mechanisms of Phytophthora capsici sporangial dissemination is paramount to understanding epidemic initiation and development.
+Direct laboratory observations showed P.
+capsici sporangial dispersal occurred in water with capillary force, but did not occur in response to wind or a reduction in relative humidity.
+Atmospheric sporangial concentrations were monitored under field conditions using a volumetric spore sampler in a commercial cucurbit field and in an experimental setting where copious sporangia were continuously available in close proximity to the spore trap.
+Dispersal was infrequent (0.7% of total hours monitored) during sampling in a commercial field; 14 sporangia were detected during a 7.5-week sampling period.
+In the experimental field situation, dispersal occurred in 4.6% of the hours sampled and 438 sporangia were impacted onto tapes during a 7-week sampling period.
+Airborne sporangial concentrations were positively associated with rainfall at both sites, but not vapor pressure deficit.
+Furthermore, in the experimental field situation, wind speed was not significant in regression analysis.
+Wind speed was not measured in the commercial field.
+Hence, both direct laboratory observations and volumetric spore sampling indicate that dispersal of sporangia via wind currents is infrequent, and sporangia are unlikely to be naturally dispersed among fields by wind alone.

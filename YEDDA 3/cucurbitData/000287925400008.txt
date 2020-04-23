@@ -1,0 +1,4 @@
+Cucurbit chlorotic yellows virus (CCYV), a whitefly-transmitted virus, is a new member of the Crinivirus genus, that causes major economic losses in cucumber, melon and watermelon crops.
+To develop immunodiagnostic methods for CCYV, we produced an antiserum by immunizing rabbits with bacterially expressed recombinant coat protein of CCYV and detected CCYV from CCYV-infected plants with western blotting and immunoelectron microscopy.
+CCYV in extracts from infected plants was also readily detected by double antibody sandwich enzyme-linked immunosorbent assay with high sensitivity and specificity.
+A tissue blot immunoassay indicated that CCYV localizes in the phloem tissues of the petiole and is distributed in tiny spots within the leaf lamina.

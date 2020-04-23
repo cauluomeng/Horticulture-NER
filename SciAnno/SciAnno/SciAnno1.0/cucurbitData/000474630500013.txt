@@ -1,0 +1,19 @@
+Podosphaera xanthii and Golovinomyces orontii are the causal agents of cucurbit powdery mildew.
+The effect of temperature on conidial germination, infection and sporulation was studied under controlled conditions.
+Conidia were inoculated on cucumber leaf discs, and incubated at six constant temperatures (from 10 to 35 degrees C in 5 degrees C steps) for 3 to 72 h to evaluate conidial germination and infection, and for 6-15 days to evaluate sporulation intensity.
+Germination took place at all tested temperatures, but was close to zero at 35 degrees C.
+The longest germ tubes measured in this experiment were 141.74 mu m for the secondary germ tube of P.
+xanthii at 20 degrees C after 48 h of incubation, and 67.92 mu m for G.
+orontii for the primary germ tube at 20 degrees C after 48 h of incubation.
+The optimal temperatures for conidial germination, infection and sporulation were 24.4, 25.7 and 22.3 degrees C, respectively, for P.
+xanthii, and 17.9, 17.3 and 14.9 degrees C, respectively, for G.
+orontii.
+Equations were developed to describe conidial germination with a coefficient of determination (R-2) of 0.85 and 0.90 for P.
+xanthii and G.
+orontii, respectively.
+Infection equations resulted in R-2 of 0.94 and 0.93 for P.
+xanthii and G.
+orontii, respectively; and for sporulation, R-2 of 0.75 and 0.76 for P.
+xanthii and G.
+orontii respectively, as a function of temperature.
+These results can be used to develop models for the risk of cucurbit powdery mildew under field conditions.

@@ -1,0 +1,13 @@
+The use of heptachlor, a cyclodiene-type insecticide, has been banned since the 1970s because of its carcinogenic potential.
+However, its metabolite, heptachlor exo-epoxide (HEPX), has still been detected in the fruit of cucurbits produced in some areas.
+It is important to reduce the daily intake of HEPX contained in food.
+To address this issue, the effects of carbonaceous adsorbents on the uptake of HEPX from the soil by Cucurbita maxima Dutch.
+(winter squash) were investigated.
+Amorphous organic carbons, such as peat moss and wood chips, did not affect the concentration of HEPX in the soil solution or the amount present in the shoots.
+In contrast, relatively condensed carbon, such as activated carbons, decreased the concentration of HEPX in the soil solution and in the shoots.
+The uptake amount in the shoot was closely correlated with the concentration of HEPX in the soil solution, which suggests that its uptake by C.
+maxima depends on its concentration in the soil solution.
+Activated carbons did not affect the growth of C.
+maxima.
+Therefore, the application of activated carbon to soil contaminated with HEPX appears to be an effective method of reducing the uptake of HEPX by C.
+maxima.

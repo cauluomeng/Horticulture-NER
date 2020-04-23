@@ -1,0 +1,14 @@
+center dot The obligate biotrophic fungal pathogen Podosphaera xanthii is the main causal agent of powdery mildew in cucurbit crops all over the world.
+A major limitation of molecular studies of powdery mildew fungi (Erysiphales) is their genetic intractability.
+In this work, we describe a robust method based on the promiscuous transformation ability of Agrobacterium tumefaciens for reliable transformation of P.
+xanthii.
+   center dot The A.
+tumefaciens-mediated transformation (ATMT) system yielded transformants of P.
+xanthii with diverse transferred DNA (T-DNA) constructs.
+Analysis of the resultant transformants showed the random integration of T-DNA into the P.
+xanthii genome.
+The integrations were maintained in successive generations in the presence of selection pressure.
+   center dot Transformation was found to be transient, because in the absence of selection agent, the introduced genetic markers were lost due to excision of T-DNA from the genome.
+   center dot The ATMT system represents a potent tool for genetic manipulation of P.
+xanthii and will likely be useful for studying other biotrophic fungi.
+We hope that this method will contribute to the development of detailed molecular studies of the intimate interaction established between powdery mildew fungi and their host plants.

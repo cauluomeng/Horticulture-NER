@@ -1,0 +1,8 @@
+[@Zucchini#Plant*] ([$Cucurbita pepo L.#Plant*]) is a [$cucurbitaceous#Plant*] plant ranking high in economic importance among [$vegetable crops#Plant*] worldwide.
+Pathogen infections cause alterations in plants primary and secondary metabolism that lead to a significant decrease in [$crop#Plant*] quality and yield.
+Such changes can be monitored by remote and proximal sensing, providing spatial and temporal information about the infection process.
+Remote sensing can also provide specific signatures of disease that could be used in phenotyping and to detect a pest, forecast its evolution and predict [$crop#Plant*] yield.
+In this work, metabolic changes triggered by soft rot (caused by Dickeya dadantii) and[$ powdery mildew#Virus*] (caused by [$Podosphaera fusca#Virus*]) on [$zucchini#Plant*] leaves have been studied by multicolour fluorescence imaging and by thermography.
+The fluorescence parameter F520/F680 showed statistically significant differences between infected (with [@D.dadantii#Virus*] or [$P.fusca#Virus*]) and mock-control leaves during the whole period of study.
+Artificial neural networks, logistic regression analyses and support vector machines trained with a set of features characterising the histograms of F520/F680 images could be used as classifiers, discriminating between healthy and infected leaves.
+These results show the applicability of multicolour fluorescence imaging on plant phenotyping.

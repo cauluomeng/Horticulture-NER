@@ -1,0 +1,20 @@
+Cucurbits have been used widely to elucidate gibberellin (GA) biosynthesis.
+With the recent availability of the genome sequence for the economically important cucurbit Cucumis sativus, sequence data became available for all genes potentially involved in GA biosynthesis for this species.
+Sixteen cDNAs were cloned from root and shoot of 3-d to 7-d old seedlings and from mature seeds of C.
+sativus.
+Two cDNAs code for GA 7-oxidases (CsGA7ox1, and -2), five for GA 20-oxidases (CsGA20ox1, -2, -3, -4, and -5), four for GA 3-oxidases (CsGA3ox1, -2, -3, and -4), and another five for GA 2-oxidases (CsGA2ox1, -2, -3, -4, and 5).
+Their enzymatic activities were investigated by heterologous expression of the cDNAs in Escherichia coli and incubation of the cell lysates with C-14-labelled, D2-labelled, or unlabelled GA-substrates.
+The two GA 7-oxidases converted GA(12)-aldehyde to GA(12) efficiently.
+CsGA7ox1 converted GA(12) to GA(14), to 15 alpha-hydroxyGA(12), and further to 15 alpha-hydroxyGA(14).
+CsGA7ox2 converted GA(12) to its 12 alpha-hydroxylated analogue GA(111).
+All five GA 20-oxidases converted GA(12) to GA(9) as a major product, and to GA(25) as a minor product.
+The four GA 3-oxidases oxidized the C-19-GA GA(9) to GA(4) as the only product.
+In addition, three of them (CsGA3ox2, -3, and -4) converted the C-20-GA GA(12) to GA(14).
+The GA 2-oxidases CsGA2ox1, -2, -3, and -4 oxidized the C-19-GAs GA(9) and GA(4) to GA(34) and GA(51), respectively.
+CsGA2ox2, -3, and -4 converted GA(51) and GA(34) further to respective GA-catabolites.
+In addition to C-19-GAs, CsGA2ox4 also converted the C-20-GA GA(12) to GA(110).
+In contrast, CsGA2ox5 oxidized only the C-20 GA(12) to GA(110) as the sole product.
+As shown for CsGA20ox1 and CsGA3ox1, similar reactions were catalysed with 13-hydroxlyated GAs as substrates.
+It is likely that these enzymes are also responsible for the biosynthesis of 13-hydroxylated GAs in vivo that occur at low levels in cucumber.
+(C) 2013 Elsevier Ltd.
+All rights reserved.

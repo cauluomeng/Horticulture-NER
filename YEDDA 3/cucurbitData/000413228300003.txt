@@ -1,0 +1,19 @@
+Bacterial fruit blotch, caused by the gram-negative bacterium Acid-ovorax citrulli, is a serious economic threat to cucurbit crop production worldwide.
+A.
+citrulli strains can be divided into two genetically distinct groups, with group I strains infecting a range of cucurbit species and group II strains being predominantly associated with watermelon.
+Group I and II A.
+citrulli strains differ in their arsenal of type III secreted (T3S) effector proteins and we hypothesize that these effectors are critical for cucurbit host preference.
+However, the pathogenicity or virulence assays used for A.
+citrulli, including infiltration of seedling cotyledons and mature fruit rind tissues with cell suspensions and spray inoculation of seedlings, lack the sensitivity to consistently distinguish strains of the two groups.
+Here, we describe an immature, detached melon fruit assay based on 'Joaquin Gold' melon (Syngenta, Rogers Brand) that clearly indicates differences in host specificity between group I and II A.
+citrulli strains.
+Using this assay, four group I strains (M6, AAC213-52, AAC213-55, and XJL12) induced typical water-soaked lesions in melon fruit rind tissue 7 to 10 days after pinprick inoculation.
+In contrast, four group II strains (AAC00-1, AAC213-44, AAC213-47, and AAC213-48) did not induce water-soaked lesions on detached melon fruit rinds during the same period.
+These data suggest that group I A.
+citrulli strains have a specific capacity to infect immature Joaquin Gold melon fruit, whereas group II strains do not.
+Interestingly, this differential pathogenicity phenotype was not observed on foliar seedling tissues of the same melon cultivar, suggesting that host preference of A.
+citrulli strains is specific to immature fruit tissues.
+Using the immature melon fruit inoculation assay, a T3S system mutant of the group I A.
+citrulli strain, M6 (M6DhrcV), failed to induce water soaking.
+This indicates that T3S effectors are involved in A.
+citrulli cucurbit host preference, and that this assay is suitable for future studies of unique T3S effectors that distinguish group I and II strains.

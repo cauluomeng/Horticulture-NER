@@ -1,0 +1,13 @@
+Partial resistance to downy mildew (Pseudoperonospora cubensis) and complete resistance to powdery mildew (Podosphaera xanthii races 1, 2 3, and 5 and Golovinonqces cichoracearum race 1) were studied using a recombinant inbred line population between 'PI 124112' (resistant to both diseases) and 'Vedrantais' (Susceptible line).
+A genetic map of melon was constructed to tag these resistances with DNA markets.
+Natural and artificial inoculations of Pseudoperonosporo cubensis were performed and replicated in several locations.
+One major quantitative trait loci (QTL), pcXII.1.
+was consistently detected among the locations and explained between 12 to 38% of the phenotypic variation for Pseudoperonospora cubensis resistance.
+Eight other Pseudoperonospora cubensis resistance QTL were identified.
+Artificial inoculations were performed with several strains of four races of Podosphaera xanthii and one race of G.
+cichoracearum.
+Two independent major genes, PmV.1 and PmXII.1, were identified and shown to be involved in the simple resistance to powdery mildew.
+Three digemc epistatic interactions involving four loci were detected for two races of Podosphaera xanthii and one race of G.
+cichorocearum.
+Co-localization between PmV.1, resistance genes, and resistance genes homologues was observed.
+Linkage between the major resistance QTL to Pseudoperonospora cubensis, pcXII.1, and one of the two resistance genes to powdery mildew, PmXII.1, was demonstrated.

@@ -1,0 +1,13 @@
+'Candidatus Phytoplasma australasia' causes important damages to the Egyptian vegetable crop production.
+A prerequisite for controlling the different diseases it causes to eggplant, tomato and squash, is to trace its propagation pathways.
+To allow the differentiation of 'Ca.
+P.
+australasia' strains, a multilocus sequence analysis protocol was developed.
+Four conserved phytoplama genes namely tuf, secY, dnaK and dppA, were selected among the CDS of a 'Ca.
+P.
+aurantifolia' genome draft.
+The corresponding genes were PCR amplified from tomato, eggplant and squash collected in 2010 from the governorates Sharkia, Elmynia and Beni sueif, as well as from Catharanthus roseus periwinkles collected in 2013 from Kafrelsheikh governorate.
+Sequence comparisons showed no diversity among the Egyptian isolates of 'Ca.
+P.
+australasia' that also constitute a distinct cluster within the 16SrII-D taxonomic subgroup.
+This low diversity supports a common epidemiology for the different diseases affecting vegetable crops and periwinkle in Egypt and suggests that future investigations on insect vector should focus on polyphagous leafhoppers.

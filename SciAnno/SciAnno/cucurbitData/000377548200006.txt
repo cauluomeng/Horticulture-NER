@@ -1,0 +1,11 @@
+The objective of this study was to identify and characterize sequences from watermelon related to drought tolerant genes.
+In order to achieve this, publicly available Cucumis melo REB gene (Cme-DREB1) sequence was retrieved from NCBI database and gene-specific primers were synthesized.
+A fragment of 274 bp corresponding to DREB-like gene was amplified from genomic DNA of watermelon.
+PCR product was cloned in E.
+coli vector (pDrive) and validated through sequencing.
+The BLAST search showed 99 and 97% homology to CmeDREB1 gene and C.
+sativus DREB3-like (CsDREB3-like) gene, respectively.
+Furthermore, it showed 87 to 93% homology with rest of DREB genes available in the public database.
+Full length watermelon DREB-like gene (C.
+lanatus DREB-like, ClaDREB-like) was identified from cucurbit genomic database and investigated through in silico analysis.
+The intronless structural organization of ClaDREB-like gene was found with a conserved AP2/ERF domain.

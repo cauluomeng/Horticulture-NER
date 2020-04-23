@@ -1,0 +1,14 @@
+Zucchini yellow mosaic virus (ZYMV), Papaya ringspot virus - type W (PRSV-W) and Zucchini lethal chlorosis virus (ZLCV) cause important diseases on zucchini squash crops in Brazil.
+ZYMV and PRSV-W belong to the genus Potyvirus and are transmitted by aphids, whereas ZLCV belongs to Tospovirus and is transmitted by the thrips Frankliniella zucchini.
+These three viruses may occur simultaneously in the field, and the epidemiology of the corresponding diseases may be determined by interactions among viruses, hosts and vectors.
+In this work, the progress of the diseases caused by these viruses was studied over a temporal and geographic range for three planting seasons (PS).
+For the lethal chlorosis (ZLCV), a monomolecular model was found to be the best fit for the data, though only during the third PS.
+For data collected during the first two PS, the Gompertz model was found to fit the data best.
+The spatial distribution of disease indicated disease aggregation at the end of the crop cycle.
+For the yellow mosaic (ZYMV), the model that best fit in the 1st PS was the logistic and in the 2nd and 3rd PS was monomolecular.
+The spatial pattern of the disease was random when the disease incidence was low but aggregated when the disease incidence was high.
+The common mosaic (PRSV-W) showed the lowest incidence in all three PS.
+An exponential model was the best fit for data collected during all PS, and the spatial pattern of the disease was random.
+Interactions among the three viruses apparently did not result in changes in the epidemiology of the diseases.
+Removal of sources of inoculum and planting at an unfavourable time for reproduction of virus vectors are the two main measures recommended for the control of these diseases.
+The use of insecticide is indicated only for the control of the F.zucchini.

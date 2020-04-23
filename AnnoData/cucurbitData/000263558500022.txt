@@ -1,0 +1,5 @@
+In recent years there has been an effort towards the development of genomic resources in several cucurbit species, mainly in melon, cucumber and watermelon.
+The number of available sequences for these species in public databases has increased recently.
+This has allowed the design of microarrays for transcriptome analysis and the discovery of SNP markers for genotyping.
+Other genomic tools are also available in melon as BAC libraries, mutant populations and saturated genetic maps.
+Some international initiatives have emerged that will probably lead to the sequencing of the complete genomes of some cucurbit species during the next years.

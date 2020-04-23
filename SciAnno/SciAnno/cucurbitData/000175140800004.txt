@@ -1,0 +1,8 @@
+Epidemics of tomato yellow leaf curl disease (TYLCD) in the Dominican Republic in the early to mid-1990s resulted in catastrophic losses to processing tomato production.
+As part of an integrated management approach to TYLCD, the complete nucleotide sequence of a full-length infectious clone of an isolate of Tomato yellow leaf curl virus (TYLCV) from the Dominican Republic (TYLCV-[DO]) was determined.
+The TYLCV-[DO] genome was nearly identical in sequence (>97%) and genome organization to TYLCV isolates from Israel and Cuba.
+This established that TYLCV-[DO] is a bonafide TYLCV isolate (rather than a recombinant virus, such as isolates from Israel [Mild], Portugal, Japan, and Iran), and provided further evidence for the introduction of the virus from the eastern Mediterranean.
+A reduction in the incidence of TYLCV in the northern and southern processing tomato production areas of the Dominican Republic has been associated with the implementation of a mandatory 3-month whitefly host-free period (including tomato, common bean, cucurbits, eggplant, and pepper), Monitoring TYLCV levels in whiteflies, by polymerase chain reaction with TYLCV-specific primers, established that the incidence of TYLCV decreased markedly during the host-free period, and then gradually increased during the tomato-growing season.
+In contrast, TYLCV persisted in whiteflies and tomato plants in an area in which the host-free period was not implemented.
+Surveys for TYLCV reservoir hosts, conducted to identify where TYLCV persists during the host-free period, revealed symptomless infections in a number of weed species.
+The implications of these findings for TYLCV management in the Dominican Republic are discussed.

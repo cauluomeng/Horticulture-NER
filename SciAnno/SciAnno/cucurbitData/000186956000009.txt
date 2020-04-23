@@ -1,0 +1,5 @@
+The coat protein (CP) gene of Cucurbit yellow stunting disorder virus (CYSDV) was amplified by reverse transcription - polymerase chain reaction (RT-PCR).
+The amplicon,vas cloned in pGEM-T, sequenced and subcloned into a bacterial expression vector (pQE-31).
+The recombinant CYSDV CP was expressed as a fusion protein with an N-terminal hexa-histidine tag, purified by affinity chromatography yielding 8 mg native protein per liter of bacterial culture, and used as an antigen to produce CYSDV CP antiserum in a rabbit.
+The resulting antiserum was successfully assayed in tissue blot immunoassay TBIA), dot blot immunoassay (DBIA), indirect ELISA and DAS-ELISA, with a titer of about 10(3) for all methods.
+TBIA was very specific and showed the virus localization in the phloem tissue and is recommended for large-scale surveys.

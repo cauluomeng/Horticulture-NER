@@ -1,0 +1,8 @@
+The type VI protein secretion system (T6SS) is essential for the virulence of several Gram-negative bacteria.
+In this study, we identified a T6SS gene cluster in Acidovorax citrulli, a plant-pathogenic bacterium that causes bacterial fruit blotch (BFB) of cucurbits.
+One T6SS cluster, of approximately 25kb in length and comprising 17 genes, was found in the A.citrulliAAC00-1 genome.
+Seventeen A.citrulli mutants were generated, each with a deletion of a single T6SS core gene.
+There were significant differences in BFB seed-to-seedling transmission between wild-type A.citrulli strain, xjl12, and vasD, impK, impJ and impF mutants (71.71%, 9.83%, 8.41%, 7.15% and 5.99% BFB disease index, respectively).
+In addition, we observed that these four mutants were reduced in melon seed colonization and biofilm formation; however, they were not affected in virulence when infiltrated into melon seedling tissues.
+There were no significant differences in BFB seed-to-seedling transmission, melon tissue colonization and biofilm formation between xjl12 and the other 13 T6SS mutants.
+Overall, our results indicate that T6SS plays a role in seed-to-seedling transmission of BFB on melon.

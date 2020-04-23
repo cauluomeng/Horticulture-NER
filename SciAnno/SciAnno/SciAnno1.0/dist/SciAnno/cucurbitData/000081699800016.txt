@@ -1,0 +1,9 @@
+The geographic incidence and molecular variation of three whitefly-borne closteroviruses (lettuce infectious yellows virus [LIYV], cucurbit yellow stunting disorder virus [CYSDV], and beet pseudo-yellows virus [BPYV]) were studied in cucurbits collected from several distinct geographic locations.
+Of 498 samples analyzed, none were found to be infected by LIYV.
+Sixty-nine samples collected in the Middle East and Mediterranean Europe were found infected by CYSDV, and twelve samples from Crete and Italy were infected by BPYV.
+Reverse-transcription polymerase chain reaction of a portion of the heat shock protein 70 homolog coding region, followed by single-strand conformation polymorphism and nucleotide sequence analysis, was used to estimate the intra- and inter-isolate molecular variability.
+These analyses showed that each BPYV and CYSDV isolate was composed of a population of sequence variants with a nucleotide identity greater than 98%.
+CYSDV isolates could be divided into two divergent groups.
+Group I was only composed of isolates from Spain, Jordan, and Turkey, and group II isolates were predominantly found in Saudi Arabia.
+Nucleotide identity between isolates of the same group was greater than 99%, whereas identity between both groups was less than 92%.
+All BPYV isolates showed a nucleotide identity greater than 98%.

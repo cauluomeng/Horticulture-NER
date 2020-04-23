@@ -1,0 +1,23 @@
+We review half a century of research on Cucumis melo resistance to Aphis gossypii from molecular to field levels.
+The Vat gene is unique in conferring resistance to both A.
+gossypii and the viruses it transmits.
+This double phenotype is aphid clone-dependent and has been observed in 25 melon accessions, mostly from Asia.
+It is controlled by a cluster of genes including CC-NLR, which has been characterized in detail.
+Copy number polymorphisms (for the whole gene and for a domain that stands out in the LIR region) and single-nucleotide polymorphisms have been identified in the Vat cluster.
+The role of these polymorphisms in plant/aphid interactions remains unclear.
+The Vat gene structure suggests a functioning with separate recognition and response phases.
+During the recognition phase, the VAT protein is thought to interact (likely indirectly) with an aphid effector introduced during cell puncture by the aphid.
+A few hours later, several miRNAs are upregulated in Vat plants.
+Peroxidase activity increases, and callose and lignin are deposited in the walls of the cells adjacent to the stylet path, disturbing aphid behavior.
+In aphids feeding on Vat plants, Piwi-interacting RNA-like sequences are abundant and the levels of other miRNAs are modified.
+At the plant level, resistance to aphids is quantitative (aphids escape the plant and display low rates of reproduction).
+Resistance to viruses is qualitative and local.
+Durability of NLR genes is highly variable.
+A.
+gossypii clones are adapted to Vat resistance, either by introducing a new effector that interferes with the deployment of plant defenses, or by adapting to the defenses it triggered.
+Viruses transmitted in a non-persistent manner cannot adapt to Vat resistance.
+At population level, Vat reduces aphid density and genetic diversity.
+The durability of Vat resistance to A.
+gossypii populations depends strongly on the agro-ecosystem, including, in particular, the presence of other cucurbit crops serving as alternative hosts for adapted clones in fall and winter.
+At the crop level, Vat resistance decreases the intensity of virus epidemics when A.
+gossypii is the main aphid vector in the crop environment.

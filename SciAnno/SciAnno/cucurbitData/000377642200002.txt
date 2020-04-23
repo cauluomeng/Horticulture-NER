@@ -1,0 +1,11 @@
+Bacterial wilt is one of the most destructive diseases of cucurbits in the Midwestern and Northeastern United States.
+Although the disease has been studied since 1900, host colonization dynamics remain unclear.
+Cucumis- and Cucurbita-derived strains exhibit host preference for the cucurbit genus from which they were isolated.
+We constructed a bioluminescent strain of Erwinia tracheiphila (TedCu10-BL#9) and colonization of different cucurbit hosts was monitored.
+At the second-true-leaf stage, Cucumis melo plants were inoculated with TedCu10-BL#9 via wounded leaves, stems, and roots.
+Daily monitoring of colonization showed bioluminescent bacteria in the inoculated leaf and petiole beginning 1 day postinoculation (DPI).
+The bacteria spread to roots via the stem by 2 DPI, reached the plant extremities 4 DPI, and the plant wilted 6 DPI.
+However, Cucurbita plants inoculated with TedCu10-BL#9 did not wilt, even at 35 DPI.
+Bioluminescent bacteria were detected 6 DPI in the main stem of squash and pumpkin plants, which harbored approximately 104 and 101 CFU/g, respectively, of TedCu10-BL#9 without symptoms.
+Although significantly less systemic plant colonization was observed in nonpreferred host Cucurbita plants compared with preferred hosts, the mechanism of tolerance of Cucurbita plants to E.
+tracheiphila strains from Cucumis remains unknown.

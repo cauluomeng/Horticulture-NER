@@ -1,0 +1,18 @@
+Taconomy: Papaya ringspot virus (PRSV) is an aphid-transmitted plant virus belonging to the genus Potyvirus, family Potyviridae, with a positive sense RNA genome.
+PRSV isolates belong to either one of two major strains, P or W.
+The P strains infect both papaya and cucurbits whereas the W strains infect only cucurbits.
+   Geographical distribution: PRSV-P is found in all major papaya-growing areas.
+   Physical porperties: Virions are filamentous, non-enveloped and flexuous measuring 760-800 x 12 nm.
+Virus particles contain 94.5% protein and 5.5% nucleic acid.
+The protein component consists of the virus coat protein (CP), which has a molecular weight of about 36 kDa as estimated by Western blot analysis.
+Density of the sedimenting component in purified PRSV preparations is 1.32 g/cm(3) in CsCl.
+   Genome: The PRSV genome consists of a unipartite linear single-stranded positive sense RNA of 10 326 nucleotides with a 5' terminus, genome-linked protein, VPg.
+   Transmission: The virus is naturally transmitted via aphids in a non-persistent manner.
+Both the CP and helper component (HC-Pro) are required for vector transmission.
+This virus can also be transmitted mechanically, and is typically not seed-transmitted.
+   Hosts: PRSV has a limited number of hosts belonging to the families Caricaceae, Chenopodiaceae and Cucurbitaceae.
+Propagation hosts are: Carica papaya, Cucurbita pepo and Cucumis metuliferus cv.
+accession 2459.
+Local lesion assay hosts are: Chenopodium quinoa and Chenopodium amaranticolor.
+   Control: Two transgenic papaya varieties, Rainbow and SunUp, with engineered resistance to PRSV have been commercially grown in Hawaii since 1998.
+Besides transgenic resistance, tolerant varieties, cross-protection and other cultural practices such as isolation and rogueing of infected plants are used to manage the disease.

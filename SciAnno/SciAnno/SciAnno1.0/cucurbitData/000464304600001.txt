@@ -1,0 +1,12 @@
+While in most higher plants, including the model system Arabidopsis thaliana, the formation of lateral root primordia is induced in the elongation zone of the parental root, in seven plant families, including Cucurbitaceae, an alternative root branching mechanism is established such that lateral roots are initiated directly in the apical meristem of the parental root.
+In Arabidopsis, the transcription factor GATA23 and MEMBRANE-ASSOCIATED KINASE REGULATOR4 (MAKR4) are involved in the gene regulatory network of lateral root initiation.
+Among all marker genes examined, these are the earliest known marker genes up-regulated by auxin during lateral root initiation.
+In this study, putative functional orthologs of Arabidopsis GATA23 and MAKR4 were identified in cucumber (Cucumis sativus) and squash (Cucurbita pepo).
+Both cucurbits contained 26 genes encoding GATA family transcription factors and only one MAKR4 gene.
+Phylogenetic and transcriptional analysis of up-regulation by auxin led to the identification of GATA23 putative functional orthologs in Cucurbitaceae - CpGATA24 and CsGATA24.
+In squash, CpMAKR4 was up-regulated by naphthylacetic acid (NM) and, similar to MAKR4 in Arabidopsis, indole-3-butyric acid (IBA).
+A detailed analysis of the expression pattern of CpGATA24 and CpMAKR4 in squash roots from founder cell specification until emergence of lateral root primordia was carried out using promoter-fluorescent reporter gene fusions and confocal microscopy.
+Their expression was induced in the protoxylem, and then expanded to founder cells in the pericycle.
+Thus, while the overall expression pattern of these genes was significantly different from that in Arabidopsis, in founder cells their expression was induced in the same order as in Arabidopsis.
+Altogether, these findings suggest that in Cucurbitaceae the putative functional orthologs of GATA23 and MAKR4 might play a role in founder cell specification and primordium positioning during lateral root initiation.
+The role of the protoxylem in auxin transport as a trigger of founder cells specification and lateral root initiation is discussed.

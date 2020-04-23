@@ -1,0 +1,14 @@
+The fungal pathogen Didymella bryoniae causes gummy stem blight and black rot on a broad spectrum of cucurbits.
+However the substantial differences in susceptibility among Cucurbitaceae are not well studied.
+Susceptibility was characterized with muskmelon (Cucumis melo), watermelon (Citrullus lanatus), cucumber (Cucumis sativus), pumpkin (Cucurbita pepo), and zucchini (C.
+pepo).
+Lesion diameters on leaf disks inoculated with agar plugs were measured 7 days after inoculation, and the necrotized areas of leaf disks inoculated with conidial suspensions were measured 48 h after inoculation (hai).
+For each species, the number of trichomes was counted on 16 leaf pieces using a stereomicroscope.
+Lengths of C21 trichomes per species were measured.
+Polyphenol autofluorescence was recorded at 48 hai and quantified.
+Watermelon had the lowest trichome density and the shortest trichomes.
+Zucchini showed the highest trichome density, and pumpkin had the longest trichomes.
+Trichome density was negatively correlated with mean necrotized leaf area, and trichome length was highly negatively correlated with lesion diameter.
+Mean fluorescing area was correlated with lesion diameters and mean necrotized leaf area.
+This is the first study in which trichome morphology and polyphenol autofluorescence in inoculated cucurbit leaves were correlated with susceptibility to D.
+bryoniae.

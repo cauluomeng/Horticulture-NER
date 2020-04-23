@@ -1,0 +1,10 @@
+Gummy stem blight is a major disease of cucurbit crops caused by Didymella bryoniae (anamorph Phoma cucurbitacearum).
+Previously, we used random amplified polymorphic DNA (RAPD) profiles and specific PCR primers to sort a worldwide collection of isolates of D.
+bryoniae into two major genotypes, RAPD Group (RG) I and RG II.
+A recently developed real-time PCR assay for D.
+bryoniae specific only for isolates with the RG I genotype has limitations in practical disease diagnosis.
+The objective of the present study was to develop a new set of primers and Tay Man probe in conjunction with real-time PCR to detect both genotypes.
+This new Didymella detection system generated strong Ct values to a worldwide collection of D.
+bryoniae including 105 RG I, 13 RG II and 7 unassigned isolates.
+This broad spectrum and specific real-time PCR system could be used in routine seed and plant health diagnosis for D.
+bryoniae.

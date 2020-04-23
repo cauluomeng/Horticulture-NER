@@ -1,0 +1,8 @@
+Tomato leaf curl New Delhi virus (ToLCNDV) (family Geminiviridae, genus Begomovirus) is an important pathogen that severely affects tomato and cucurbits production.
+Original from the Indian Subcontinent, it has been recently introduced in Spain causing severe epidemics in cucurbit crops.
+ToLCNDV genome consists of two single-stranded circular DNA molecules, denominated DNA-A and DNA-B, of approximately 2.7 kb each.
+Partial dimeric DNA-A and DNA-B clones were constructed in a binary vector and used to agroinoculate zucchini (Cucurbita pepo 'Brillante') and pumpkin (Cucurbita moschata 'Avalon F1') plants.
+Symptoms were observed in plants of both species at 100 and 50% frequency for zucchini and pumpkin plants, respectively.
+First symptoms appeared 7 days post-inoculation, and they were clearly observed at 14 days post-inoculation.
+Visual observation was confirmed by molecular techniques, such as molecular hybridization and qPCR.
+This new ToLCNDV infectious clone, based on a Spanish isolate, constitutes a useful tool for basic and applied virology studies.

@@ -1,0 +1,11 @@
+During the 2007 growing season, melon (Cucumis melo) samples from the state of Guerrero in Mexico showing mosaie and other virus-like symptoms were collected for analysis.
+Electron microscopic examination of negatively stained leaf-dip extracts revealed the presence of abundant virus-like particles with features characteristic of the family Bunyavirdiae.
+No other viral particles were observed in these preparations.
+However, enzyme-linked immunosorbent assays (ELISAs) specific for the most common Tospovirus spp.
+gave negative results.
+Antibodies raised against purified nucleocapsids reacted specifically with the infected leaf extracts in Western blots and double-antibody sandwich ELISA.
+The viral RNA was used as a template for a cDNA library, and nucleotide sequence analysis identified cloned cDNAs representing sequences corresponding to the three Tospovirus genome segments.
+Sequence comparisons showed that the new virus had the highest similarity of Chrysanthemum stem necrosis virus (CSNV).
+Phylogenetic analysis of two genome regions confirmed that this virus, provisionally named Melon severe mosaie virus (MeSMV), is a previously undescribed Tospovirus sp.
+belonging to the "new world" clade of Tospovirus spp.
+An initial survey of various cucurbit crops in various states of Mexico confirmed the widespread occurrence of this virus.

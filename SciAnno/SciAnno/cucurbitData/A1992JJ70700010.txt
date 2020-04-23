@@ -1,0 +1,5 @@
+ Subpopulations of an isolate of Pseudoperonospora cubensis pathotype 5, which is virulent to both squash (Cucurbita pepo) and muskmelon (Cucumis melo), were maintained on each host for 18 generations.
+After each generation, each subpopulation was inoculated to both squash and muskmelon, and the subsequent sporulation rate on each host was monitored as an indicator of virulence.
+The subpopulation maintained on muskmelon showed a 99.7% reduction in sporulation rate on squash and a 226.1% increase in sporulation rate on muskmelon from generations five through 18.
+Sporulation on squash in this subpopulation returned to the original level after two generations of continuous culture on that host.
+This study illustrates the important effects of cucurbit host species in the selection of virulence factors that affect sporulation by this pathogen and provides insight into the occurrence of different pathotypes in cucurbit production areas from year to year.

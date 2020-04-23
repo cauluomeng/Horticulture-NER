@@ -1,0 +1,10 @@
+Cucurbit leaf crumple virus (CuLCrV) is a geminivirus transmitted by Bemisia tabaci (Gennadius) biotype B (SPW-B) and common in melons (Cucumis melo L.) planted from July through September in the desert southwestern United States.
+Symptoms include chlorotic leaf spots, leaf curling and crumpling, and interveinal yellowing, and plants may be stunted.
+Melon breeding line MR-1, and six plant introductions (Pls; PI 124111, PI 124112, PI 179901, PI 234607, PI 313970, and PI 414723) exhibited partial resistance to CuLCrV in naturally infected field tests and controlled inoculation greenhouse tests.
+PI 236355 was completely resistant in two greenhouse tests.
+Partially resistant plants exhibited chlorotic spots, or mild expression of other typical CuLCrV symptoms; all such plants were positive for presence of virus using polymerase chain reaction analysis with a CuLCrV-specific primer pair from the BC1 region.
+Genetic resistance to CuLCrV in melon was recessive.
+Field and greenhouse data from F-1, F-2, and backcrosses of the F-1 to 'Top Mark' and PI 313970 demonstrated a single, recessive gene for resistance to CuLCrV.
+Progenies from crosses of four partially resistant cultigens with 'Top Mark' were susceptible.
+Resistance in PI 313970 appeared to be allelic, with resistance in the other six cultigens based on F, data.
+The name cucurbit leaf crumple virus and symbol culcrv are proposed for this gene.

@@ -1,0 +1,33 @@
+CLADOSPORIUM-CUCUMERINUM; ARBITRARY PRIMERS;
+   FORMAE-SPECIALES; RESISTANCE GENES; MARKERS; RACE-1; WILT;
+   IDENTIFICATION; INHERITANCE
+AB A total of 106 isolates of Fusarium oxysporum obtained from diseased cucumber plants showing typical root and stem rot or Fusarium wilt symptoms were characterized by pathogenicity, vegetative compatibility, and random amplified polymorphic DNA (RAPD).
+Twelve isolates of other formae speciales and races of F: oxysporum from cucurbit hosts, three avirulent isolates of F: oxysporum, and four isolates of Fusarium spp.
+obtained from cucumber were included for comparison.
+Of the 106 isolates of F.
+oxysporum from cucumber, 68 were identified by pathogenicity as F: oxysporum f.
+sp.
+radicis-cucumerinum, 32 as F: oxysporum f.
+sp.
+cucumerinum, and 6 were avirulent on cucumber.
+Isolates of F.
+oxysporum f.
+sp.
+radicis-cucumerinum were vegetatively incompatible with F: oxysporum f.
+sp.
+cucumerinum and the other Fusarium isolates tested.
+A total of 60 isolates of F.
+oxysporum f.
+sp, radicis-cucumerinum was assigned to vegetative compatibility group (VCG) 0260 and 5 to VCG 0261, while 3 were vegetatively compatible with isolates in both VCGs 0260 and 0261 (bridging isolates).
+All 68 isolates of F: oxysporum f.
+sp.
+radicis-cucumerinum belonged to a single RAPD group.
+A total of 32 isolates of F: oxysporum f.
+sp.
+cucumerinum was assigned to eight different VCGs and two different RAPD groups, while 2 isolates were vegetatively self-incompatible.
+Pathogenicity, vegetative compatibility, and RAPD were effective in distinguishing isolates of F: oxysporum f.
+sp.
+radicis-cucumerinum from those of F: oxysporum f.
+sp.
+cucumerinum.
+Parsimony and bootstrap analysis of the RAPD data placed each of the two formae speciales into a different phylogenetic branch.

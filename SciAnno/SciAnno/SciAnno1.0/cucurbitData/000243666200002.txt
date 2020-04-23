@@ -1,0 +1,7 @@
+A novel whitefly-transmitted member of the family Potyviridae was isolated from a squash plant (Cucurbita pepo) with vein yellowing symptoms in Florida.
+The virus, for which the name Squash vein yellowing virus (SqVYV) is proposed, has flexuous rod-shaped particles of 840 nm in length.
+The experimental host range was limited to species in the family Cucurbitaceae, with the most dramatic symptoms observed in squash and watermelon, but excluded all tested species in the families Amaranthaceae, Apocynaceae, Asteraceae, Chenopodiaceac, Fabaceae, Malvaceae, and Solanaceae.
+The virus was transmitted by whiteflies (Bemisia tobaci) but was not transmitted by aphids (Myzus persicae).
+Infection by SqVYV induced inclusion bodies visible by electron and light microscopy that were characteristic of members of the family Potyviridae.
+Comparison of the SqVYV coat protein gene and protein sequences with those of recognized members of the family Potyviridae indicate that it is a novel member of the genus Ipomovirus.
+A limited survey revealed that SqVYV also was present in watermelon plants suffering from a vine decline and fruit rot recently observed in Florida and was sufficient to induce these symptoms in greenhouse-grown watermelon, suggesting that SqVYV is the likely cause of this disease.

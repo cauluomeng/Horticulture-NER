@@ -1,0 +1,17 @@
+Desbiez, C., Gal-On, A., Girard, M., Wipf-Scheibel, C., and Lecoq, H.
+2003.
+Increase in Zucchini yellow mosaic virus symptom severity in tolerant zucchini cultivars is related to a point mutation in P3 protein and is associated with a loss of relative fitness on susceptible plants.
+Phytopathology 93:1478-1484.
+   Zucchini yellow mosaic virus (ZYMV, Potyvirus) is a very damaging cucurbit virus worldwide.
+Interspecific crosses with resistant Cucurbita moschata have led to the release of "resistant" zucchini squash (C.
+pepo) F, hybrids.
+However, although the resistance is almost complete in C.
+moschata, the commercial C.
+pepo hybrids are only tolerant.
+ZYMV evolution toward increased aggressiveness on tolerant hybrids was observed in the field and was obtained experimentally.
+Sequence comparisons and recombination experiments revealed that a point mutation in the P3 protein of ZYMV was enough to induce tolerance breaking.
+Competition experiments were performed between quasi-isogenic wildtype, and aggressive variants of ZYMV distinguished by monoclonal antibodies.
+The aggressive mutants were more fit than wild-type strains in mixed infections of tolerant zucchini, but they presented a drastic fitness loss in mixed infections of susceptible zucchini or melon.
+Thus, the ability to induce severe symptoms in tolerant zucchini is related to a genetic load in susceptible zucchini, but also on other susceptible hosts.
+This represents the first quantitative study of the fitness cost associated with tolerance breaking for a plant virus.
+Thus, although easily broken, the tolerance might prove durable in some conditions if the aggressive variants are counterselected in susceptible crops.

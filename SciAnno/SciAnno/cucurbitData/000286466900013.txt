@@ -1,0 +1,6 @@
+Proteomic and transcriptomic analyses using the growing resources of genomic information have been applied to identification of macromolecules in exudates collected from phloem.
+Most of the analyses rely on collection of exudate following incisions made to the vasculature, but some limited data are available for exudates collected from excised aphid stylets.
+Species examined, to date, include a number of cereals (rice, barley, and wheat), a number of cucurbits, castor bean, members of the genus Lupinus, brassicas, and Arabidopsis.
+As many as 1,100 proteins, some hundreds of transcripts, and a growing number of small ribonucleic acids (RNAs), including micro-RNAs, have been identified across the species with a high degree of commonality.
+Questions relating to the nature and extent of contamination of sieve element contents with those of surrounding companion cells and nonvascular cells are addressed together with likely functions of identified macromolecules.
+The review considers likely translocation and systemic signaling functions among the macromolecular inventory of phloem exudates.

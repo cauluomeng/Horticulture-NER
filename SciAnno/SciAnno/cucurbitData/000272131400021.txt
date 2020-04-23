@@ -1,0 +1,6 @@
+P>Melon yellow spot virus (MYSV), a member of the genus Tospovirus, is a serious thrips-transmitted virus of cucurbits in Japan.
+Resistant cultivars provide an effective means for reducing the impact of the disease; however, no MYSV-resistant cucumber has been reported.
+Susceptibilities of 398 cucumber accessions originating from 26 countries were evaluated by mechanical inoculation of MYSV.
+Thirteen accessions from South Asia, South East Asia and unknown origin had low disease severity indices (DSIs), and 10 of them showed no necrotic lesions on inoculated leaves.
+No or little positive reaction was detected by DAS-ELISA analysis of inoculated leaves of these accessions.
+27028930 showed resistance to a melon isolate (MYSV-S) of MYSV, and 'Yamakyuri-1' showed moderate resistance to a cucumber isolate (FuCu05P).

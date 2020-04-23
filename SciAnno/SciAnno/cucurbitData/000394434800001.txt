@@ -1,0 +1,10 @@
+We exploited the potential of cucurbits for ectopic gene expression.
+Agroinfiltration is a simple and commonly used method to obtain transient expression of foreign genes in plants.
+In contrast to in vitro transformation techniques, agroinfiltration can be used for genetic modification of mature plant tissues.
+Although the cucurbits are commonly used as model plants for molecular biology and biotechnology studies, to date there are no literature sources on the possibility of transient gene expression in mature cucurbit tissues.
+Our research has shown that mature leaves of Luffa cylindrica L.
+(luffa), in contrast to other cucurbit species, can be successfully transiently transformed with Agrobacterium tumefaciens.
+We efficiently transformed luffa leaves with a reporter gene encoding beta-glucuronidase (GUS).
+The GUS activity in transiently transformed leaf tissues was detected within 24 h after the infiltration with bacteria.
+Additionally, we have shown that the activity of a transiently expressed the GUS gene can be monitored directly in the EDTA-exudates collected from the cut petioles of the agroinfiltrated leaves.
+The results suggest that luffa leaves can be useful as a plant expression system for studies of physiological and biochemical processes in cucurbits.

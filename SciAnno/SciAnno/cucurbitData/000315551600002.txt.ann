@@ -1,0 +1,17 @@
+Ojiambo, P.
+S., and Kang, E.
+L.
+2013.
+Modeling spatial frailties in survival analysis of [@cucurbit downy mildew#Disease*] epidemics.
+Phytopathology 103:216-227.
+[$Cucurbit downy mildew#Virus*] caused by [$Pseudoperonospora cubensis#Plant*] is economically the most important disease of [$cucurbits#Plant*] globally, and the [$pathogen#Virus*] is disseminated aerially over a large spatial scale.
+Spatiotemporal spread of the disease was characterized during phase I (low and sporadic disease outbreaks) and II (rapid increase in disease outbreaks) of the epidemic using records collected from sentinel plots from 2008 to 2009 in 23 states in the eastern United States as part of the United States Department of Agriculture [$Cucurbit#Plant*] Downy Mildew ipmPIPE network.
+A substantive goal of this study was to explain the pattern of time to disease outbreak using important covariates while accounting for spatially correlated differences in risk of disease outbreak among the states.
+Survival analyses that accounts for spatial dependence were performed on time to disease outbreak, and posterior median frailties (or random effects) were mapped to identify states with high or low risk for disease outbreak.
+From February to October, disease occurred in 195 and 172 out of 413 and 556 cases monitored in 2008 and 2009, respectively.
+Disease outbreaks were spatially aggregated, with a spatial dependence of up to approximate to 1,025 km where clustering of outbreaks in phase I and II of the epidemic were similar.
+However, unlike in phase I of the epidemic, space time point pattern analysis was significant (P < 0.0001) for outbreaks in phase II, during which the highest risk window as estimated by the space time function was within 1.5 months and 500 km of the initial outbreak.
+The risk of disease outbreak peaked around July and decreased thereafter until the end of the study period.
+Spatially correlated analysis of time to disease outbreak indicated the need to incorporate spatial frailties in standard survival analysis models.
+Evaluation of alternative formulations of the spatial models demonstrated that a Bayesian hierarchical spatially structured frailty model best described time to disease outbreak.
+This frailty model showed clustering of outbreaks at the state level and indicated that states in the mid-Atlantic region have high spatial frailties and a high risk of [$downy mildew#Virus*] outbreak.

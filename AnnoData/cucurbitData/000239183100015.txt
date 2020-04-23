@@ -1,0 +1,13 @@
+Increases in phospholipase D [PLD (EC 3.1.4.4)] and lipoxygenase [LOX (EC 1.13.11.12)] activities are thought to play a critical role in senescence of mesocarp tissues in netted and normetted muskmelon (Cucumis melo L.) fruits.
+We have cloned and characterized two full-length cDNAs, CmPLD alpha 1 and CmLOX1, encoding PLD alpha and LOX proteins in honeydew melon (C.
+melo Inodorus Group cv.
+Honey Brew).
+Relative levels of expression of the corresponding genes were determined by semi-quantitative RT-PCR in developing and mature fruit mesocarp tissues [20-60 d after pollination (DAP)], as well as in roots, leaves, and stems from 4-week-old and flowers from 6- to 7-week-old plants.
+The coding regions of CITIPLD alpha 1 and CmLOX1 cDNAs are, respectively, 2427 and 2634 nucleotides long, encoding proteins 808 and 877 amino acids in length.
+CmPLD alpha 1 is very similar to PLD alpha genes from castor bean (Ricinis communis L.), cowpea (Vigna unguiculata L.), strawberry (Fragaria xananassa Duch.) and tomato (Lycopersicon esculentum Mill.) (77% nucleotide identity), and is the first PLD gene cloned from a cucurbit species.
+CmLOX1 has 94% nucleotide identity to a cucumber (Cucumis sativus L.) LOX gene expressed in roots and 80% identity to cucumber cotyledon lipid body LOX.
+In general, transcript of CmPLD alpha 1 was much more abundant than that of CmLOX1, but relative levels of transcript in the various organs and tissues were similar for the two genes.
+Expression was highest in roots, flowers, and fruit mesocarp tissues.
+CmPLD alpha 1 expression in fruit was essentially constitutive throughout development, although maximum levels occurred at 50 and 55 DAP, respectively, in middle and hypodermal mesocarp.
+CmLOX1 expression was generally higher in middle than in hypodermal mesocarp with maximum transcript levels occurring at 55 and 50 DAP, respectively.
+Overall, the patterns of expression of CmPLD alpha 1 and CmLOX1 are consistent with a model in which their encoded enzymes act in tandem to promote or accelerate senescence in fruit mesocarp tissues.

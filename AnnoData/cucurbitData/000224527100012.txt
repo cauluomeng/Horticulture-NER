@@ -1,0 +1,19 @@
+The phylogenctic relationships within the genus Cucumis (a total of 25 accessions belonging to 17 species) were studied using the nuclear ribosomal DNA internal transcribed spacer (ITS) region.
+The analysis included commercially important species such as melon (C.
+melo L.) and cucumber (C.
+sativus).
+Two additional cucurbit species, watermelon and zucchini, were also included as outgroups.
+The data obtained reflected the clustering of Cucumis species in four main groups, comprising accessions from cucumber, melon, C.
+metuliferus and the wild African species.
+Some of the species clustered in different positions from those reported in classifications previously described by other authors.
+The data obtained clearly identify a division between the 2n = 2x = 14 species (C.
+sativus) and the 2n = 2x = 24 ones (C.
+melo and wild species).
+Within the wild species we identified a subgroup that included C.
+sagittatus and C.
+globosus.
+Oreosyce affricana, also classified as Cucumis membranifolius, was shown to be nested within Cucumis.
+Three accessions previously classified as independent species were shown to be genotypes of Cucumis melo.
+A set of melon and cucumber SSRs were also used to analyse the Cucumis species and the results were compared with the ITS data.
+The differential amplification of the SSRs among the accessions made it possible to distinguish three main groups: melon, cucumber and the wild species, though with less detail than applying ITS.
+Some SSRs were shown to be specific for melon, but other SSRs were useful for producing PCR fragments in all species of the genus.

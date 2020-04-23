@@ -1,0 +1,13 @@
+Cucurbit yellow stunting disorder virus (CYSDV; genus Crinivirus, family Closteroviridae) was identified in the melon (Cucumis melo) production regions of the desert southwestern United States in fall 2006.
+It is now well established in the region, where it is transmitted efficiently by the sweet potato whitefly, Bemisia tabaci biotype B (MEAM1).
+In order to evaluate the spread and establishment of the virus, nearly all spring and fall cucurbit fields planted in the Imperial Valley of California from 2007 to 2009 were surveyed and representative plants were tested for CYSDV infection.
+Incidence of CYSDV in spring melon fields was initially low and limited to a small number of fields in 2007 but increased to 63% of fields by spring 2009.
+Virus incidence in fall melon fields was 100% in each year.
+These results suggested that the virus had become established in native vegetation, weeds, and other crop species, and represented an increasing threat to melon production in the southwestern United States.
+Therefore, a select set of weed and crop species which grow or are cultivated in the Imperial Valley were evaluated as CYSDV reservoir hosts.
+For each species, we determined the capacity of CYSDV to accumulate, the relationship between virus titer in these source plants and transmission by whiteflies, as well as subsequent accumulation in inoculated cucurbit plants.
+Among these hosts, there was considerable variation in virus accumulation and transmission rates.
+Cucurbit hosts had the highest CYSDV titers, were efficient sources for virus acquisition, and showed a positive correlation between titer in source plants and transmission.
+Noncucurbit hosts had significantly lower CYSDV titers and varied in their capacity to serve as sources for transmission.
+CYSDV titers in some noncucurbit source plants, specifically common bean (Phaseolus vulgaris) and shepherd's purse (Capsella bursa-pastoris), were not positively correlated with transmission, demonstrating that additional environmental, physical, or biochemical factors were involved.
+These results demonstrate that multiple factors influence the efficiency with which a host plant species will be a reservoir for vector transmission of virus to crops.

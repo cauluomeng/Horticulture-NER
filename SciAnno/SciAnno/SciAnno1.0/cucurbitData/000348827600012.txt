@@ -1,0 +1,12 @@
+Squash vein yellowing virus (SqVYV) is a whitefly-transmitted ipomovirus infecting watermelon and other cucurbits that was recently introduced to Florida.
+Effects on watermelon are devastating, with total vine collapse, often near harvest, and fruit rendered unmarketable by brown, discolored flesh.
+The epidemiology of SqVYV was studied in a I-ha field of 'Fiesta' watermelon over six growing seasons (1 to VI) to characterize the spatial patterning of disease and temporal rate of disease progress, as well as its association with Cucurbit leaf crumple virus (CuLCrV) and Cucurbit yellow stunting disorder virus (CYSDV), two additional whitefly-transmitted viruses that often occur with SqVYV.
+The field was scouted at regular intervals for the length of the season for incidence of virus and number of whiteflies.
+Incidence of SqVYV reached 100% during seasons I, II, and V and 20% during season III.
+SqVYV did not occur during seasons IV and VI.
+SqVYV progressed in a characteristic logistic fashion in seasons I, II, and V but less so in season Ill.
+The rate of disease progress was similar for the three seasons with high disease incidence, with an average value of 0.18.
+A positive correlation between the area under the disease progress curve and whitefly-days was found, where both progress curves were calculated as a function of thermal time (degree days, base 0 degrees C).
+SqVYV displayed significant but variable levels of aggregation, as indicated by its fit to the beta-binomial distribution, the binary power law, and ordinary runs analysis.
+Association analysis indicated that the viruses were largely transmitted independently.
+Results of this study provide epidemiological information that will be useful in the development of management strategies for SqVYV-induced vine decline, and provide new information for CuLCrV and CYSDV.

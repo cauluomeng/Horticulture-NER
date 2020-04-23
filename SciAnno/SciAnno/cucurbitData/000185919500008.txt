@@ -1,0 +1,15 @@
+Rhizopycnis vagum is a recently described coelomycete known to belong to the complex of root rot pathogens contributing to vine decline of cucurbits in several parts of the world.
+However, the fungus has also been reported to infect tomato, and as an endophytic associate of mycorrhizal roots of wild, asymptomatic Pinus halepensis and Rosmarinus officinalis plants in Italy.
+To accelerate epidemiological and ecological investigations on this fungus, a PCR primer pair was developed.
+Primers Rv1-F and Rv1-R were designed, based on alignment of internal transcribed spacer (ITS) sequences (ITS1-5.8S-ITS2), which amplified a 396-bp fragment from all R.
+vagum isolates tested, including isolates pathogenic to melons and endophytic isolates from mycorrhizae.
+Specificity of the primer pair was verified both in silico ( BLAST searches using each primer string as a query) and in PCR assays, where the primers failed to amplify DNA from any isolate of fungi taxonomically related to R.
+vagum (e.
+g.
+Massarina walkeri and Stagonospora spp.) and other vine decline and common soilborne pathogens (e.
+g.
+Monasporascus cannonballus, Acremonium cucurbitacearum, Fusarium spp.
+and Rhizoctonia solani).
+Under optimum conditions, detectable amplification of the specific sequence required 0.05 pg of target DNA.
+Amplification of the expected 369-bp fragment was also obtained from DNA root extracts of nearly asymptomatic Cucumis melo plants inoculated with R.
+vagum under greenhouse conditions.

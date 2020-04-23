@@ -1,0 +1,14 @@
+Powdery mildew, caused by the fungus Podosphaera xanthii, is one of the most economically important diseases affecting cucurbit crops in Spain.
+Currently, chemical control offers the most efficient management of the disease; however, P.
+xanthii isolates resistant to multiple classes of site-specific fungicides have been reported in the Spanish cucurbit powdery mildew population.
+In previous studies, resistance to the fungicides known as methyl benzimidazole carbamates (MBCs) was found to be caused by the amino acid substitution E198A on beta-tubulin.
+To detect MBC-resistant isolates in a faster, more efficient, and more specific way than the traditional methods used to date, a loop-mediated isothermal amplification (LAMP) system was developed.
+In this study, three sets of LAMP primers were designed.
+One set was designed for the detection of the wild-type allele and two sets were designed for the E198A amino acid change.
+Positive results were only obtained with both mutant sets; however, LAMP reaction conditions were only optimized with primer set 2, which was selected for optimal detection of the E198A amino acid change in P.
+xanthii-resistant isolates, along with the optimal temperature and duration parameters of 65 degrees C for 75 min, respectively.
+The hydroxynaphthol blue (HNB) metal indicator was used for quick visualization of results through the color change from violet to sky blue when the amplification was positive.
+HNB was added before the amplification to avoid opening the lids, thus decreasing the probability of contamination.
+To confirm that the amplified product corresponded to the beta-tubulin gene, the LAMP product was digested with the enzyme LweI and sequenced.
+Our results show that the LAMP technique is a specific and reproducible method that could be used for monitoring MBC resistance of P.
+xanthii directly in the field.

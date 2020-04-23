@@ -1,0 +1,9 @@
+Fusarium oxysporum f.
+sp.
+melonis (FOM) is the cause of vascular wilting of melon, the most severe infectious disease of this cucurbit.
+Four races (0, 1, 2, and 1,2) of FOM have been identified all of which occur in Italy.
+A PCR assay based on race-specific SCAR markers for FOM race 2 identification was developed which proved specific, sensitive, and reliable, regardless of the origin of isolates.
+SCAR primers developed from RAPD markers were able to identify unambiguously FOM race 2, that causes symptoms similar to those elicited by the other FOM races.
+These are morphologically indistinguishable from one another and from the other formae speciales of the same fungus.
+The specificity of these primers, which did not amplify the most common melon pathogens, makes them a reliable tool for diagnosis.
+This finding may have additional practical applications in the epidemiology and management of Fusarium wilt of melon caused by this race in areas where the disease is widespread.

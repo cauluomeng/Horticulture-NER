@@ -1,0 +1,11 @@
+The Florida strain of Zucchini yellow mosaic virus (ZYMV-FL) is one of the major viral diseases of watermelon [Citrullus lanatus (Thunb.) Matsum.& Nakai].
+Although some screening has been performed for ZYMV resistance in watermelon, the germplasm collection has not been screened extensively for resistance.
+The objectives of this study were to screen the U.S.
+Department of Agriculture (USDA) watermelon germplasm collection for ZYMV resistance and to verify the disease rating for the most resistant and most susceptible accessions.
+We used a randomized complete block with four replications, 1613 PI accessions, and 41 cultivars.
+'Charleston Gray' and 'Crimson Sweet' susceptible controls were used to verify that the ZYMV inoculum was virulent.
+After the last rating, an enzyme-linked immunosorbent assay (ELISA) was performed to determine the presence of a virus in the plant tissue.
+The PI accessions with high resistance to ZYMV-FL that also exhibited resistance to other watermelon viruses were PI 595203, PI 386015, PI 386016, PI 386024, PI 386025, PI 386026, PI 244018, PI 244019, PI 485583, PI 494528, and PI 494529.
+The ZYMV-FL retest of the most resistant 46 PI accessions showed that there were some escapes.
+Sixteen resistant PI accessions had a rating of 3.0 or less for the average and maximum ratings: PI 595203, PI 537277, PI 560016, PI 386016, PI 386019, PI 485580, PI 494529, PI 595200, PI 494528, PI 595201, PI 386025, PI 494530, PI 386015, PI 386021, PI 386026, and PI 596662.
+Overall, PI 595203 had the highest resistance according to both the germplasm screening and the retest studies.

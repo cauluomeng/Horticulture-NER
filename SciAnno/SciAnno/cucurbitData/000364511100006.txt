@@ -1,0 +1,8 @@
+Tendrils are filamentous plant organs that coil on contact with an object, thereby providing mechanical support for climbing to reach more sunlight.
+Plant tendrils are considered to be modified structure of leaves, stems, or inflorescence, but the origin of cucurbit tendrils is still argued because of the complexity in the axillary organ patterning.
+We carried out morphological and genetic analyses of the Chiba Tendril-Less (ctl) melon (Cucumis melo) mutant, and found strong evidence that the melon tendril is a modified organ derived from a stem-leaf complex of a lateral shoot.
+Heterozygous (CTL/ctl) plants showed traits intermediate between tendril and shoot, and ontogenies of wild-type tendrils and mutant modified shoots coincided.
+We identified the CTL locus in a 200-kb region in melon linkage group IX.
+A single base deletion in a melon TCP transcription factor gene (CmTCP1) was detected in the mutant ctl sequence, and the expression of CmTCP1 was specifically high in wild-type tendrils.
+Phylogenetic analysis demonstrated the novelty of the CmTCP1 protein and the unique molecular evolution of its orthologs in the Cucurbitaceae.
+Our results move us closer to answering the long-standing question of which organ was modified to become the cucurbit tendril, and suggest a novel function of the TCP transcription factor in plant development.

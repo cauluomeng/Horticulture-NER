@@ -1,0 +1,9 @@
+This review speculates on correlations between mass flow in sieve tubes and the distribution of photoassimilates and macromolecular signals.
+Since micro- (low-molecular compounds) and macromolecules are withdrawn from, and released into, the sieve-tube sap at various rates, distribution patterns of these compounds do not strictly obey mass-flow predictions.
+Due to serial release and retrieval transport steps executed by sieve tube plasma membranes, micromolecules are proposed to "hop" between sieve element/companion cell complexes and phloem parenchyma cells under source-limiting conditions (apoplasmic hopping).
+Under sink-limiting conditions, micromolecules escape from sieve tubes via pore-plasmodesma units and are temporarily stored.
+It is speculated that macromolecules "hop" between sieve elements and companion cells using plasmodesmal trafficking mechanisms (symplasmic hopping).
+We explore how differential tagging may influence distribution patterns of macromolecules and how their bidirectional movement could arise.
+Effects of exudation techniques on the macromolecular composition of sieve-tube sap are discussed.
+(C) 2011 Elsevier Ireland Ltd.
+All rights reserved.

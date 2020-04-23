@@ -1,0 +1,13 @@
+Key messageWe identified two curly-leaf (cul) mutants in cucumber.
+Map-based cloning revealed that both mutants are due to allelic mutations in the CsPHB gene, a homolog of the Arabidopsis PHABULOSA which encodes a class III homeodomain-leucine zipper (HD-ZIP III) transcription factor.AbstractLeaf rolling is an important agronomic trait in crop breeding.
+Moderate leaf rolling minimizes shadowing between leaves, leading to improved photosynthetic efficiency.
+Although a number of genes controlling rolled leaf have been identified from rice and other plant species, none have been mapped or cloned in cucurbit crops.
+In this study, we identified and characterized two curly leaf (cul) mutants, cul-1 and cul-2 in cucumber.
+With map-based cloning, we show that cul-1 and cul-2 are allelic mutations and CsPHB (Csa6G525430) was the candidate gene for both mutants.
+The CsPHB gene encoded a class III homeodomain-leucine zipper (HD-ZIP III) transcription factor.
+A single non-synonymous mutation in the fourth and fifth exons of the CsPHB was responsible for the cul-1 and cul-2 mutant phenotypes, respectively.
+The single-nucleotide substitutions in cul-1 and cul-2 were both located in cs-miRNA165/166 complementary sites of CsPHB.
+The expression level of CsPHB gene in multiple organs of cul-1 and cul-2 mutants was higher than that in the wild type, while the expression of cs-miRNA165/166 in the two genotypes showed the opposite trend.
+We speculate that disruption of the binding between the mutant allele of CsPHB and cs-miRNA165/166 leads to the curly-leaf phenotype.
+This is the first report to clone and characterize the CsPHB gene in the family Cucurbitaceae.
+Taken together, these results support CsPHB as an important player in the modulation of leaf shape development in cucumber.

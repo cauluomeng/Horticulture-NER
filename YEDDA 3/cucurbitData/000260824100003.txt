@@ -1,0 +1,7 @@
+Zucchini yellow mosaic virus (ZYMV; family Potyviridae, genus Potyvirus) causes high yield losses to cucurbits in many parts of the world.
+The virus was detected for the first time in Iran in 1988, but the isolates have not been characterized.
+To study the genetic and biological diversity among Iranian ZYMV isolates, a set of twelve isolates, obtained during an extensive survey conducted from 2003 to 2006 in the major cucurbit-growing areas, were characterized.
+An experimental host range study of these isolates (referred as Iran-1 to Iran-12) revealed some variation in their biological properties.
+The nucleotide sequences of the genomic portion spanning the C-terminal part of NIb and N-terminal part of coat protein (CP) coding region were determined and compared with other available sequences.
+The identity among Iranian ZYMV isolates at the amino acid level reached 95.6-100%.
+The Iranian ZYMV isolates did not form a compact cluster in the phylogenetic tree, and the phylogenetic analyses and the estimation of genetic distance indicate that the Iranian ZYMV group consists of several independent introductions that evolved separately.

@@ -1,0 +1,11 @@
+Mixed infections of cucurbits by Cucumber mosaic virus (CMV) and potyviruses exhibit a synergistic interaction.
+Zucchini squash and melon plants coinfected by the potyvirus Zucchini yellow mosaic virus (ZYMV) and either Fny-CMV (subgroup IA) or LS-CMV (subgroup II) displayed strong synergistic pathological responses, eventually progressing to vascular wilt and plant death.
+Accumulation of Fny- or LS-CMV RNAs in a mixed infection with ZYMV in zucchini squash was slightly higher than infection with CMV strains alone.
+There was an increase in CMV (+) strand RNA levels, but no increase in CMV (-) RNA3 levels during mixed infection with ZYMV.
+Moreover, only the level of capsid protein from LS-CMV increased in mixed infection.
+ZYMV accumulated to similar levels in singly and mixed infected zucchini squash and melon plants.
+Coinfection of squash with the potyvirus Watermelon mosaic virus (WMV) and CMV strains increased both the Fny-CMV RNA levels and the LS-CMV RNA levels.
+However, CMV (-) strand RNA3 levels were increased little or not at all for CMV on coinfection with WMV.
+Infection of CMV strains (LS and Fny) containing satellite RNAs (WL47-sat RNA and B5*-sat RNA) reduced the accumulation of the helper virus RNA, except when B5*-sat RNA was mixed with LSCMV.
+However, mixed infection containing ZYMV and the CMV strains with satellites reversed the suppression effect of satellite RNAs on helper virus accumulation and increased satellite RNA accumulation.
+The synergistic interaction between CMV and potyviruses in cucurbits exhibited different features from that documented in tobacco, indicating there are differences in the mechanisms of potyvirus synergistic phenomena.

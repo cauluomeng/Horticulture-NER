@@ -1,0 +1,17 @@
+A major limitation of molecular studies in powdery mildew fungi (Erysiphales) is their genetic intractability.
+This is because they are obligate biotrophs.
+In these parasites, biotrophy is determined by the presence of haustoria, which are specialized structures of parasitism that play an essential role in the acquisition of nutrients and the deliverance of effectors.
+Podosphaera xanthii is the main causal agent of cucurbit powdery mildew and a major limitation for crop productivity.
+In a previous study using P.
+xanthii conidia, we showed, for the first time, the transformation of powdery mildew fungi by Agrobacterium tumefaciens.
+In this work, we hypothesized that the haustorium could also act as a natural route for the acquisition of DNA.
+To test our hypothesis, melon cotyledons were agro-infiltrated with A.
+tumefaciens that contained diverse transfer DNA (T-DNA) constructs harbouring different marker genes under the control of fungal promoters and, after elimination of the bacterium, the cotyledons were subsequently inoculated with P.
+xanthii conidia.
+Our results conclusively demonstrated the transfer of different T-DNAs from A.
+tumefaciens to P.
+xanthii, including two fungicide resistance markers (hph and tub2), a reporter gene (gfp) and a translational fusion (cfp-PxEC2).
+These results were further supported by the co-localization of translational fluorescent fusions of A.
+tumefaciens VirD2 and P.
+xanthii Rab5 proteins into small vesicles of haustorial and hyphal cells, suggesting endocytosis as the mechanism for T-DNA uptake, presumably by the haustorium.
+From our perspective, transformation by growth onto agro-infiltrated tissues (TGAT) is the easiest and most reliable method for the transient transformation of powdery mildew fungi.

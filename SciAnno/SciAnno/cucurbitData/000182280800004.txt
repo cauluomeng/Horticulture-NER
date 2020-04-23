@@ -1,0 +1,9 @@
+We developed 31 sets of melon (Cucumis melo L.) microsatellite markers in this study.
+Primers for these markers were designed from clones containing simple sequence repeats (SSRs) of (GA/CT)n or (GT/CA)n isolated from a melon genomic library.
+These microsatellite loci were examined for the detection of alleles among twelve lines and cultivars from six varieties of C.
+melo.
+A total of 28 marker loci showed polymorphism by 2.0% agarose TBE gel separation.
+And these markers were also examined for cross-species amplification applicable to nine other species in Cucurbitaceae.
+Among them, 13 marker loci were commonly detected within the major cucurbit crops, cucumber, pumpkin and watermelon using the present primer sets.
+The species to which the melon microsatellite markers would be most applicable was Momordica charantia (24 markers), followed by Cucumis sativus (20 markers) and Cucurbita maxima (18 markers).
+These conserved microsatellite loci could be used as anchor markers in studies on synteny in Cucurbitaceae.

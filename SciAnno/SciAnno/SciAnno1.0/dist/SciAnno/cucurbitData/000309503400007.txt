@@ -1,0 +1,6 @@
+In 2008 and 2009, samples of melon (Cucumis melo L.), watermelon (Citrullus lanatus Thumb), pumpkin (Cucurbita pepo L.), and cucumber (Cucumis sativus L.) plants, as well as specimens of white fly (Bemisia tabaci Germ.) from different regions in the states of Nuevo Leon, Coahuila and Durango, Mexico, were collected.
+After RNA isolation, the samples were analyzed by RT-PCR using specific primers to amplify p22, heat shock and capsid proteins, for the cucurbit yellows stunt disorder virus (CYSDV).
+CYSDV virus was detected in melon, watermelon and white fly collected in several regions.
+Twenty-six samples turned out to be positive for the CYSDV virus out of 129 Cucurbitaceae plants in the tree states studied of the North-Central of Mexico.
+The PCR products were cloned and sequenced, and then compared with the available sequences of the GenBank.
+Sequences obtained from the positive samples had 96 to 100% of similarity with samples from the United States, Spain and other countries.

@@ -1,0 +1,7 @@
+To better understand the genetic diversity of cucurbit-infecting poleroviruses in Taiwan, a survey was conducted in 2008 and 2009 as a prelude to screening germplasm for resistance.
+Out of 102 cucurbit samples showing yellowing symptoms collected across eight counties, 29 were identified as infected by polerovirus(es) by reverse transcription polymerase chain reaction (RT-PCR) using a set of universal polerovirus primers.
+Sequence analysis of a 1.4-kb PCR product spanning part of the RNA-dependent RNA polymerase (RdRp) gene, the intergenic region (IR) and the complete coat protein (CP) gene of 13 of the 29 samples revealed the presence of three distinct Polerovirus species, namely Cucurbit aphid-borne yellows virus (CABYV), Melon aphid-borne yellows virus (MABYV) and Suakwa aphid-borne yellows virus (SABYV).
+In addition to the common strain of CABYV (CABYV-C) a recombinant strain of CABYV (CABYV-R) was identified.
+The recombinant strain probably arose by recombination in the IR, a recombination hot-spot of poleroviruses, between ancestors of MABYV and CABYV-C.
+RT-PCR protocols based on sets of specific primers were developed to distinguish between the different cucurbit-infecting polerovirus species and the two CABYV strains.
+These findings are discussed in relation to strategies for breeding for durable resistance against poleroviruses.

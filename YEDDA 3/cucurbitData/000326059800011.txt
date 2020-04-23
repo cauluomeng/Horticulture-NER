@@ -1,0 +1,8 @@
+The genetic variability of a Cucurbit aphid-borne yellows virus (CABYV) (genus Polerovirus, family Luteoviridae) population was evaluated by determining the nucleotide sequences of two genomic regions of CABYV isolates collected in open-field melon and squash crops during three consecutive years in Murcia (southeastern Spain).
+A phylogenetic analysis showed the existence of two major clades.
+The sequences did not cluster according to host, year, or locality of collection, and nucleotide similarities among isolates were 97 to 100 and 94 to 97% within and between clades, respectively.
+The ratio of nonsynonymous to synonymous nucleotide substitutions reflected that all open reading frames have been under purifying selection.
+Estimates of the population's genetic diversity were of the same magnitude as those previously reported for other plant virus populations sampled at larger spatial and temporal scales, suggesting either the presence of CABYV in the surveyed area long before it was first described, multiple introductions, or a particularly rapid diversification.
+We also determined the full-length sequences of three isolates, identifying the occurrence and location of recombination events along the CABYV genome.
+Furthermore, our field surveys indicated that Aphis gossypii was the major vector species of CABYV and the most abundant aphid species colonizing melon fields in the Murcia (Spain) region.
+Our surveys also suggested the importance of the weed species Ecballium elaterium as an alternative host and potential virus reservoir.

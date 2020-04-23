@@ -1,0 +1,20 @@
+Angular leaf spot of cucurbits is generally considered to be caused by Pseudomonas syringae pv.
+lachrymans.
+It has a worldwide distribution and has been observed to emerge sporadically under humid and wet conditions.
+Reports of multiple P.
+syringae pathovars associated with the disease and lack of molecular analysis has left the true diversity of populations in the United States unclear.
+In this study, we collected 27 P.
+syringae strains causing foliar lesions and blighting on watermelon, cantaloupe, and squash in Florida, Georgia, and California over several years.
+Strains were fluorescent on King's medium B agar and displayed the typical phenotypic and biochemical characteristics of P.
+syringae.
+P.
+syringae pv.
+lachrymans is a member of genomospecies 2.
+However, the genetic profiles obtained through both MLSA (gyrB, rpoD, gapA, and gltA) and BOX-PCR (BOXA1R) identified 26 of the P.
+syringae strains to be distributed among three clades within genomospecies 1, and phylogenetically distinct from genomospecies 2 member P.
+syringae pv.
+lachrymans.
+A novel MLSA haplotype of the pathogen common to all states and cucurbit hosts was identified.
+Considerable genetic diversity among P.
+syringae strains infecting cucurbits is associated with the same disease, and reflects the larger ecological diversity of P.
+syringae populations from genomospecies 1.

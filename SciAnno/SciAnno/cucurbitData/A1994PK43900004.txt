@@ -1,0 +1,24 @@
+LE
+   PRODUCTION RELATED TO CULTIVATION TECHNICS AND SITE .1.
+ANALYSIS OF
+   GROWTH AND YIELD
+SO GARTENBAUWISSENSCHAFT
+LA German
+DT Article
+ID DESCRIPTIVE MODELS; PLANT-PRODUCTION; GREENHOUSES
+AB The quantification of the growth rates of plants as a function of the intensities of growth factors and production techniques is an essential precondition for analysis and improvement of the economy of firms.
+ To test the ability of descriptive growth models for this analysis in numerous sets of various vegetable species in five holdings at different sites the intensities of irradiance, temperature, and other growth factors were measured and the growth rates compared with corresponding estimates.
+ The results were as follows:
+   Cucumber:  In the recommended temperature-range the period ''planting to begin of harvest'' as a function of irradiance and temperature was well described by the model.
+ Larger differences occurred with sets grown at extremely low temperatures, presumably due to the use of plants grafted on cucurbits, whereas the model is based on ungrafted plants.
+   In the range of recommended temperatures the yield was estimated very well in all sets which were not weakened by diseases or by other factors (e.g.
+pH-value).
+ Only in the range of extremely low temperatures the yield was over-estimated.
+ An effect of the cultivars was not recognizable.
+ Lettuce:  For the period ''planting to harvest'' the correlation between measured and estimated values was highly significant, but an effect of the season was observed.
+ The cultivars differed clearly.
+ Further influencing factors are presumably the intensity of watering and CO2 enrichment.
+ Radish:  The correlation between the data measured and estimated for the period ''emergence to harvest'' was very good.
+ A small overestimation of this period occurred with sets grown at very low temperatures.
+ This cultivars differed significantly.
+   The results demonstrate, that describing models are useful tools to analyse growth rates in holdings, but they need completion and have to be supplemented in scopes not yet covered by the models used in this study.

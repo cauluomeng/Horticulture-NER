@@ -1,0 +1,23 @@
+Keinath, A.
+P.
+2012.
+Differential sensitivity to boscalid in conidia and ascospores of Didymella bryoniae and frequency of boscalid-insensitive isolates in South Carolina.
+Plant Dis.
+96:228-234.
+   Since 2003, a 2:1 mixture of the fungicides boscalid and pyraclostrobin (Pristine) has been used widely on watermelon and other cucurbits, primarily to control gummy stem blight caused by Didymella bryoniae.
+Several isolates of D.
+bryoniae that were insensitive to boscalid at 10 mg/liter were found in a watermelon research plot in South Carolina in 2008.
+In total, 201 isolates collected between 1998 and 2009 were tested for sensitivity to boscalid by determining percentage germination of ascospores and conidia on media amended with boscalid at 0.01 to 10.0 mg/liter.
+All 31 isolates collected in 1998, 2002, or 2005 were sensitive to boscalid.
+Of the 170 isolates collected in or after 2006, 84.7% were insensitive to boscalid, including 19 of 30 isolates recovered from greenhouse-grown seedlings.
+The oldest insensitive isolates were obtained in 2006 from a greenhouse and in 2008 from a commercial field.
+Ascospores were less sensitive to boscalid than conidia.
+With boscalid at 1.0 mg/liter, 22.4% of ascospores but only 4.1% of conidia of 31 sensitive isolates germinated.
+Similarly, a mean of 68.6% of the ascospores and 54.1% of the conidia of 120 insensitive isolates germinated at 1.0 and 10.0 mg/liter.
+The 50% effective concentration (EC50) values based on ascospore germination were two to three times higher than values based on conidia germination.
+The significance of miscalculating EC50 values by considering only conidia was demonstrated in a greenhouse experiment.
+Twelve isolates that were sensitive, moderately insensitive, or highly insensitive based on conidia germination did not differ in relative virulence on boscalid-treated muskmelon seedlings when inoculum suspensions comprised ascospores alone or ascospores and conidia.
+This is the first report of differential sensitivity to a fungicide between conidia and ascospores in D.
+bryoniae.
+Because D.
+bryoniae produces conidia and ascospores on diseased hosts, both spore types should be used when calculating EC50 values for boscalid.

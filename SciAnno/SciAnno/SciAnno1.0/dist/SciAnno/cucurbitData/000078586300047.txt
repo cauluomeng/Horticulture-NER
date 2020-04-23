@@ -1,0 +1,8 @@
+A nonpathogenic mutant of Colletotrichum magna (path-1) was previously shown to protect watermelon (Citrullus lanatus) and cucumber (Cucumis sativus) seedlings from anthracnose disease elicited by wild-type C.
+magna.
+Disease protection was observed in stems of path-1-colonized cucurbits but not in cotyledons, indicating that path-1 conferred tissue-specific and/or localized protection.
+Plant biochemical indicators of a localized and systemic (peroxidase, phenylalanine ammonia-lyase, lignin, and salicylic acid) "plant-defense" response were investigated in anthracnose-resistant and -susceptible cultivars of cucurbit seedlings exposed to four treatments: (1) water (control), (2) path-1 conidia, (3) wild-type conidia, and (4) challenge conditions (inoculation into path-1 conidia for 48 h and then exposure to wild-type conidia).
+Collectively, these analyses indicated that disease protection in path-1-colonized plants was correlated with the ability of these plants to mount a defense response more rapidly and to equal or greater levels than plants exposed to wild-type C.
+magna alone.
+Watermelon plants colonized with path-1 were also protected against disease caused by Colletotrichum orbiculare and Fusarium oxysporum.
+A model based on the kinetics of plant-defense activation is presented to explain the mechanism of path-1-conferred disease protection.

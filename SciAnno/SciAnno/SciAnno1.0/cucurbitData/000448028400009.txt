@@ -1,0 +1,13 @@
+The success of Acidovorax citrulli detection by seed health testing of commercial cucurbitaceous seeds depends on the efficiency of pathogen extraction.
+In the present study, different extraction techniques were compared to identify factors that influence A.
+citrulli detection in naturally contaminated cucurbit seeds.
+Embryo-infected watermelon seeds, produced by pistil inoculation, were mixed with non-infected seeds to generate samples (n = 1000 seeds) with low infection levels (approximately 10 degrees cells per sample).
+Additionally, two naturally infested melon seed lots were tested.
+A.
+citrulli was extracted from seeds by soaking or crushing, followed by one or two centrifugation steps.
+Samples extracted by soaking seeds yielded better amplification efficiency (103%) compared with crushing (93%), as determined by quantitative real-time PCR analysis.
+This was most likely due to a reduction of the concentration of inhibitors present in the DNA samples.
+PCR assays using three different A.
+citrulli-specific primer sets highlighted that soaking followed by two centrifugation steps enhanced pathogen detection (100% of the samples) and the mean cycle threshold (Ct) value was significantly lower than those observed for the other pathogen extraction techniques.
+These results indicate that the optimised extraction protocol combined with PCR analysis can improve routine seed health testing for A.
+citrulli.

@@ -1,0 +1,12 @@
+The main areas for field-grown vegetable production in Iran were surveyed during the years of 2012-2014 to determine the occurrence of begomoviruses infecting these crops.
+A total of 787 leaf samples were collected from vegetables and some other host plants showing virus-like symptoms and tested by an enzyme linked immunosorbent assay (ELISA) using polyclonal antibodies produced against Tomato yellow leaf curl virus (TYLCV).
+According to the ELISA results, 81 samples (10.3%) positively reacted with the virus antibodies.
+Begomovirus infections were confirmed by polymerase chain reaction (PCR) using previously described TYLCV-specific primer pair TYLCV-Sari TYLCV-Isr or universal primer pair Begomo-F/Begomo-R.
+The PCR tests using the primer pair TYLCV-Sar/TYLCV-Isr resulted in the amplification of the expected fragments of ca.
+0.67-kb in size for ELISA-positive samples tested from alfalfa, pepper, spinach and tomato plants, confirming the presence of TYLCV.
+For one melon sample, having a week reaction in ELISA and no reaction in PCR using TYLCV-specific primers, the PCR reaction using the primer pair Begomo-F/Begomo-R resulted in the amplification fragments of the expected size of ca.
+2.8 kb.
+The nucleotide sequences of the DNA amplicons derived from the isolate, Kz-Me198, were determined and compared with other sequences available in GenBank.
+BLASTN analysis confirmed the begomovirus infection of the sample and showed 99% identities with Tomato leaf curl New Delhi virus (ToLCNDV); phylogenetic analysis supported the results of the database searches.
+This study reports the natural occurrence of TYLCV in different hosts in Iran.
+Our results also reveal the emergence of ToLCNDV in Iranian cucurbit crops.

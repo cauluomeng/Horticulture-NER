@@ -1,0 +1,3 @@
+The development time and survival rate were determined at three constant temperatures for the 'B' biotype of Bemisia tabaci on cucumber (Beit Alpha F-1), cantaloupe (Anzer F-1), squash (Sakiz F-1), and watermelon (Galactica F-1).
+The development time for immature stages at 20, 25 and 30 +/- 1 degrees C was, respectively, 33.5, 19.3 and 16.8 days on cucumber; 36.5, 20.8 and 19.60 days on cantaloupe; 37.2, 20.1 and 19.8 days on squash; and 38.9, 23.8 and 21.9 days on watermelon.
+At 20, 25 and 30 degrees C, the respective percentage survival of immature instars was 73.2, 83.2 and 72.9% on cucumber; 72.9, 84.9 and 75.6% on cantaloupe; 52.1, 76.1 and 57.5% on squash; and 37.6, 64.8 and 40.1% on watermelon.

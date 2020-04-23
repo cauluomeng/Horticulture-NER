@@ -1,0 +1,7 @@
+Melon leaves showing yellowing symptoms were analyzed using electron microscopy and RT-PCR for major cucurbit-infecting-viruses (CMV, MNSV, CGMMV, SqMV, WMV, KGMMV, PRSV and ZYMV) reported in Korea, but these viruses were not detected.
+As the result of further analysis by next-generation sequencing (NGS), the virus was identified as Cucurbit aphid-borne yellows virus (CABYV), and then confirmed by RT-PCR using CABYV-specific primers.
+When photosynthetic capacity was measured based on chlorophyll fluorescence yield (ChlFY), the leaves of the diseased plants showed 4.09 mu mol.m(-2).s(-1), which was one-third of the readings observed for unaffected normal plants (12.36 mu mol.m(-2).s(-1)).
+The root functions of plants affected by leaf yellowing symptoms (LYS) was 0.28 mg.g(-1), about half that measured for the normal unaffected plants (0.48 mg.g(-1)).
+Cytological observations revealed that there were no morphological differences in the palisade parenchyma and mesophyll spongy cells of the leaves between the diseased and the normal plants.
+However, the same leaf cells of the affected plants contained more starch granules compared to those of the normal, unaffected plants.
+We conclude that the LYS of muskmelon is not merely a physiological disorder but a viral disease caused by CABYV and spread by aphids.

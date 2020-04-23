@@ -1,0 +1,13 @@
+Watermelon mosaic virus (WMV) is one of the major viruses infecting cucurbit crops worldwide.
+Although WMV is very common worldwide, little is known about the biological traits of WMV isolates from China.
+Hence, this study aimed to characterize 11 WMV isolates infecting melon from different geographical origins in Xinjiang based on experimental hosts.
+Sap inoculation of the 11 WMV isolates onto a range of 13 plant species revealed some differences compared to the WMV isolates collected from other countries.
+Our results showed that, overall, there were no obvious correlations of host responses to inoculation with WMV isolates from different geographical origins.
+However, isolate JS-1 caused mild mosaic on Cucurbita moschata, whereas the remaining 10 isolates were asymptomatic on this plant species.
+Moreover, in Datura stramonium, isolate TYG-1 induced mosaic, whereas the remaining 10 isolates did not infect this species.
+All isolates infected systemically Cucurbita pepo and Cucumis melo plants, causing severe symptoms.
+All isolates did not induce any symptoms on Cucumis sativus, but the virus could be detected using RT-PCR.
+Additionally, all isolates infected systemically Nicotiana tabacum plants, causing mild mosaics.
+Chenopodium amaranticolor and Chenopodium quinoa reacted to all isolates by chlorotic local lesions in the inoculated leaves, and the virus was detected in the inoculated leaves using RT-PCR.
+In addition, the attempts to transmit the isolates to Luffa cylindrica, Vicia faba, Phaseolus vulgaris, Vigna unguiculata or Pisum sativum failed as confirmed by negative RT-PCR.
+Our results would be useful for understanding the biological variability of WMV.

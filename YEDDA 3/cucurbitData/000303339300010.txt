@@ -1,0 +1,11 @@
+Tasmanian vegetable crops (broccoli, carrots, cauliflower, common bean, and pea) were tested for virus infection with Potyviruses (all crops), members of the Luteoviridae (all except carrot), Alfalfa mosaic virus (all except brassicas), Cucumber mosaic virus (all except carrot and cauliflower), Subterranean clover stunt virus (legumes only), Tomato spotted wilt virus (legumes only) and Cauliflower mosaic virus (brassicas only) over three seasons (2007-2010).
+Low (and sporadic) incidence of each virus (or virus group) was found in pea crops.
+Only Luteovirid and SCSV infections were found in bean crops at low frequency and incidence.
+Virus infection was not detected in carrot crops.
+Broccoli crops recorded generally low incidence of all four viruses or groups tested for, whilst cabbage crops recorded very low incidence of CaMV only.
+In the pea and broccoli crops members of the Luteoviridae were the most prevalent viruses detected.
+Samples that tested positive for generic Potyvirus and Luteoviridae tests were retested using virus specific antiserum and/or RTPCR.
+Potyvirus detections (from pea crops in the first year of testing) were due to infection with Pea seed-borne mosaic virus (PSbMV).
+These samples were all sourced from a single imported seed line.
+Subsequent testing over the next two seasons failed to show evidence of PSbMV which may have been eliminated with destruction of the seed source.
+Molecular analyses of a selection of Luteovirid isolates revealed most infections were due to Turnip yellows virus with five isolates from pea belonging to a putative novel Polerovirus species with closest homology to Cucurbit aphid-borne yellows virus.

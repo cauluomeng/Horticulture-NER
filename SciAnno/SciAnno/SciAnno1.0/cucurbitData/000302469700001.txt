@@ -1,0 +1,7 @@
+Phytophthora capsici is a highly dynamic and destructive pathogen of vegetables.
+It attacks all cucurbits, pepper, tomato and eggplant, and, more recently, snap and lima beans.
+The disease incidence and severity have increased significantly in recent decades and the molecular resources to study this pathogen are growing and now include a reference genome.
+At the population level, the epidemiology varies according to the geographical location, with populations in South America dominated by clonal reproduction, and populations in the USA and South Africa composed of many unique genotypes in which sexual reproduction is common.
+Just as the impact of crop loss as a result of P.
+capsici has increased in recent decades, there has been a similar increase in the development of new tools and resources to study this devastating pathogen.
+Phytophthora capsici presents an attractive model for understanding broad-host-range oomycetes, the impact of sexual recombination in field populations and the basic mechanisms of Phytophthora virulence.

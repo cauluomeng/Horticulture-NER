@@ -1,0 +1,12 @@
+Plants are infected by a wide range of viruses.
+Many cause devastation of plants and crops resulting in significant economic losses and threats to the viability of certain horticultural and agricultural industries.
+Resources available for routine detection of plant viruses tend to be limited.
+This means that techniques adopted for routine diagnosis must be of low cost yet sensitive and reliable.
+Approaches that allow simultaneous detection of multiple plant viruses (multiplexing) reduce the number of tests required, reagent usage, time for analysis, and consequently, the cost.
+Multiplex polymerase chain reaction (PCR), polyvalent PCR, nonisotopic molecular hybridization techniques, real-time PCR, and array technologies allow simultaneous detection of multiple plant viruses.
+The increased sensitivity achieved with some techniques, such as real-time PCR, permits the use of simple, low-cost target isolation methods such as direct binding, tissue printing, or immunocapture.
+These result in reduced overall cost.
+Multiplexing techniques have the capacity for simultaneous broad-spectrum and specific identification by combining primers and (or) probes that target various taxonomic levels such as family, genus, and species.
+Polyvalent PCR and broad-spectrum probes have the potential to detect unknown or uncharacterized viruses, improving our ability to monitor and successfully control these pathogens.
+Techniques such as microarray analysis offer the potential for development of a single biochip that may facilitate detection of all viruses affecting a particular crop (e.g., a cucurbit or potato biochip).
+This may be expanded in time to the detection of every pathogen, including viruses, affecting a particular plant.

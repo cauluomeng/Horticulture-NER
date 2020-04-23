@@ -1,0 +1,6 @@
+Cucurbit yellow stunting disorder virus (CYSDV) is an emerging virus causing significant yield losses in cucurbits.
+Simple but reliable detection and quantification methods are important tools for disease management.
+In susceptible germplasm, CYSDV was detected 5 days postinoculation (dpi) by reverse transcriptase polymerase chain reaction (RT-PCR) or by tissue blot immunoassay (TBIA), and 8-9 dpi by dot blot immunoassay (DBIA) or enzyme-linked immunosorbent assay (ELISA).
+For CYSDV quantification, real-time RT-PCR was the most sensitive method and gave the best linear range of detection, over four orders of magnitude as compared to approximately two orders of magnitude for DBIA and nucleic acid hybridization.
+DBIA was more sensitive than ELISA and equally sensitive to nucleic acid hybridization with a non-radioactively labelled cDNA probe.
+Time course studies at 3, 5, 8 and 14 dpi using TBIA revealed that tolerance to CYSDV in three tolerant cucumber germplasms was not correlated with restricted or delayed virus movement.

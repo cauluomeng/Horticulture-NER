@@ -1,0 +1,10 @@
+Grafting is a unique horticultural technology that allows the grower to select an alternate, compatible root system with natural disease resistance for their desired crop.
+Short-term storage of grafted seedlings under low temperature may extend the production window of grafted seedlings, reduce the labor input and increase production of grafted seedlings with a small propagation capacity.
+To evaluate the low temperature storage conditions, Cucumis melo 'Olympic Gold' seedlings were grafted onto Cucurbita maxima x Cucurbita moschata 'Tetsukabuto' rootstock and stored for a period of 2 or 4 weeks at 9, 12, or 15 degrees C under 12 mu mol m(-2) s(-1) photosynthetic photon flux (PPF).
+The study demonstrated that grafted seedlings could be stored at 12 degrees C for 4 weeks without significant dry mass accumulation or effects on post-storage growth and development.
+Grafted seedlings stored at 15 degrees C for 4 weeks had a significant increase in dry mass and stem elongation; this was not observed for the non-grafted seedlings stored under the same conditions, suggesting that the rootstock enhanced the scion growth at lower temperatures than optimal for muskmelon.
+Storing muskmelon seedlings at 9 degrees C caused chilling damage but the damage was pronounced for non-grafted seedlings than grafted seedlings.
+'Tetsukabuto' rootstock, an interspecific squash, presumably has a chilling tolerance and increased the storability of muskmelon seedlings.
+Further optimization is needed but there is potential for using this technique as a tool for mass production of grafted muskmelon seedlings.
+(C) 2010 Elsevier B.V.
+All rights reserved.

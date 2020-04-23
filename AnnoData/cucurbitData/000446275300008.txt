@@ -1,0 +1,8 @@
+During the spring season of 2014, a total of 148 melon and watermelon leaf samples were collected from symptomatic and asymptomatic plants in the western and southwestern regions of Saudi Arabia and were tested for the presence of Watermelon chlorotic stunt virus (WmCSV) and other suspected cucurbit viruses by double antibody sandwich enzyme-linked immunosorbent assays.
+Ninety-eight samples were found to be positive for the presence of VVmCSV, nine samples were positive for the presence of Cucurbit yellow stunting disorder virus (CYSDV), and 22 showed a mixed infection with both WmCSV and CYSDV.
+No other cucurbit viruses were detected in any of the samples.
+Host range experiments revealed that eight out of fourteen tested plant species were susceptible to WmCSV.
+PCR products of approximately 1.2 kb were obtained after amplification using primers specifically targeting the coat protein region of WmCSV.
+Positive PCR results were confirmed by dot blot hybridization.
+Coat protein gene sequences from eleven WmCSV isolates indicated that the highest identity was between the 104WMA-SA isolate from the Wadi Baish location and a previously reported isolate from the AL-Lith location in Saudi Arabia.
+The lowest identity was observed between the 42WMA-SA isolate and an isolate from Palestine.

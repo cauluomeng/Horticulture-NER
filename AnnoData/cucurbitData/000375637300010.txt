@@ -1,0 +1,5 @@
+The infectious full-length cDNA clone of zucchini yellow mosaic virus (ZYMV) isolate PA (pZYMV-PA), which was isolated from pumpkin, was constructed by utilizing viral transcription and processing signals to produce infectious in vivo transcripts.
+Simple rub-inoculation of plasmid DNAs of pZYMV-PA was successful to cause infection of zucchini plants (Cucurbita pepo L.).
+We further engineered this infectious cDNA clone of ZYMV as a viral vector for systemic expression of heterologous proteins in cucurbits.
+We successfully expressed two reporter genes including gfp, and bar in zucchini plants by simple rub-inoculation of plasmid DNAs of the ZYMV-based expression constructs.
+Our method of the ZYMV-based viral vector in association with the simple rub inoculation provides an easy and rapid approach for introduction and evaluation of heterologous genes in cucurbits.
