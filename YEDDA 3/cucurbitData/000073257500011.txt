@@ -1,8 +1,0 @@
-Since 1991, a new disease of cucurbits in central Texas and Oklahoma, designated yellow vine, has resulted in the decline and plant death of watermelon, cantaloupe.
-squash, and pumpkin.
-Affected plants are characterized by leaf yellowing, phloem discoloration, and plant collapse.
-Year-to-year variation in disease incidence has ranged from spotty outbreaks to complete crop loss in early-planted watermelon fields.
-A systematic investigation to determine the causal agent of the disease included pathogen isolation attempts, transmission tests, serological assays with various antisera (enzyme-linked immunosorbent assay and Western blotting), and DNA hybridizations with selected probes (dot and Southern blots).
-None of these tests revealed a consistent relationship between the expression of yellow vine symptoms and the presence of a particular microorganism or virus in the plant.
-However, transmission electron microscopic examination showed the consistent presence of a bacterium in the phloem sieve elements of symptomatic plants.
-The rod-shaped bacteria, observed only in symptomatic cucurbits, measured 0.25 to 0.5 mu m in width and 1.0 to 3.0 mu m in length and were surrounded by a triple-layered cell envelope.

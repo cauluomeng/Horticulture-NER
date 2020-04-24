@@ -1,6 +1,0 @@
-The Acidovorax genus belongs to the Proteobacteria phylum, and comprises species that possess a variety of lifestyles, with its members inhabiting different environments, including soil, water and interactions with eukaryotic organisms.
-In the present chapter, we focus on Acidovorax species that are pathogenic on plants.
-Acidovorax species are able to cause disease to a variety of agriculturally and economically important crops.
-Moreover, some diseases caused by Acidovorax strains have been spreading worldwide in recent years and their importance is substantially increasing.
-One example is seedling blight and bacterial fruit blotch of cucurbit crops caused by Acidovorax citrulli, a disease that was barely known until the late 1980s' and today is one of the most serious threats to the cucurbit industry worldwide.
-Here we summarize taxonomical aspects of plant-pathogenic species of Acidovorax and describe major diseases caused by members of this genus, with emphasis on their epidemiology, control and basic aspects of pathogenesis and plant pathogen interactions.

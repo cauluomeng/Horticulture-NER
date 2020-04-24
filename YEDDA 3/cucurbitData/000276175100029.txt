@@ -1,8 +1,0 @@
-Studies were carried out in Brazil to study the inheritance of tolerance to Zucchini yellow mosaic virus (ZYMV) in cucumber cv.
-Formosa.
-This cultivar was individually crossed with two cucumber lines from different varietal types (L(b) from a Brazilian type, and L(j) from a Japanese type), both susceptible to the virus.
-Two experiments, one for each line, were separately carried out, where 6 treatments (parents, generations F1, F2 and F1BC1 for both parents) were evaluated in a randomized block design with 5 repetitions.
-Cotyledons of 2-week-old cucumber seedlings were inoculated with ZYMV.
-Only the plants that did not show symptoms up to 63 days post inoculation were considered as tolerant.
-A chi-square (chi(2)) analysis for assessing segregation from F2 and both F1BC1, led to the conclusion that the tolerance found in cv.
-Formosa is determined by a recessive gene.

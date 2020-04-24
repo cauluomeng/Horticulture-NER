@@ -1,6 +1,0 @@
-A Web site has been set up on the internet to provide a compilation of current botanical information on the family Cucurbitaceae.
-This includes a general classification and taxonomy of the hierarchical levels down to species, subspecies, variety, and cultivar.
-Descriptions and economic uses of the taxa are given along with digitized images of the plants.
-Also provided are literature references and links to other web sites.
-The Cucurbit Network hosts the site at the URL: http://www.cucurbit.org/species.html.
-The maintenance and comprehensiveness of the site depend on a global collaborative effort of contributors.

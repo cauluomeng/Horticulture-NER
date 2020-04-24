@@ -1,8 +1,0 @@
-Muskmelon (Cucumis melo L.) plants were exposed to a 10-degrees-C chilling treatment for 72 hours, which induced leaf chilling injury symptoms (wilting, appearance of water-soaked areas, necrosis).
-Chilling caused an accumulation of starch, sucrose, hexoses (glucose and fructose), and certain amino acids (glutamate, aspartate, and citrulline) in source leaf tissues, but no accumulation of stachyose or other galactosyl-oligosaccharides occurred.
-Chilling also caused a general increase in sugar (stachyose, raffinose, sucrose) and amino acid content of the phloem sap, although rates of phloem transport were apparently reduced.
-Pretreatment of the leaves with a 20-milligram per liter abscisic acid (ABA) spray before chilling prevented the appearance of chilling injury symptoms.
-ABA pretreatment had little or no affect on sugar accumulation in leaf tissues but greatly reduced or eliminated the chilling-induced amino acid accumulation.
-Higher levels of aspartate and particularly of arginine were found in phloem saps from ABA-pretreated plants.
-The data indicate that changes in leaf metabolism caused by environmental stresses such as chilling may change the composition of cucurbit phloem sap.
-This raises the possibility that some of the deleterious effects of stress on sink tissues may, in part, be due to alterations in the nature of the assimilate supply.

@@ -1,7 +1,0 @@
-Zucchini yellow mosaic virus (ZYMV) was described in 1981 affecting squash, melon, and other cultivated cucurbits with severe stunting and yellowing symptoms.
-It was reported to be present in most countries where cucurbits are grown, and in Chile since 1995, from surveys using enzyme-linked immunosorbent assay (ELISA) but without further characterization.
-A potyvirus was isolated from ELISA-positive symptomatic plants.
-The results indicate that this virus is ZYMV based on symptoms on herbaceous indicators, immunospecific electron microscopy of the purified particle, and sequencing of 395 bases of the 3' end of the coat protein gene.
-The virus was detected in melon, watermelon, and squash plants.
-In agreement with previous descriptions for ZYMV, the Chilean isolate is a flexuous filamentous particle 740 nm long with one main protein of approximately 36 kDa.
-Nucleotide sequence comparisons of the 3' portion of the coat protein gene revealed a high similarity to the Connecticut and California strains.

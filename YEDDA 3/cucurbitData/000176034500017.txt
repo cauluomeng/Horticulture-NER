@@ -1,8 +1,0 @@
-Watermelon [Citrullus lanatus (Thunb) Matsum.
-& Nakai.] seedlings may be repeatedly exposed to temperatures alternating between almost freezing and optimum soon after field transplanting.
-'Carnival', 'Crimson Sweet', 'Millionaire' and 'Crimson Trio' watermelon transplants were exposed to cold temperature stress at 2+/-1 degreesC in a walk-in cooler and then to 29+/-5degreesC in a greenhouse immediately before field planting to simulate temperature alternations that may occur after field transplanting.
-Cold-stressed transplants were field planted after all risk of ambient cold stress passed.
-In 1998, transplants were exposed to 2degreesC from 9 hours to 54 hours, and in 1999 from 9 to 81 hours.
-Early yields of all cultivars, except Carnival, significantly decreased with increasing hours of cold stress in both years.
-Total yields of 'Carnival' decreased linearly in both years with a 10% yield reduction occurring from 14 to 15 hours of cold stress.
-'Crimson Sweet' yields were reduced in 1999 only, with 16 hours of cold stress reducing yield 10%.

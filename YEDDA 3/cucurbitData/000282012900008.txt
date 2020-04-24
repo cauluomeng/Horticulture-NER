@@ -1,7 +1,0 @@
-A putative Potexvirus was detected from bottle gourd (Lagenaria siceraria) showing mosaic and mottle symptoms in Myanmar in 2007.
-The virus was designated Lagenaria mild mosaic virus (LaMMoV) and was further characterized.
-In artificial inoculation tests, infectivity of LaMMoV was limited to two families: Chenopodiaceae and Cucurbitaceae.
-The host range of LaMMoV differs from those of the two cucurbit-infecting potexviruses, Alternanthera mosaic virus (AltMV) and Papaya mosaic virus (PapMV).
-Sequence analyses of LaMMoV showed that the C-terminal 3,859 nucleotides, excluding the poly-A tail, includes the C-terminal region of an RNA-dependent RNA polymerase (RdRp), a triple gene block (TUB), a coat protein (CP), and a 3' untranslated region (UTR), all of which are typical of potexviruses.
-Although LaMMoV is related closely to AltMV and PapMV, its nucleotide sequences differ from those of other previously reported potexviruses.
-Therefore, we report LaMMoV as a new species of the genus Potexvirus that occurs in the cucurbit bottle gourd.

@@ -1,8 +1,0 @@
-Sources of resistance to the watermelon strain of papaya ringspot virus-watermelon strain (PRSV-W) have been identified within the watermelon (Citrullus lanatus) germplasm collection.
-Inheritance of the resistance to PRSV-W was studied in three Citrullus amarus (formerly C.
-lanatus var.
-citroides) PI accessions: PI 244017, PI 244019, and PI 485583.
-Three susceptible parent lines, 'Allsweet', 'Calhoun Gray', and 'New Hampshire Midget', were crossed with resistant PI accessions to develop F-1, F-2, and BC1 progenies in six families.
-A single recessive gene was found to control the resistance to PRSV-W in all three resistant PI accessions.
-Allelism tests indicated that the three PI accessions carry the same resistance allele to PRSV-W.
-The gene symbol 'prv' is proposed for PRSV-W resistance in PI 244017, PI 244019, and PI 485583 in watermelon.

@@ -1,9 +1,0 @@
-The stress-related phytohormones, salicylic acid (SA) and abscisic acid (ABA), and the three jasmonates, jasmonic acid (JA), cis-12-oxo-phytodienoic acid (cis-OPDA), and (+)-7-iso-jasmonoyl-L-isoleucine (JA-Ile), were investigated in phloem and xylem exudates of Cucurbita maxima.
-   Phloem and xylem exudates were separately collected and analysed via liquid chromatography-mass spectrometry.
-   We show direct evidence for all three jasmonates, ABA, and SA in both phloem and xylem exudates of C.
-maxima.
-JA and JA-Ile concentrations are higher in xylem (JA: c(xylem) approximate to 199.5 nM, c(phloem) approximate to 43.9 nM; JA-Ile: c(xylem) approximate to 7.9 nM, c(phloem) approximate to 1.6 nM), whereas ABA and SA concentrations are higher in phloem exudates (ABA: c(xylem) approximate to 37.1 nM, c(phloem) approximate to 142.6 nM; SA: c(xylem) approximate to 61.6 nM, c(phloem) approximate to 1319 nM).
-During bacteria-derived flagellin 22 (flg22)-triggered remote root-to-shoot signalling, phytohormone concentration changed rapidly both in phloem and xylem.
-   The unequal distribution of phytohormones suggests that phloem and xylem have distinct roles in defence responses.
-Our data shed light on systemic phytohormone signalling and help explain how plants cope with environmental challenges by lateral exchange between phloem and xylem.
-Our analysis is a starting point for further investigations of how phytohormones contribute to phloem- and xylem-based defence signalling.

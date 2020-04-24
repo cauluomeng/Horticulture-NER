@@ -1,9 +1,0 @@
-The papaya ring spot virus (PRSV) causes significant fruit yield loss in cucurbit crops.
-Understanding of the inheritance and molecular mapping of PRSV resistance will facilitate development of resistant varieties to control this disease.
-In the present study, an F-2 population was developed from the cross between susceptible '65G' and resistant '02245' cucumber inbred lines.
-Genetic analysis of PRSV resistance in 144 F-2:3-derived F-3 families showed that resistance is controlled by a single recessive gene which was designated as prsv(02245).
-Simple sequence repeat (SSR) markers were employed in polymorphism screening between PRSV-susceptible and resistant DNA pools.
-The PRSV resistance gene, prsv(02245), was mapped on chromosome 6 that was flanked by two SSR markers, SSR11-177 and SSR11-1, which was 1.1 and 2.9 cM away from the prsv(02245) locus, respectively.
-The physical distance between the two markers was approximately 600 kb.
-The accuracy rate of marker-assisted selection of PRSV resistance among 35 cucumber lines using the marker, SSR11-177 was more than 80 %.
-Results from this study provide a valuable tool for fine mapping, gene cloning, and marker-assisted breeding for PRSV resistance in cucumber.

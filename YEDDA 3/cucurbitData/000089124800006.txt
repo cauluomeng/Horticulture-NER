@@ -1,4 +1,0 @@
-An insect specific alpha-amylase inhibitor (alpha-Al) from seeds of CO3 variety of little millet (Panicum sumatrens Roth) was isolated and purified to homogeneity following ammonium sulfate precipitation, successive chromatographic separations on Sephadex G75 and CM- cellulose columns and finally through RP-HPLC.
-Western blotting using polyclonal antibodies raised against the purified alpha-Al identified a unique band.
-The purified protein was found to be a non-glycosylated polypeptide with a molecular weight of 36kD.
-The isolated inhibitor severely inhibited the larval midgut alpha-amylases of tomato fruit borer (Helicoverpa armigera), brinjal shoot and fruit borer (Leucinodes orbonalis) and cucurbit fruit fly (Dacus cucurbitae).

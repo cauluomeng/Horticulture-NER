@@ -1,9 +1,0 @@
-A tospovirus isolate from Brazil, designated TSWV-B, was first identified as a unique isolate based on our observation that transgenic plants expressing the N gene of the lettuce strain of tomato spotted wilt virus (TSWV-BL) were susceptible to TSWV-B but showed resistance to both TSWV (L type) and impatiens necrotic spot virus (INSV).
-TSWV-B was serologically distinct from TSWV and INSV.
-TSWV-B generally incited symptoms resembling those caused by other TSWV isolates, except TSWV-B systemically infected Petunia hybrida, which is a local-lesion host of TSWV.
-Unlike the cucurbit isolate TSWV-W, TSWV-B did not infect Cucumis sativus and only occasionally induced systemic infections on C metuliferus.
-The complete nucleotide sequence of the S RNA of TSWV-B was determined with cDNA clones to be 3,049 nucleotides long.
-The genome organization of this S RNA was similar to those of TSWV and INSV.
-The alignment of the S RNA nucleotide and deduced amino acid sequences with the homologous sequences of TSWV (isolates CNPH1, L3, and BL) and INSV revealed that TSWV-B was related more closely to all the TSWV isolates than to INSV.
-There was a higher degree of identity among the TSWV isolates than with TSWV-B.
-Thus, TSWV-B appears to be a distinct tospovirus; however, a precise classification requires additional biological and molecular information on this isolate as well as comparison to other tospovirus isolates.

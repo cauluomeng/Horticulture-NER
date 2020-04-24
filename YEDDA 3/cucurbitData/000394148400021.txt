@@ -1,8 +1,0 @@
-Seed transmission of Zucchini yellow mosaic virus (ZYMV) has been demonstrated in a variety of cucurbits, including wild Cucurbita species, and pollen transmission of viruses is common in the family Potyviridae.
-Consequently, vertical transmission of ZYMV may occur via the pollen of infected wild squash as opposed to ovule transmission.
-To determine if vertical infection of ZYMV occurs via pollen transmission, we pollinated flowers on virus-free Cucurbita pepo ssp.
-texana plants with pollen from ZYMV infected plants.
-We found that seed infection of ZYMV via pollen occurs at a rate of 0.13 %.
-This rate is much lower than expected based on previously reported rates of seed transmission, which suggests that while seed transmission via pollen does occur in C.
-pepo, it is not the main mechanism for vertical infection.
-Because seed transmission of ZYMV has been shown in virus-resistant transgenic plants, it is possible that ZYMV infection of transgenic plants via pollen may contribute to the seed transmission and geographic distribution of this virus.

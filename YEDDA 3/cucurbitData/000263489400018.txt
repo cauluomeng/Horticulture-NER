@@ -1,5 +1,0 @@
-Production of polyclonal antibodies requires large amount of purified virus that can be avoided by the use of recombinant coat protein (CP).
-Recombinant CP of Papaya ringspot virus (PRSV) was thus used for the production of polyclonal antibodies as the virus purification from papaya tissues provides low virus yields.
-CP was expressed as a fusion protein (similar to 72 kD) containing a fragment of E.
-coli maltose binding protein.
-Polyclonal antibodies from rabbits immunized with the fusion protein, successfully detected natural infection of PRSV in papaya and cucurbits samples collected from different locations at 1:4000 dilution in direct antigen-coated enzyme-linked immunosorbent assay.

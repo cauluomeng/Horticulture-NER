@@ -1,5 +1,0 @@
-A population of recombinant inbred lines (RIL) derived from a cross between the Watermelon mosaic virus (WMV) resistant genotype TGR-1551 and the susceptible Spanish cultivar 'Bola de Oro' has been evaluated for WMV resistance in spring, fall and growth chamber conditions.
-The quantitative trait loci (QTL) analyses detected one major QTL (wmv) on linkage group (LG) XI close to the microsatellite marker CMN04_35.
-This QTL controls the resistance to WMV in the three environmental conditions evaluated.
-Other minor QTLs affecting the severity of viral symptoms were identified, but they were not detected in all the assayed environments.
-The screening of the marker CMN04_35 in an F(2) progeny, derived from the same cross, confirmed the effect of this QTL on the expression of WMV resistance also in early generations, which evidences the usefulness of this marker for a marker assisted selection program.

@@ -1,5 +1,0 @@
-Eight new 16,23-epoxycucurbitacin derivatives, designated as elaeocarpucins A-H (1-8), and five known cucurbitacins (9-13) were isolated from the chloroform-soluble partitions of separate methanol extracts of the fruits and stem bark of Elaeocarpus chinensis collected in Vietnam.
-Isolation work was facilitated using a LC/MS dereplication procedure, and bioassay-guided fractionation was monitored using HT-29 human cancer cells.
-The structures of compounds 1-8 were determined on the basis of spectroscopic data interpretation, with the absolute configurations of isomers 1 and 2 established by the Mosher ester method.
-Compounds 1-13 were evaluated in vitro against the HT-29 cell line and using a mitochondrial transmembrane potential assay.
-Elaeocarpucin C (3), produced by partial synthesis from 16 alpha,23 alpha-epoxy-3 beta,20 beta-dihydroxy-10 alpha H,23 beta H-cucurbit-5,24-dien-11-one (13), was found to be inactive when evaluated in an in vivo hollow fiber assay using three different cancer cell types (dose range 0.5-10 mg/kg/day, ip).

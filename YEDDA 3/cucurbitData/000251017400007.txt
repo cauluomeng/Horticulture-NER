@@ -1,9 +1,0 @@
-A new tobamo-like virus was isolated from a greenhouse-grown cucumber that showed severe mosaic distortion on leaves and fruit, in the southern part of Japan.
-The virus was tentatively designated Cucumber mottle virus (CuMoV) and further characterized.
-The size and antigenicity of the coat protein (CP) and the complete sequence of the genome were compared with those of the known cucurbit-infecting tobamoviruses: the W and SH strains of Cucumber green mottle mosaic virus (CGMMV), the C and Y strains of Kyuri green mottle mosaic virus (KGMMV), Cucumber fruit mottle mosaic virus (CFMMV), and Zucchini green mottle mosaic virus (ZGMMV).
-The CP of CuMoV migrated more slowly than those of CGMMV-W and -SH and KGMMV-C and -Y in sodium dodecyl sulfate polyacrylamide gel electrophoresis.
-In Western blot analysis, the CP of CuMoV cross-reacted weakly with antisera against CGMMV-W and did not react with antisera against KGMMV-Y.
-The overall nucleotide sequence of CuMoV had 62.5 to 63.5% identity with those of CGMMV-W, -SH, KGMMV-Y, CFMMV, and ZGMMV.
-The genome organization was characteristic of tobamoviruses, encoding a 131-kb protein, a 188-kb protein, a movement protein (MP), and CP in 5' to 3' order.
-In the phylogenetic analyses of the CP, CuMoV was placed in a separate lineage from CGMMV-W, -SH, KGMMV-C, -Y, CFMMV, and ZGMMV.
-The results indicate that CuMoV is a distinct tobamovirus species which represents a third sub-subgroup in the cucurbit-infecting tobamoviruses.

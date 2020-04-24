@@ -1,7 +1,0 @@
-This study was carried out to investigate the causal factors of yellowing symptom of melon that has recently increased in major production areas in Korea and to characterize root growth, sugar content and morphology of melon with the yellowing symptom.
-The growth characteristics were not significantly different between normal plants (control) and plants that two-thirds of roots were removed (root pruning).
-The root length of plants of the control and root pruning were 1,197 and 1,120 cm, respectively, but plants showing yellowing symptom were 696 cm.
-The root volume was greatest in control (10.31 cm(3)) and the lowest in plants showing yellow symptom (6.99 cm(3)).
-The contents of glucose, fructose, and sucrose in leaves were greatest in plant showing yellowing symptom than the normal plants and sugars in stems, fruits, and roots were also slightly low in plants with the yellowing symptom.
-In a scanning electron microscope (SEM) observation of mesophyll, sieve tubes were closed in the plants with yellowing symptom.
-This result suggested that the occurrence of yellowing symptom and lowered root mass are closely related and the high sugar contents in leaves with yellowing symptom might be caused by poor translocation of free sugars produced in leaves to other organs by closed sieve tubes.

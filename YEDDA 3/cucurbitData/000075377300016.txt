@@ -1,9 +1,0 @@
-Although plants generally show maternal transmission of the organellar genomes, previous research has demonstrated that the mitochondrial (mt) genome of cucumber is paternally transmitted.
-In this study, we identified RFLPs in the organellar genomes of melon, squash, and watermelon to establish organellar DNA transmission.
-Serial dilutions of DNA demonstrated that our hybridizations revealed the presence of a polymorphic cytoplasm when it represented at least 1% of the DNA sample.
-At this level of sensitivity, the chloroplast genomes of melon, squash, and watermelon were maternally transmitted.
-The mitochondrial genomes of squash and watermelon were maternally transmitted; however, melon, like cucumber, showed paternal transmission of the mitochondrial genome.
-Because most angiosperms and the related genera Cucurbita and Citrullus show maternal transmission of the mtDNA, paternal transmission in Cucumis is likely the derived state.
-The Cucumis mitochondrial genomes are several-fold larger than those of other cucurbits.
-Based on 55 probe-enzyme combinations, mtDNA size differences could not be explained by duplication of the entire genome or partial duplication of regions hybridizing with the mitochondrial probes.
-Because the chloroplast, mitochondrial, and nuclear genomes of Cucumis are differentially transmitted, this genus is an excellent system to study the role of intergenomic transfer in the evolution of extremely large mitochondrial genomes.

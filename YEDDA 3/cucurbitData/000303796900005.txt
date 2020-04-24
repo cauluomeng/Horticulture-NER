@@ -1,9 +1,0 @@
-Symptom expression and levels of the ipomovirus Cucumber vein yellowing virus (CVYV) and the crinivirus Cucurbit yellow stunting disorder virus (CYSDV) were compared in greenhouse cucumbers in single and mixed infections.
-Results were contrasted with those obtained for plants infected with the potyvirus Zucchini yellow mosaic virus (ZYMV) in single and in mixed infections with either CVYV or CYSDV.
-Cucumber showed leaf symptoms of each co-infecting virus, except for the combination of CYSDV with ZYMV, where the typical CYSDV-like symptoms of interveinal leaf yellowing were inconspicuous or absent.
-The progression of CVYV as quantified by real-time RT-PCR was similar in plants with single infections and in mixed infection with CYSDV between 15 and 60 days post-inoculation (dpi).
-However, CYSDV was detected at significantly enhanced levels in plants when co-infected with CVYV but not when co-infected with ZYMV.
-In the latter case, ZYMV levels were reduced when compared with single infections.
-During mixed infections of ZYMV and CVYV, the titre levels of the ipomovirus were significantly lower when compared with single infections.
-Cucumber had reduced plant height, internode length, dry weight and fruit yield, positively correlated with the titre levels of CVYV and not of CYSDV during mixed infections.
-It is concluded that co-infections with CVYV enhance the titre of CYSDV, which could have epidemiological significance.

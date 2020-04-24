@@ -1,9 +1,0 @@
-The host range and molecular variation of several Iranian isolates of Zucchini yellow mosaic virus (ZYMV) were investigated.
-Of 1,119 symptomatic cucurbit samples and one symptomatic weed species (Colocynth; Citrullus colocynthis) collected from 13 Iranian provinces, 430 samples were ZYMV-infected as indicated by DAS-ELISA.
-Twenty one viral isolates were chosen for biological and molecular characterizations based on their host range and geographical distribution.
-Based on biological properties, the isolates clustered in three groups.
-Isolates of group I and II, induced similar symptoms on watermelon, Chenopodium quinoa and C.
-amaranticolor, whereas isolates of group m produced different symptoms.
-The complete coat protein (CP) gene, the N-terminal coding region of the CP gene and the C-terminal part of the polymerase gene (Nib) of the 21 isolates were amplified by PCR, cloned and sequenced.
-Phylogenetic analysis using the 836 bp fragment comprising the complete CP gene and the 250 bp of NIb-CP fragment showed that ZYMV isolates clustered in three groups.
-Iranian isolates belonged to group I which was divided into two subgroups, I(A) and I(B).

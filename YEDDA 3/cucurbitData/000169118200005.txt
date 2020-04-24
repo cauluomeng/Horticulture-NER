@@ -1,8 +1,0 @@
-Recent findings from Michigan suggest that recombination may play a role in the survival and evolution of sensitivity to the fungicide mefenoxam in populations of Phytophthora capsici on cucurbit hosts.
-In 1998, 63 mefenoxam insensitive isolates were recovered from a squash field in which mefenoxam had been applied.
-Additional isolates were recovered from untreated squash fields planted at this location in 1999 (200 isolates) and the spring of 2000 (34 isolates).
-Isolates from 1998 and 1999 were characterized using fluorescent amplified fragment length polymorphism (AFLP) markers and all isolates were screened for compatibility type and mefenoxam sensitivity.
-In 1998 and 1999, 92 and 71% of the isolates, respectively, had unique multilocus AFLP genotypes with no identical isolates recovered between years.
-Seventy-two identical AFLP markers were clearly resolved in both the 1998 and 1999 sample sets, and fixation indices for the 37 polymorphic AFLP loci indicate little differentiation between years.
-There was no decrease in the frequency of resistant isolates during the 2 years without mefenoxam selection.
-We conclude that oospores play a key role in overwintering and that the frequency of mefenoxam insensitivity may not decrease in an agriculturally significant time period (2 years) once mefenoxam selection pressure is removed.

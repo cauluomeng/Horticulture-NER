@@ -1,9 +1,0 @@
-'Hymark' and 'Mission' melons (Cucumis melo) were grown in growth chambers over 4 weeks in sand inoculated with the soil-borne pathogens Monosporascus cannonballus, Acremonium cucurbitacearum, or Rhizopycnis vagum.
-Quantitative information on plant characteristics and biomass was collected from destructively sampled plants.
-Leaf-surface area and root mass decreased in plants proportionally with disease severity.
-Both the leaf-area index and the root mass were significantly correlated with disease severity index.
-However, leaf-area index was 3.5 times more precise and more likely to reflect damage to plant roots than shift in root mass.
-Leaf-area index was capable of detecting significant differences in root damage even in cases where root-mass measures failed to do so.
-The leaf area index is particularly suitable for non-destructive, continuous evaluation of plant impairment.
-Standardized to common scale, quantitative assessment of plant impairment using leaf area index has great potential as a tool for precise and accurate assessment of plant resistance and/or pathogen virulence.
-The index may facilitate spatial and temporal comparisons and meta-analyses of data for cucurbits.

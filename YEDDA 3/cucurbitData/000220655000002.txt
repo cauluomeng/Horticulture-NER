@@ -1,7 +1,0 @@
-Plants in the genus Cucumis (cucumber and melon) have the largest mitochondrial genomes known among all plants, due in part to the accumulation of repetitive DNAs of varying complexities.
-Recombination among these repetitive DNAs should produce highly rearranged mitochondrial genomes relative to the smaller mitochondrial genomes of related plants.
-We cloned and sequenced mitochondrial genomic regions near the rRNA, atp9 and cob genes from cucumber, melon, squash and watermelon (all members of the Cucurbitaceae family), and compared to the previously sequenced mitochondrial genomes of Arabidopsis thaliana and sugar beet to study the distribution and arrangement of coding and repetitive DNAs.
-Cucumber and melon had regions of concentrated repetitive DNAs spread throughout the sequenced regions; few repetitive DNAs were revealed in the mitochondrial genomes of A.
-thaliana, sugar beet, squash and watermelon.
-Recombination among these repetitive DNAs most likely produced unique arrangements of the rrn18 and rrn5 genes in the genus Cucumis.
-Cucumber mitochondrial DNA had more pockets of dispersed direct and inverted repeats than melon and the other plants, and we did not reveal repetitive sequences significantly contributing to mitochondrial genome expansion in both cucumber and melon.

@@ -1,7 +1,0 @@
-Leaf samples from Thailand of Sauropus androgynus (L.) Merr.
-plants presenting leaf yellowing symptoms were screened by reverse transcription polymerase chain reaction for the presence of polerovirus infection.
-In five of eight samples, a polerovirus was detected, and in four of these five polerovirus-positive samples, a begomovirus infection had been detected in a previous study.
-The complete polerovirus genome sequence was determined from the sample which was not also infected with a begomovirus.
-Analysis of the sequence revealed the typical genome organization of a polerovirus.
-The highest nucleotide sequence identity to any other polerovirus species sequence in GenBank was 49% to pepper yellow leaf curl virus (PYLCV), and the highest amino acid sequence identity of all deduced protein sequences was 70% with the coat protein of PYLCV.
-Based on these findings, we propose this novel polerovirus species be named Sauropus yellowing virus (SaYV).

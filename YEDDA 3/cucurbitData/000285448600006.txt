@@ -1,6 +1,0 @@
-Although Watermelon mosaic virus (WMV) is one of the main cucurbit pathogens and has a worldwide distribution, reliable data on its molecular variability is still limited to some geographical regions.
-The genetic diversity of 36 WMV isolates from Slovakia and Iran were studied by sequence analysis targeting two opposite genomic regions (PI and NIb-CP).
-Phylogenetic analysis using partial sequences of the PI gene showed that Slovak WMV isolates had greater diversity, representing two groups (group I and group 2), whereas all Iranian isolates belonged to a single group (group 2), with relatively low divergeance.
-Interestingly, in the NIb-CP region, all analyzed Slovak and Iranian isolates clustered within the group I, thereby illustrating the phylogenetic discrepancies between the two analyzed genomic regions.
-Based on these data, one-half of analyzed Slovak isolates and all Iranian WMV isolates showed a switch in affiliation based on considered genomic region, clearly indicating their recombinant nature.
-This work provides further evidence of the significant contribution of recombination to the evolutionary history of WMV and outlines the necessity to target more than a single genome fragment for accurate typing of WMV isolates.

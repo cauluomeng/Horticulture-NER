@@ -1,8 +1,0 @@
-In this study, Tomato yellow leaf curl Sardinia virus (TYLCSV) and the strains Israel and Mild of Tomato yellow leaf curl virus (TYLCV-IL, TYLCV-Mld) were detected for the first time in four cucurbit crops in Jordan by nested polymerase chain reaction (OCR).
-These viruses cause the tomato yellow leaf curl disease (TYLCD) in tomato.
-Cucumber, squash, melon and watermelon plants inoculated with TYLCV-IL[JO:Cuc], TYLCV-Mld, TYLCSV-IT[IT:Sar:88] and the Jordanian isolate of TYLCV (TYLCV-JV) did not show disease symptoms.
-However, virus-specific fragments were detected in uppermost leaves of symptomless plants by nPCR.
-A whitefly transmission test showed that Bemisia tabaci could transmit TYLCV-Mld from cucumber into tomato and jimsonweed plants.
-However, all infected tomato plants remained symptomless.
-In addition, results of semi-quantitative PCR (sqPCR) analysis showed that the relative amount of TYLCV-Mld DNA acquired by B.
-tabaci from Cucumber plants was less than that acquired from tomato plants.

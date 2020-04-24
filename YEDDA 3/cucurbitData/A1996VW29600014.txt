@@ -1,9 +1,0 @@
-Symptoms of interveinal chlorosis (yellowing) are commonly observed in melon or cucumber plants grown in greenhouses in the southeastern coast of Spain.
-The agent of the disease was determined to be cucurbit yellow stunting disorder Virus (CYSDV).
-CYSDV was shown to be transmitted specifically by the tobacco whitefly (Bemisia tabaci), was retained by the vector for at least 7 days.
-and had an experimental host range restricted to members of the family Cucurbitaceae.
-Filamentous, flexuous virus particles typical of the closteroviruses were observed in infected plants.
-The length distribution of the virus particles showed two peaks at 825 to 850 nm and 875 to 900 nm.
-Analysis oi double-stranded (ds) RNA extracts revealed two major dsRNA species of approximately 8 and 9 kbp, Random cDNA cloning of viral dsRNA was performed, and a virus-specific cDNA clone (p410) of 557 nucleotides that hybridized with the smaller of the two viral dsRNA species was identified.
-Computer-assisted analysis showed that the deduced amino acid sequence of p410 was significantly similar to the HSP70 homologs of the closteroviruses and showed greater similarity to the HSP70 homolog of the BI tabaci-transmitted lettuce infectious yellows closterovirus (LIYV) than to the HSP70 homologs oi the aphid-transmitted closteroviruses.
-The data suggest that CYSDV is a member of a newly recognized subgroup of closteroviruses with bipartite genomes exemplified by LIYV.

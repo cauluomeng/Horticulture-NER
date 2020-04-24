@@ -1,9 +1,0 @@
-Plant disease resistance (R) proteins that confer resistance to viruses recognize viral gene products with diverse functions, including viral suppressors of RNA silencing (VSRs).
-The P0 protein from poleroviruses is a VSR that targets the ARGONAUTE1 (AGO1) protein for degradation, thereby disrupting RNA silencing and antiviral defences.
-Here, we report resistance against poleroviruses in Nicotiana glutinosa directed against Turnip yellows virus (TuYV) and Potato leafroll virus (PLRV).
-The P0 proteins from TuYV (P0(Tu)), PLRV (P0(PL)) and Cucurbit aphid-borne yellows virus (P0(CA)) were found to elicit a hypersensitive response (HR) in N.glutinosa accession TW59, whereas other accessions recognized P0(PL) only.
-Genetic analysis showed that recognition of P0(Tu) by a resistance gene designated RPO1 (Resistance to POleroviruses 1) is inherited as a dominant allele.
-Expression of P0 from a Potato virus X (PVX) expression vector transferred recognition to the recombinant virus on plants expressing RPO1, supporting P0 as the unique Polerovirus factor eliciting resistance.
-The induction of HR required a functional P0 protein, as P0(Tu) mutants with substitutions in the F-box motif that abolished VSR activity were unable to elicit HR.
-We surmised that the broad P0 recognition seen in TW59 and the requirement for the F-box protein motif could indicate detection of P0-induced AGO1 degradation and disruption of RNA silencing; however, other viral silencing suppressors, including the PVX P25 that also causes AGO1 degradation, failed to elicit HR in N.glutinosa.
-Investigation of P0 elicitation of RPO1 could provide insight into P0 activities within the cell that trigger resistance.

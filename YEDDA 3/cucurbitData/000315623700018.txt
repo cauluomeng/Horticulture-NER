@@ -1,8 +1,0 @@
-Downy mildew (DM) of cucumber (Cucumis sativus L.), caused by Pseudoperonospora cubensis, is a devastating disease of cucurbits.
-Resistance is available but is not sufficient to eliminate the need for fungicides to control the disease.
-Previously, the USDA Plant Introduction collection of cucumber germplasm was screened in Poland and North Carolina, and Ames 2354 was identified as highly resistant.
-The objectives of this study were to develop an effective method for measuring resistance to DM and to determine the type of gene action controlling resistance in Ames 2354.
-Plant Introduction 175695 was used as the susceptible parent in crosses with Ames 2354 to make seven generations for study: P-1, P-2, F-1, F-1 reciprocal, F-2, BC1P1, and BC1P2.
-Additive effects were more important than dominant effects in our study with resistance attributed to a few major loci.
-Greenhouse testing methods were identified that can be used in selecting for improved resistance.
-Selection using the best test methods could lead to a gain of at least 2.5 points (on a 10 point scale) per generation even under the lower selection intensities (i.e., 20%) typically used in recurrent selection programs.

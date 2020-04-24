@@ -1,6 +1,0 @@
-Isolates of Zucchini yellow mosaic virus were obtained from different cucurbit crops in Hangzhou city, China.
-The complete nucleotide sequences of four isolates and the 3'-terminal sequences, including the coat protein coding region, of four others were determined and then compared with other available sequences.
-Phylogenetic analysis of the coat protein nucleotide sequences showed that these isolates fell into three significant groups, one of which (designated group III) consisted exclusively of Chinese isolates and is reported for the first time.
-Comparisons over the completely sequenced genomes showed that, typically for potyviruses, the 5'-end of the genome was usually the most variable but that the group III isolate differed from the others most significantly in the N-terminal part of the coat protein.
-Partially sequenced group III isolates also varied from other isolates in this region.
-Group III isolates appear to differ biologically from the other isolates because they do not cause symptoms in watermelon fruit but induce more severe symptoms on the watermelon leaves.

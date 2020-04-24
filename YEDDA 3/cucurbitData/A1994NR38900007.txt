@@ -1,7 +1,0 @@
-Infection of the cotyledons of Cucurbita pepo L.
-with cucumber mosaic virus (CMV) results in the formation of chlorotic, starch-containing lesions.
-To characterize the physiological changes occurring within lesions, the distribution of the virus was examined by immunolocalization and correlated with starch accumulation, (CO2)-C-14 assimilation and chlorophyll a fluorescence quenching.
-These techniques resolved the lesion into a complex and reproducible arrangement of cell types of diverse physiology.
-The region of infected cells extended beyond specific circular zones of cells which variously showed enhanced rates of CO2 assimilation, enhanced chlorophyll a fluorescence quenching, starch accumulation, starch degradation and chlorosis.
-This indicates a series of physiological changes occurring over several days following viral replication within a cell.
-Starch accumulation in the lesion was shown to result from photosynthetic activity of cells within the lesion and not from the import of photosynthate from surrounding uninfected areas of the cotyledon.

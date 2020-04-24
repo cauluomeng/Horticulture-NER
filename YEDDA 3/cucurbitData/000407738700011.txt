@@ -1,9 +1,0 @@
-Cucumber green mottle mosaic virus (CGMMV) was first described in 1935 infecting cucumber, making it one of the first plant viruses to be studied.
-Its initial distribution occurred out of England to other countries.
-This was followed by its distribution from England and these other countries to additional countries.
-This process increased slowly between 1935 and 1985, faster between 1986 and 2006, and rapidly between 2007 and 2016.
-The discovery that it diminished cucurbit fruit yields and quality, especially of watermelon, prompted a substantial research effort in worst-affected countries.
-These efforts included obtaining insight into its particle and genome characteristics, evolution, and epidemiology.
-CGMMV's particle stability, ease of contact transmission, and seed transmissibility, which are typical tobamovirus characteristics, explained its complex disease cycle and its ability to spread locally or over long distances without a vector.
-Knowledge of its disease etiology and epidemiology enabled development of integrated disease management approaches that rely heavily on diverse phytosanitary measures.
-Dispersal of seed-borne infection through the international seed trade following cucurbit seed crop production in tropical or subtropical countries explains its recent rapid dispersion worldwide.

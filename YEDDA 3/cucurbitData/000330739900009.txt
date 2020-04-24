@@ -1,7 +1,0 @@
-During surveys conducted in 2012-2013, viruslike symptoms of chlorotic spots with, in some cases, a necrotic centre in older leaves were observed in field- and greenhouse-grown cucumber (Cucumis sativus L.), melon (C.melo L.) and squash (Cucurbita sp.) in the major cucurbit cultivation regions in Iran.
-Leaf samples were collected and tested for the presence of Cucumber leaf spot virus (CLSV, genus Aureusvirus, family Tombusviridae) by a virus specific double-antibody sandwich enzyme-linked immunosorbent assay (DAS-ELISA).
-CLSV was detected in four of eight surveyed provinces in melon, cucumber and squash.
-When plant sap of ELISA positive samples was used to mechanically inoculate healthy squash plants, chlorotic spots with, in some cases, necrotic centres were observed on the inoculated leaves 20-25days postinoculation.
-The presence of CLSV was confirmed by reverse transcription polymerase chain reactions using specific primers amplifying the entire coat protein gene of CLSV.
-Sequence comparison with sequences available at GenBank showed 93% nucleotide sequence identity to CLSV isolates from Israel (DQ227315) and Canada (EU127904), the only CLSV coat protein sequences available.
-To our knowledge, this is the first report of the occurrence of CLSV in Iran.

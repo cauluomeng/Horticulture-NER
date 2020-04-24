@@ -1,6 +1,0 @@
-A potyvirus (Su-94-54) was isolated from a naturally infected snake cucumber (Cucumis melo var.
-flexuosus) plant with severe mosaic and leaf deformation symptoms collected in Eastern Sudan.
-This isolate has a host range limited to cucurbits and is serologically distantly related to Moroccan watermelon mosaic virus (MWMV) and to Papaya ringspot virus (PRSV).
-Coat protein sequence analysis of Su-94-54 and MWMV and comparison with other potyviruses indicate that Su-94-54 is more closely related to MWMV than to any other potyvirus.
-Based on the amino acid sequence identity in the core part of the coat protein with MWMV (86%), this isolate could be regarded as a distinct species.
-However, because of biological, cytological, and serological affinities with MWMV, we propose that this isolate be considered as a strain of MWMV, possibly an evolutionary intermediate between MWMV and PRSV, until more is known on the structure of the PRSV subgroup within the genus Potyvirus.

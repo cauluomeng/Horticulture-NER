@@ -1,8 +1,0 @@
-Field surveys were conducted during 2012-14 to document the occurrence and distribution of viruses infecting cucurbits in all the seven agroclimatic zones of Tamil Nadu state, south India.
-Samples collected from various types of cucurbits showing virus-like symptoms were tested for Cucumber mosaic virus (CMV), Papaya ringspot virus (PRSV), Zucchini yellow mosaic virus (ZYMV), Cucumber green mottle mosaic virus (CGMMV) and begomoviruses using serological (Dot Immuno Binding Assay, DIBA) and molecular (RT-PCR for RNA viruses and PCR for DNA viruses) methods.
-Results indicated higher incidence (98.6%) of begomoviruses, followed by PRSV (32.1%) and CGMMV (22.2%).
-ZYMV and CMV were detected at a lower frequency of 7.1% and 5%, respectively.
-Mixed infections with two or three of these viruses were observed in more than 50% of the samples analyzed.
-Sequencing of begomovirus-specific amplicons indicated the presence of sequences highly similar to Tomato leaf curl New Delhi virus (ToLCNDV) and Squash leaf curl China virus (SLCCNV).
-(C) 2017 Elsevier Ltd.
-All rights reserved.

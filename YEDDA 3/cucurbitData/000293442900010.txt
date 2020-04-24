@@ -1,7 +1,0 @@
-LE PRODUCTION
-LA English
-DT Article; Book Chapter
-C1 [George, Raymond A.
-T.] United Nations Food & Agr Org, Rome, Italy.
-   [George, Raymond A.
-T.] Univ Bath, Bath BA2 7AY, Avon, England.

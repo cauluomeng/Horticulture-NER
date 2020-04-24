@@ -1,5 +1,0 @@
-Sources of resistance to the Zucchini yellow mosaic virus-Florida strain (ZYMVFL) have been identified within the Citrullus genus.
-Inheritance of resistance to ZYMVFL was studied in PI 595203 (Citrullus mucosospermus), a resistant watermelon accession.
-The F-1, F-2, and BC1 progenies derived from the cross 'Calhoun Gray' (CHG) x PI 595203 and 'New Hampshire Midget' (NHM) x PI 595203 were used to study the inheritance of resistance to ZYMV-FL.
-Seedlings were inoculated with a severe isolate of ZYMV-FL at the first true leaf stage and rated weekly for at least 6 weeks on a scale of 1 to 9 on the basis of severity of viral symptoms.
-A single recessive gene (zym-FL) was found to control the high level of resistance to ZYMV-FL in PI 595203.

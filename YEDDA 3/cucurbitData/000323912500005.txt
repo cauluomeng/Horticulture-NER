@@ -1,9 +1,0 @@
-The incidence and distribution of Tobacco mosaic virus (TMV) and related tobamoviruses was determined using an enzyme-linked immunosorbent assay on 1,926 symptomatic horticultural crops and 107 asymptomatic weed samples collected from 78 highly infected fields in the major horticultural crop-producing areas in 17 provinces throughout Iran.
-The results were confirmed by host range studies and reverse transcription-polymerase chain reaction.
-The overall incidence of infection by these viruses in symptomatic plants was 11.3%.
-The coat protein (CP) gene sequences of a number of isolates were determined and disclosed to be a high identity (up to 100%) among the Iranian isolates.
-Phylogenetic analysis of all known TMV CP genes showed three clades on the basis of nucleotide sequences with all Iranian isolates distinctly clustered in clade II.
-Analysis using the complete CP amino acid sequence showed one clade with two subgroups, IA and IB, with Iranian isolates in both subgroups.
-The nucleotide diversity within each subgroup was very low, but higher between the two clades.
-No correlation was found between genetic distance and geographical origin or host species of isolation.
-Statistical analyses suggested a negative selection and demonstrated the occurrence of gene flow from the isolates in other clades to the Iranian population.

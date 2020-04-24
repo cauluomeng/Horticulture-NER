@@ -1,5 +1,0 @@
-RNA isolation from ripe fruit can be complicated by high concentrations of sugar and water.
-These sugars interfere with RNA extraction often resulting in low RNA quality and quantities, and high water concentrations dilute the RNA, making isolation difficult.
-We report a simple but novel method by which the majority of the excess sugar and water in mature fruit of tomato (Lycopersicon esculentum Mill.), watermelon [Citrullus lanatus (Thumb.) Matsum.
-& Nakai], and muskmelon (Cucumis melo L.) can be easily removed from tissue before RNA extraction.
-This method produced quality RNA in a shorter time than the currently accepted method for fruit tissue RNA isolation and does not require liquid nitrogen or a freeze dryer.

@@ -1,5 +1,0 @@
-Genomic resources, including large-scale sequencing, whole genome transcriptome analyses, and fine-scale genetic mapping, enable new insights Into entire networks determining fruit quality.
-Molecular biology was introduced into melon fruit quality studies almost 15 years ago beginning with several breakthroughs: (1) the cloning and knockout of a gene involved in the regulation of fruit ripening, (2) the isolation and characterization of additional genes associated with fruit ripening and quality, and (3) the first genetic map that included molecular markers.
-Subsequent advances in molecular techniques led to the rapid development of genomic and metabolomic resources for melon and other cucurbits.
-The impact of this progress on the application to fruit quality improvement is Just beginning to emerge.
-This is an overview of the current knowledge related to some of the major metabolic pathways associated with melon fruit quality and the genomic tools that are being developed.

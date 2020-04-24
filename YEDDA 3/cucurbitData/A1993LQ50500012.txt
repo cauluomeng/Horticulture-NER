@@ -1,9 +1,0 @@
-Strategies based on the application of biotechnologies to crop improvement programmes generally require regeneration of whole plants from cells or tissues cultivated in vitro.
-In Cucurbitaceae, regeneration can occur either through a caulogenic or an embryogenic developmental pathway.
-Reports of somatic embryogenesis have dealt with the main cultivated crops, i.e.
-cucumber, melon, squash and watermelon.
-Somatic embryogenesis and plant recovery are obtained from numerous sources including protoplasts, but the best results are observed with explants coming from seedlings, especially cotyledons and hypocotyls.
-The genetic constitution of mother plants also seems to play a key role in the success of embryogenesis, but few systematic studies on genotype effect have been published.
-Somatic embryos can exhibit developmental abnormalities, particularly when they arise from protoplast-derived cultures.
-Generally, data concerning embryo yield, rate of germination and plant development and characteristics of regenerated plants and their progeny, has not been provided in previous reports.
-The potential use of somatic embryogenesis in cucurbit breeding programmes is stressed in this review.

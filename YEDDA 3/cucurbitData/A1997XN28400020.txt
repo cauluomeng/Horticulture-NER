@@ -1,8 +1,0 @@
-Melon rugose mosaic virus (MRMV) was isolated from snake cucumber (Cucumis melo var.
-flexuosus) in the Kassala region of Sudan in 1993.
-The host range of the virus was mostly limited to cucurbits, where it induced severe mosaic and leaf deformations.
-Cytopathological studies revealed severe chloroplast alterations, including vesicles at their periphery and the tendency to aggregate, which are typical of tymovirus infections, providing further evidence that MRMV is a tentative member of the genus Tymovirus.
-In melon and snake cucumber, MRMV was found to be seed transmitted at rates of 0.9 and 3.8%, respectively.
-Seed dissection experiments revealed that the virus could be detected in the seed coat, papery layer, and embryo.
-Seed disinfection treatments did not reduce seed transmission rates, which suggests an internal transmission.
-A preliminary screening for resistance in melon revealed some resistance in two out of 367 accessions tested.

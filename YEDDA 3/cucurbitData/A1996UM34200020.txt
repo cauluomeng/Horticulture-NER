@@ -1,9 +1,0 @@
-Isolates of the cucurbit powdery mildew fungus, Sphaerotheca fuliginea, resistant to triadimefon (able to grow on leaf disks treated with 50 mu g/ml) and isolates resistant to benomyl (200 mu g/ml) were found in commercial production fields and research plots that had not been treated with these fungicides in California, Florida, Georgia, Michigan, North Carolina, and New York in 1993 and 1994.
-Triadimefon-resistant isolates also were found in nontreated fields in Arizona and Virginia and in treated fields in Texas.
-Overall, triadimefon-resistant isolates were found in 18 of 19 nontreated fields; benomyl-resistant isolates were found in eight of these fields.
-The proportion of isolates obtained from nontreated commercial fields that were resistant ranged from 2 to 95% for triadimefon and from 3 to 25% for benomyl.
-Triadimefon was used more than benomyl for managing cucurbit powdery mildew in the United States in the 1990s.
-Triadimefon-resistant isolates were less sensitive to two other triazole fungicides not registered for use on cucurbits in the United States when this study was conducted: 91 and 94% of the isolates that were insensitive to propiconazole at 5 mu g/ml and myclobutanil at 20 mu g/ml, respectively, were resistant to triadimefon.
-The highest concentration of myclobutanil tolerated by 403 triadimefon-sensitive isolates was 0 to 0.01, 0.1 to 1.0, 2, and 20 mu g/ml for 14.5, 49, 35, and 1.5%, respectively.
-The highest concentration of propiconazole tolerated by 256 triadimefon-sensitive isolates was 0 to 0.01, 0.05, 0.5, and 5 mu g/ml for 7, 44, 46, and 3%, respectively.
-Spearman rank correlation coefficients were 0.7 for these fungicides.

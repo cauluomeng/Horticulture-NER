@@ -1,8 +1,0 @@
-The occurrence and relative incidence of viruses including Cucumber mosaic virus(CMV), Zucchini yellow mosaic virus (ZYMV), Papaya ringspot virus (PRSV), and Watermelon mosaic virus (WMV), Cucumber green mottle mosaic virus (CGMMV), kyuri green mottle mosaic virus (KGMMV), and Melon necrotic spot virus (MNSV) were surveyed from main melon (Cucumis melo L.) production areas in Jeonnam province during 2000-2002.
-Virus disease incidences of melon cultivating fields were 0% and 11% in spring and fall 2000; 40%, 2.1%, and 8.8% in spring, summer, and fall 2001; and 6.3% in spring 2002 in main cultivated areas in Jeonnam province, respectively.
-Field disease incidences of melon virus infections were 0% and 18.8% in spring and fall 2000; 50%, 38.5%, and 82.6% in spring, summer, and fall 2001; and 47.4% in spring 2002, respectively.
-Total of 101 melon samples showing typical disease symptoms were collected from 2000 to 2002 and tested for virus infection by RT-PCR.
-Potyvirus-specific DNA fragments for WMV, ZYMV, and PRSV were amplified from 46, 5, and 4 samples, respectively.
-MNSV specific DNA.
-fragment was amplified from 18 samples.
-CMV-specific DNA fragment was detected from only 3 samples.

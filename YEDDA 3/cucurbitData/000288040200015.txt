@@ -1,4 +1,0 @@
-For quarantine purpose, we selected five plant RNA viruses including Cucumber vein yellowing virus (CVYV), Cucurbit yellow stunting disorder virus (CYSDV), Potato aucuba mosaic virus (PAMV), Potato yellow dwarf virus (PYDV), and Tomato chlorosis virus (ToCV), which are not reported in Korea and cause serious economic losses to the family Cucurbitaceae or Solanaceae.
-To detect those viruses, we employed RT-PCR technique with specific oligonucleotide primer pairs and tested their detection efficiency for each virus.
-To design RT-PCR primers, coat protein was used for CVYV, CYSDV, and ToCV whereas RNA polymerase and nucleocapsid regions were used for PAMV and PYDV, respectively.
-The development of an RT-PCR based method proved a useful tool for rapid detection and identification of quarantine virus infections.

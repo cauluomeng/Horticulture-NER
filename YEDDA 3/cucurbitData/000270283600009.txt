@@ -1,6 +1,0 @@
-Melon yellow spot virus (MYSV), a member of the genus Tospovirus, is a devastating thrips- transmitted virus of cucurbits in Japan.
-Recently, we reported that cucumber accessions originating from South Asia, in particular Southeast Asia, had moderate resistance to MYSV.
-Here, we investigated the effect of three temperatures (20 degrees C, 25 degrees C, and 30 degrees C) on symptom expression and viral spread of MYSV in plants of resistant cucumber accessions.
-No systemic infection developed in resistant cucumber plants after inoculation with melon isolate MYSV-S at low temperature (20 degrees C); viral spread of MYSV-S and cucumber isolate MYSV-FuCu05P in inoculated cotyledons was suppressed.
-In contrast, higher incubation temperatures (25 degrees C and 30 degrees C) facilitated viral spread in inoculated cotyledons and systemic infection of MYSV- S.
-These data suggest that the resistance to MYSV of resistant cucumber accessions is temperature dependent.

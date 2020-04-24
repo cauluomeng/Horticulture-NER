@@ -1,7 +1,0 @@
-Based on the observation that Acidovorax citrulli switches from saprobic to pathogenic growth for seed-to-seedling transmission of bacterial fruit blotch of cucurbits (BFB), we hypothesized that quorum sensing (QS) was involved in the regulation of this process.
-Using aacI (luxI homologue) and aacR (luxR homologue) mutants of AAC00-1, we investigated the role of QS in watermelon seed colonization and seed-to-seedling transmission of BFB.
-aacR and aacI mutants of AAC00-1 colonized germinating watermelon seed at wild-type levels; however, BFB seed-to-seedling transmission was affected in a cell density-dependent manner.
-There were no significant differences in BFB seedling transmission between watermelon seed infiltrated with approximately 1x10(6) CFU of AAC00-1, the aacR or aacI deletion mutants (95.2, 94.9 and 98.3% BFB incidence, respectively).
-In contrast, when seed inoculum was reduced to approximately 1x10(3) CFU/seed, BFB seed-to-seedling transmission declined to 34.3% for the aacI mutant, which was significantly less than the wild type (78.6%).
-Interestingly, BFB seed-to-seedling transmission for the aacR mutant was not significantly different to the wild-type strain.
-These data suggest that QS plays a role in regulation of genes involved in seed-to-seedling transmission of BFB.

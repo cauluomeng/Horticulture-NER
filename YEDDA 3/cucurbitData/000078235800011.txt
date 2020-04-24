@@ -1,6 +1,0 @@
-Phloem-specific proteins (P proteins) are particularly useful markers to investigate long-distance trafficking of macromolecules in plants.
-In this study, genus-specific molecular probes were used in combination with intergeneric grafts to reveal the presence of a pool of translocatable P protein subunits.
-Immunoblot analyses demonstrated that Cucurbits spp P proteins PP1 and PP2 are translocated from Cucurbita maxims stocks and accumulate in Cucumis sativus scions.
-Cucurbita maxims or Cucurbita ficifolia PP1 and PP2 mRNAs were not detected in Cucumis sativus scions by either RNA gel blot analysis or reverse transcription-polymerase chain reaction, indicating that the proteins, rather than transcripts, are translocated.
-Tissue prints of the Cucumis sativus scion, using antibodies raised against Cucurbita maxims PP1 or PP2, detected both proteins in the fascicular phloem of the stem at points distal to the graft union and in the petiole of a developing leaf, suggesting that the proteins move within the assimilate stream toward sink tissues.
-Cucurbita maxims PP1 was immunolocalized by light microscopy in sieve elements of the extrafascicular phloem of Cucumis sativus scions, whereas Cucurbita maxims PP2 was detected in both sieve elements and companion cells.

@@ -1,5 +1,0 @@
-Five new cucurbitacins, kuguacins II-VI (1-5), along with five known analogues (6-10), were obtained from the fruit of Momordica charantia.
-Structures of the new compounds were elucidated as 5 beta, 19-epoxycucurbit-23-en-7-on-3 beta, 25-diol (1), 5 beta, 19-epoxycucurbit-7,23-dion-3 beta, 25-diol (2), 5 beta, 19-epoxycucurbit-6-en-19,23-dion3 beta, 25-diol (3), 5 beta, 19-epoxy-23,24,25,26,27-pentanorcucurbit-6-en-7,19-dion-3 beta, 22-diol (4), and cucurbit-5-en-7,23-dion-3 beta, 19,25-triol (5) by extensive spectroscopic and single-crystal X-ray diffraction analyses.
-Some cucurbitane compounds from this species were screened for their potential antidiabetic properties in terms of antigluconeogenic activity.
-As a result, compounds 1, 10, 11, and 12 (at 25-100 mu M) showed concentration-dependent inhibition on glucose production from liver cells.
-In addition, compounds 11 and 12 (at 100 mu M) showed around 20-30% inhibition on PEPCK activity.

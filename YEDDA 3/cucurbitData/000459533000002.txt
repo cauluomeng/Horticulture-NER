@@ -1,8 +1,0 @@
-Bottle gourd is an important cucurbit crop worldwide.
-To provide more available molecular markers for this crop, a bioinformatic approach was employed to develop insertion-deletions (InDels) markers in bottle gourd based on restriction site-associated DNA sequencing (RAD-Seq) data.
-A total of 892 Indels were predicted, with the length varying from 1 bp to 167 bp.
-Single-nucleotide InDels were the predominant types of InDels.
-To validate these InDels, PCR primers were designed from 162 loci where InDels longer than 2 bp were predicated.
-A total of 112 InDels were found to be polymorphic among 9 bottle gourd accessions under investigation.
-The rate of prediction accuracy was thus at a high level of 72.7%.
-DNA fingerprinting for 4 cultivars were performed using 8 selected Indels markers, demonstrating the usefulness of these markers.

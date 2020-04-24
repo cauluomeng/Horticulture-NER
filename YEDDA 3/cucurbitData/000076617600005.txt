@@ -1,8 +1,0 @@
-Plant growth-promoting rhizobacteria (PGPR) strains INR7 (Bacillus pumilus), GB03 (Bacillus subtilis), and ME1 (Curtobacterium flaccumfaciens) were tested singly and in combinations for biological control against multiple cucumber pathogens.
-Investigations under greenhouse conditions were conducted with three cucumber pathogens-Colletotrichum orbiculare (causing anthracnose), Pseudomonas syringae pv.
-lachrymans (causing angular leaf spot), and Erwinia tracheiphila (causing cucurbit wilt disease)-inoculated singly and in all possible combinations.
-There was a general trend across all experiments toward greater suppression and enhanced consistency against multiple cucumber pathogens using strain mixtures.
-The same three PGPR strains were evaluated as seed treatments in two field trials over two seasons, and two strains, IN26 (Burkholderia gladioli) and INR7 also were tested as foliar sprays in one of the trials.
-In the field trials, the efficacy of induced systemic resistance activity was determined against introduced cucumber pathogens naturally spread within plots through placement of infected plants into the field to provide the pathogen inoculum.
-PGPR-mediated disease suppression was observed against angular leaf spot in 1996 and against a mixed infection of angular leaf spot and anthracnose in 1997.
-The three-way mixture of PGPR strains (INR7 plus ME1 plus GB03) as a seed treatment showed intensive plant growth promotion and disease reduction to a level statistically equivalent to the synthetic elicitor Actigard applied as a spray.

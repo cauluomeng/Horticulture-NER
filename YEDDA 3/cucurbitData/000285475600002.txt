@@ -1,9 +1,0 @@
-Production of summer squash, Cucurbita pepo, can be severely limited by viral pathogens and powdery mildew.
-Resistance has been introgressed from Cucurbita moschata, and resistant hybrids have been commercially deployed.
-Our objective was to assess genetic affinities of such hybrids with susceptible, open-pollinated cocozelle and zucchini cultivars, and two disease-resistant lines derived from six generations of backcrossing to a susceptible zucchini cultivar.
-Amplified fragment length polymorphism (AFLP) Eco RI/Mse I primer combinations were employed and, based on the resulting polymorphic bands, genetic similarities were estimated, and an unweighted pair group method using arithmetic average (UPGMA) cluster analysis was conducted.
-The open-pollinated cocozelle cultivars clustered with the resistant hybrids.
-The hybrids had greater similarities with one another than did the open-pollinated cultivars.
-The zucchini cultivars and their resistant backcross lines formed their own exclusive cluster.
-However, the resistant backcross lines showed less than 0.80 similarity with their recurrent parent.
-As the chromosome number of Cucurbita is high (2n = 2x = 40) and the resistances are inherited monogenically and oligogenically, these results, after six generations of backcrossing, cannot be explained by classical genetic linkage.

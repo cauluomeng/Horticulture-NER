@@ -1,5 +1,0 @@
-Yield data for the major cucurbit crops in the United States have been collected and summarized.
-Yield trends are presented for cucumber (Cucumis sativus, processing and fresh-market), melon (Cucumis melo; muskmelon and honeydew), and watermelon (Citrullus lanatus) for the period 1951-2005.
-Data have been obtained from the U.S.
-Department of Agriculture, as originally reported by six of its units: Agricultural Marketing Service, Agricultural Research Service, Bureau of Agricultural Economics, Economic Statistics Service, National Agricultural Statistics Service, and Statistical Reporting Service.
-For all crops yields have been increasing over time, except for processing cucumber, for which yields seem to have reached a plateau by the end of the 1990s.

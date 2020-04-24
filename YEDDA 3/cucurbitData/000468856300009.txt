@@ -1,9 +1,0 @@
-Cucumber green mottle mosaic virus (CGMMV), an emerging tobamovirus, has caused serious disease outbreaks to cucurbit crops in several countries, including the United States.
-Although CGMMV is seed borne, the mechanism of its transmission from a contaminated seed to germinating seedling is still not fully understood, and the most suitable seed health assay method has not been well established.
-To evaluate the mechanism of seed transmissibility, using highly contaminated watermelon seeds collected from CGMMV-infected experimental plants, bioassays were conducted in a greenhouse through seedling grow-out and by mechanical inoculation.
-Through natural seedling grow-out, we did not observe seed transmission of CGMMV to germinating seedlings.
-However, efficient transmission of CGMMV was observed using bioassays on melon plants through mechanical inoculation of seed extract prepared from CGMMV-contaminated seeds.
-Understanding the seed borne property and the ease of mechanical transmission of CGMMV from a contaminated seed to seedling is an important finding.
-In comparative evaluation of various laboratory techniques for seed health assays, we found that enzyme-linked immunosorbent assay and loop-mediated isothermal amplification were the most sensitive and reliable methods to detect CGMMV on cucurbit seeds.
-Because CGMMV is a seed borne and highly contagious virus, a new infection might not result in a natural seedling grow-out; it could occur through mechanical transmission from contaminated seeds.
-Therefore, a sensitive seed health test is necessary to ensure CGMMV-free seed lots are used for planting.

@@ -1,7 +1,0 @@
-Pumpkin and squash (Cucurbita L.
-spp.) are important cucurbit crops and are grown in almost all arable regions of the world.
-The three economically important species, Cucurbita pepo L., Cucurbita moschata Duchesne, and Cucurbita maxima Duchesne are highly polymorphic in fruit characteristics, inspiring much research into their inheritance.
-A comprehensive list of genes for Cucurbita was last published more than a decade ago.
-This new gene list for pumpkin and squash includes descriptions of gene interactions and the genetic background of the parents that had been used for crossing to allow easy confirmation of previous work and provide a sound foundation for further investigation.
-This gene list includes 79 loci for phenotypic/morphological traits and 48 polymorphic allozyme loci.
-Linkage and mapping are discussed.

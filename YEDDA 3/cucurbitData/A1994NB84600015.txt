@@ -1,6 +1,0 @@
-Resistance to watermelon mosaic virus (WMV) was transferred by successive backcrossing with selection from Cucumis melo PI 414723 to three melon varieties.
-Levels of resistance to virus accumulation in leaf tissue were evaluated using enzyme-linked immunosorbent assay, and procedures are described to select resistant individuals efficiently and accurately in segregating populations.
-Resistance is controlled by a single dominant gene designated Wmr.
-Plants that carry this gene initially develop mosaic symptoms on inoculated leaves, but eventually recover from symptoms, and low or no virus can be detected in the youngest leaves.
-In contrast, susceptible plants show similar symptoms initially, but remain stunted and symptomatic with reduced fruit yield and fruit quality.
-Co-infection with other cucurbit viruses, specifically cucumber mosaic virus, papaya ringspot virus, and zucchini yellow mosaic virus, did not overcome resistance to WMV conferred by Wmr.

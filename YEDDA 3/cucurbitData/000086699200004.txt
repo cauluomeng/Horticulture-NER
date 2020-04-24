@@ -1,7 +1,0 @@
-Sequence comparison had previously shown three amino acid changes in conserved motifs in the 455-amino acid sequence of the helper component-protease (HC-Pro) between a severe field strain of Zucchini yellow mosaic virus (ZYMV-NAT) and a mild field strain of ZYMV (ZYMV-WK).
-In this study, exchange of fragments and site-directed mutagenesis within the HC-Pro gene in an infectious clone of ZYMV enabled the effects of the mutations on symptom expression to be mapped.
-The substitution of for Arg at position 180 in the conserved motif Phe-Arg-Asn-Lys (FRNK) of potyviruses was found to affect symptom expression.
-Infection of cucurbits with the engineered ZYMV (ZYMV-AG) that contained this mutation caused a dramatic symptom change from severe to mild in squash and to a symptom-free appearance in cucumber, melon, and watermelon.
-The lie to Arg mutation was found to be stable, and no revertant virus was found after several passages through plants after long incubation periods.
-The AG strain was detected 4 days postinoculation and accumulated in cucurbits to a level and with kinetics similar to that of the wild-type ZYMV-AT strain.
-Cucurbit plants infected with the AG strain were protected against infection by the severe strain.

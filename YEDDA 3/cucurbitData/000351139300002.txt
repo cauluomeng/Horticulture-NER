@@ -1,9 +1,0 @@
-Tobamoviruses induce crop diseases that are responsible for significant economic losses around the world.
-Like other tobamoviruses, Cucumber green mottle mosaic virus (CGMMV) forms highly stable particles that can persist for long periods on plant debris, in soil and on seed surfaces.
-These particles serve as a primary source of infection, infecting seedlings from which the virus can then be mechanically transmitted to other neighbouring plants.
-Contaminated seeds also provide a route for the movement of the virus between countries and its introduction into new areas.
-Effective seed disinfection treatments and the use of uncontaminated seed may reduce the global prevalence of this virus.
-Several treatments based on the use of heat or chemicals have been reported to effectively eliminate CGMMV and other tobamoviruses from seeds.
-An evaluation of these treatments on highly contaminated seed lots revealed inconsistent results, which encouraged the construction of a more accurate detection method that combines morphological, serological, molecular and biological analyses in one protocol.
-The detection of viable (infectious) viral particles in seed treated with heat, trisodium phosphate or a combined treatment, indicates that these treatments are insufficient.
-The serological detection of CGMMV in the inner parts of infected seeds provides a possible explanation for the inconsistent efficacy of these treatments.

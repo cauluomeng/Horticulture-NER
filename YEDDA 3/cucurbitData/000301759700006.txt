@@ -1,8 +1,0 @@
-A polymerase chain reaction (PCR)-based molecular method to detect Phomopsis sclerotioides in soil was developed using a species-specific primer pair.
-To improve sensitivity of the detection, three PCR techniques were used; namely, nested PCR using the primer pair internal transcribed spacer (ITS)) and ITS4, time-release PCR using two different DNA polymerases (recombinant Taq and AmpliTaq Gold).
-and fluorescent PCR to obtain fluorescent-labeled PCR products that can be analyzed by capillary electrophoresis.
-The latter two techniques were combined and termed nested time-release fluorescent (NTRF)-PCR.
-The minimum concentration of DNA required to obtain species-specific PCR products successfully was 50 fg/mu g.
-Using the NTRF-PCR method, the fungus could be detected in sandy soil that was artificially infested at a density of 10 CFU/g.
-The pathogen was detected M most soil samples collected from commercial cucumber fields in which visual disease symptoms had appeared, and even in samples collected from fields where visual disease symptoms had not appeared.
-To prevent the invasion and establishment of root-inhabiting pathogens such as P selerotioides, it is critical to detect the fungus in soil as soon as possible after its introduction into a cucumber-growing region.

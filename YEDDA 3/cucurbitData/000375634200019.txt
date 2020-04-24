@@ -1,7 +1,0 @@
-In spring 2014, unfamiliar watermelon disease symptoms were observed on 1,000 ha of watermelon plants (Citrullus lanatus Thunb.) growing in open fields in Jordan and Beit-She'an Valleys, Israel.
-These represented systemic wilt and yellowing of leaves with necrosis on leaves and stems, in some cases leading to plant dieback, fruit exocarp deterioration, and rotting of the fleshy mesocarp, leading to unmarketable fruit.
-Virus purification was carried out from watermelon exocarp and necrotic leaves, and transmission electron microscopy revealed viral particles with flexible filamentous morphology.
-The disease was transmitted by mechanical inoculation from symptomatic fruit and by the silverleaf whitefly Bemisia tabaci from symptomatic to healthy cucurbits.
-A reverse-transcription polymerase chain reaction (RT-PCR) test was conducted on purified virus preparation of Squash vein yellowing virus (SqVYV) using specific primers targeting the capsid protein gene revealing the expected amplicon size.
-The complete viral genome was sequenced and assembled by next-generation sequencing (NGS) Elumina MiSeq of small interfering RNA purified from symptomatic watermelon fruit, producing 92% genome coverage, and RT-PCR amplification and Sanger sequencing to close the genome gaps, validating the NGS sequence.
-The complete SqVYV-IL genome sequence shared 84% nucleotide sequence identity with the two complete genomes of SqVYV isolates from Florida, and 91% identity with the deduced amino acid sequence of the viral polyprotein.

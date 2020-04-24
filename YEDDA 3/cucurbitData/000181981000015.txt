@@ -1,8 +1,0 @@
-Cucurbita pepo (pumpkin, squash, gourd) is an economically important species that is susceptible to the cucurbit powdery mildew fungus, Podosphaera xanthii (syn.
-Sphaerotheca fuliginea).
-'True French', an open-pollinated cultivar of the Zucchini Group of C.
-pepo, was crossed with an unnamed powdery-mildew resistant straightneck-type accession, the resistance of which was apparently derived from an interspecific cross with a resistant wild species of Cucurbita, and resistant plants were selected in the F-2 generation.
-This was followed by six cycles of backcross-pedigree selection for resistance, and resulted in the development of an accession true-breeding for resistance to powdery mildew and nearly isogenic to 'True French'.
-The resistant and susceptible near-isogenics were crossed and seeds of the filial and backcross generations were produced.
-Plants of the parental accessions and their progenies were grown together in a controlled-environment chamber, exposed to the pathogenic fungus, and scored as resistant, partially resistant, or susceptible 27-33 days after sowing.
-The results indicated that resistance is conferred by a single incompletely dominant gene, designated Pm-0.

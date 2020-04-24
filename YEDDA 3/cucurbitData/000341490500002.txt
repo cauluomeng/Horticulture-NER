@@ -1,8 +1,0 @@
-More than fifty viruses have been reported in cucurbit crops worldwide.
-In Ecuador, approximately 3,000 ha of watermelon, melon and cucumbers are cultivated annually, but there have been few studies to identify viruses responsible for epidemics.
-During this study, sequencing of double-stranded RNA (dsRNA) extracted from watermelon and melon leaves showing virus-like symptoms revealed the presence of Melon yellow spot virus (MYSV, genus Tospovirus) and the partially described Cucumis melo endornavirus (CmEV).
-Specific primers, designed to detect each virus, showed that MYSV was present in 40, 64 and 67 % of symptomatic watermelon, cucumber and melon samples, respectively.
-For CmEV, 95 % of both symptomatic and asymptomatic melon plants tested positive.
-However, the virus was not detected in watermelon or cucumber.
-Sequence comparisons showed nucleotide identities of 97 % and 94 % for the polymerase and the nucleocapsid protein, respectively, between the Ecuadorean MYSV and the one reported from Japan.
-To the best of our knowledge, this is the first report of MYSV and CmEV in Ecuador and the Americas.

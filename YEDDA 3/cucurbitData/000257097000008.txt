@@ -1,8 +1,0 @@
-Field experiments were conducted in Georgia in 2004 and 2005 to evaluate the effects of S-metolachlor on summer squash fruit yield.
-Main treatment effects included summer squash cultivar (yellow or zucchini), planting method (seeded or transplanted) and herbicide program (nontreated control, S-metolachlor applied at planting and prior to transplanting [PRE] at 0.5 and 1.0 kg ai/ha, S-metolachlor applied postemergence [POST] 3 wk after planting [WAP] at 0.5 and 1.0 kg/ha, and S-metolachlor applied PRE at 0.5 kg/ha followed by POST at 0.5 kg/ha [PRE fb POST]).
-Fruit number and weight were measured 12 times during each growing season and the harvests combined into early (harvests 1 to 4), middle (harvests 5 to 8), late (harvests 9 to 12), and cumulative (harvests 1 to 12) yield categories.
-Mixed-models analyses were used to evaluate the effects of herbicide rate and timing, squash cultivar, and planting method on squash yield for each harvest period.
-Summer squash cultivar and planting method did not affect squash response to S-metolachlor.
-Averaged over squash cultivar and planting method, S-metolachlor applied PRE and PRE fb POST reduced fruit number and weight at the early harvest between 35 and 60%, middle harvest between 14 and 30%, and cumulative harvest between 14 and 22%.
-S-metolachlor applied POST at 0.5 kg/ha did not impact squash yield compared to the nontreated control at any harvest period, whereas 1.0 kg/ha reduced fruit number and weight at the middle harvest 14 and 20%, respectively.
-We propose that POST applications of S-metolachlor at 0.5 kg/ha or lower can be adopted for use in summer squash production in Georgia.

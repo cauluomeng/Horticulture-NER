@@ -1,7 +1,0 @@
- The cucurbit aphid-borne yellow virus (CABYV) is a new tentative member of the luteovirus group which is transmitted persistently by Myzus persicae and Aphis gossypii.
-   In muskmelon plants, mixed infection with CABYV and zucchini yellow mosaic virus (ZYMV) induced an increase in CABYV concentration estimated by double antibody sandwich-enzyme linked immunosorbent assay (DAS-ELISA), which was maximum after 3 weeks of co-infection.
-   Assays, conducted with other cucurbit hosts and sap-transmissible viruses showed that a similar increase occurred with most of the potyviruses tested.
-However, cucumber mosaic virus (CMV) and squash mosaic virus (SqMV) were inefficient (or less efficient than potyviruses) in increasing CABYV concentration.
-   Aphid transmission experiments were conducted to check whether increased virus multiplication could either enhance transmission rates or modify the mode of CABYV acquisition by aphids.
-However, when A.
-gossypii was used, no increases in CABYV transmissibility nor in its acquisition mode were detected.

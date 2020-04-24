@@ -1,8 +1,0 @@
-Calla lily chlorotic spot virus (CCSV) collected from calla lily plants showing symptoms in Taiwan has been identified as a tentative species of the genus Tospovirus based on the comparison of S RNA sequences.
-In this investigation, the complete sequences of its L and M RNAs were determined.
-The L RNA contains 8911 nucleotides (nt) and encodes a putative RNA-dependent RNA polymerase of 2882 amino acids (aa) (332 kDa) in the viral complementary (vc) sense.
-The M RNA was shown to be 4704 nt in length, encoding a nonstructural NSm protein of 309 aa (35 kDa) in the viral sense and a Gn/Gc glycoprotein precursor (GP) of 1123 aa (128 kDa) in the vc sense.
-Phylogenetic analysis of the individual tospoviral proteins indicated that CCSV is closely related to Tomato zonate spot virus, a new tentative tospovirus isolated from tomato in southern China.
-Two degenerate primer pairs gL2740/gL3920c and gM410/gM870c, designed, after sequence comparison, from the highly conserved regions of the L and NSm genes, respectively, were successfully used to detect 12 greenhouse-cultured tospoviruses, including six formal species and six tentative species, by reverse transcription-polymerase chain reaction.
-They were also used to detect Melon yellow spot virus and Watermelon silver mottle virus from field cucurbit samples in Taiwan.
-The results indicate that the two degenerate primer pairs can be used for prompt detection of most tospoviruses and exploration of unknown tospovirus species.

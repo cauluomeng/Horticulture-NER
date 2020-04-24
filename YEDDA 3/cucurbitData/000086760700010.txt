@@ -1,9 +1,0 @@
-The approach of pathogen-derived resistance was investigated as a means to develop squash mosaic comovirus (SqMV)-resistant cucurbits.
-Transgenic squash lines with both coat protein (CP) genes of the melon strain of SqMV were produced and crossed with nontransgenic squash.
-Further greenhouse, screenhouse and field tests were done with R-1 plants from three independent lines that showed susceptible, recovery, or resistant phenotypes after inoculations with SqMV.
-Nearly all inoculated plants of the resistant line (SqMV-127) were resistant under greenhouse and field conditions and less so under screenhouse conditions.
-Plants of the recovery phenotype line (SqMV-3) were susceptible when inoculated at the cotyledon stage but leaves that developed later did not show symptoms.
-The susceptible line (SqMV-22) developed symptoms that persisted and spread throughout the plant.
-Plants were also analyzed for transcription rates of the CP transgenes and steady state transgene RNA levels.
-Results showed that the resistant line SqMV-127 displayed post-transcriptional silencing of the CP transgene as evidenced by high transcription rates but concomitant low accumulation of transgene transcripts.
-This is the first report on the development of transgenic squash that are resistant to SqMV.

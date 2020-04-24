@@ -1,5 +1,0 @@
-We developed a method to detect Acidovorax avenae subsp.
-citrulli from cucurbit seeds that is more sensitive than conventional growing-out methods.
-Seeds were cultivated in test tubes for 2 weeks, and the bacteria grew semi-selectively on the seeds and seedlings.
-The plants were then vigorously shaken in water to suspend bacterial cells, and the suspension was spread on a selective medium for identifying the bacterium by colony appearance.
-The method is suitable for research purposes to evaluate the percentage of seeds infested with the bacteria, but not to detect bacterial contamination in commercial lots with thousands of seeds.

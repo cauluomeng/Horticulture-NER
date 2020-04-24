@@ -1,7 +1,0 @@
-Several outbreaks of Cucumber mosaic virus in cucurbit crops have been observed recently in Poland.
-Based on the phylogenetic analysis of the genes' encoding movement and coat protein, Polish CMV isolates from zucchini were classified into two subgroups: IA and II.
-A reverse transcription, loop-mediated amplification method (RT-LAMP) was developed for rapid and effective detection of genetically diverse CMV isolates.
-RT-LAMP was performed with a set of six primers, the design of which was based on the coat protein gene.
-Positive effects of the RT-LAMP were visualized by direct staining of the reaction with fluorescent dyes, agarose gel electrophoresis, and analysis of the amplification curves in real-time conditions.
-The RT-LAMP method developed here was capable of the detection of diverse CMV isolates in less than 1 h.
-The sensitivity of RT-LAMP was tenfold higher than that of conventional RT-PCR.

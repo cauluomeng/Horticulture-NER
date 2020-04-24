@@ -1,7 +1,0 @@
-Oligonucleotide primers were designed based on nucleotide sequences corresponding to the conserved phosphate 1 and 2 motifs contained within the closterovirus-encoded heat shock protein 70 (HSP70) homolog.
-These primers were used with RNAs extracted from virus-infected plants and reverse-transcriptase polymerase chain reaction to generate specific cDNAs for lettuce infectious yellows closterovirus (LIYV) and for four additional whitefly-transmitted viruses for which corresponding nucleotide sequence data were unavailable: tomato infectious chlorosis virus (TICV), cucurbit yellow stunting disorder virus (CYSDV), beet pseudo-yellows virus (BPYV), and lettuce chlorosis virus.
-The resulting cDNAs of approximately 600 bp, corresponding to LIYV, TICV, CYSDV, and BPYV, were cloned, and the nucleotide sequences were determined.
-Computer-assisted analysis of the deduced amino acid sequences showed that all exhibited significant similarity to the HSP70 proteins in general and to the HSP70 homologs encoded by closteroviruses in particular.
-Comparative alignments showed the amino acid sequences for LIYV, TICV, BPYV, and CYSDV were more similar to each other than to the corresponding regions for the HSP70 homologs of three aphid-transmitted closteroviruses.
-Digoxigenin-11-UTP-labeled transcripts were generated from each cloned cDNA and used in RNA and dot blot hybridization analyses.
-Probes for LIYV, TICV, BPYV, and CYSDV hybridized only with double-stranded RNAs or extracts of plants infected with the corresponding virus.

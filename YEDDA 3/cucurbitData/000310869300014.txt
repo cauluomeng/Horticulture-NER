@@ -1,6 +1,0 @@
-In this study, we distinguished Cucumber green mottle mosaic virus (CGMMV) infected seeds from healthy seeds using optical coherence tomography (OCT).
-Two dimensional OCT images and stereo micrographs revealed that the infected seeds had narrow gap between the seed coat and endosperm that were not present in the healthy seeds.
-Three dimensional OCT images confirmed that the narrow gaps were present in the inner structure of overall the infected seeds.
-A-scan analysis was also performed to calculate the distance from the seed coat to the endosperm.
-The results revealed a difference in the width of the gap of about 20 mu m between healthy and infected cucumber seeds.
-Taken together, these results suggest that OCT could be applied as an effective non-destructive method for CGMMV infection of cucumber seeds.

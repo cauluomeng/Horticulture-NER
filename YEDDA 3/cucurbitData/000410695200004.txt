@@ -1,9 +1,0 @@
-Globalization has allowed for rapid movement of plant pathogens that threaten food security.
-Successful disease management largely depends on timely and accurate detection of plant pathogens causing epidemics.
-Thus, biosurveillance of epidemic plant pathogens such as Pseudoperonospora cubensis, the causal agent of cucurbit downy mildew, is becoming a priority to prevent disease outbreaks and deploy successful control efforts.
-Next Generation Sequencing (NGS) facilitates rapid development of genomics resources needed to generate molecular diagnostics assays for P.
-cubensis.
-Having information regarding the presence or absence of the pathogen, amount of inoculum, crop risk, time to initiate fungicide applications, and effective fungicides to apply would significantly contribute to reducing losses to cucurbit downy mildew.
-In this article, we discuss approaches to identify unique loci for rapid molecular diagnostics using genomic data, to develop molecular diagnostic tools that discriminate economically important pathogen alleles (i.e.
-mating type and fungicide resistance), and how to use molecular diagnostics with current and future spore trap strategies for biosurveillance purposes of important downy mildew pathogens.
-The combined use of these technologies within the already existent disease management framework has the potential to improve disease control.

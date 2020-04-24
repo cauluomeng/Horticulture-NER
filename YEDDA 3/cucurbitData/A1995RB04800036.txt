@@ -1,5 +1,0 @@
-ECA-DE-NEGRO; CUCURBITACIN
-   GLYCOSIDE; CABENOSIDES I-L
-AB The chemical structures of cabenosides I-L were investigated.
-These are four of the 12 cucurbitacin glycosides isolated from 'Cabeca-de-negro', the roots of Caput nigri.
-By means of chemical analyses the structures of cabenosides I-L were elucidated as 10 alpha-cucurbit-5-ene-3 beta,11 alpha,20S,24 xi,25-pentaol [3, 25-di-O-beta-D-glucopyranoside, and 3-O-beta-D-glucopyranosyl-(1-2)-beta-D-glucopyranosyl (sophorosyl), 25-O-beta-D-glucopyranoside], and 10 alpha-cucurbit-5,20,24-triene-11-oxo-3 beta,26-diol [3-O-beta-D-glucopyranosyl-(1-6)-beta-D-glucopyranosyl (gentiobiosyl), 26-O-beta-D-glucopyranoside and 3,26-di-O-gentiobioside], respectively.

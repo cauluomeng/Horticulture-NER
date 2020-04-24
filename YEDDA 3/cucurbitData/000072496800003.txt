@@ -1,4 +1,0 @@
-Cucumber seeds and seed parts initiated flowers in vitro three to four weeks after explanting seeds and seed parts on Murashige and Skoog salts medium supplemented with either BA or GA(3); tendrils developed on medium with GA(4+7).
-The flowering responses to GA(3) and BA were significantly different from cultures supplemented with GA(4+7) (P<0.05).
-The simultaneous and exclusive appearance of flowers and tendrils on medium with different growth regulators suggest that cells or tissues are uncommitted to specific types of organ differentiation until the necessary growth regulators to trigger differentiation are either produced or made available.
-The ability to control flowering could facilitate repeated cycles of inbreeding in vitro and speed up the breeding process for cucurbits.

@@ -1,8 +1,0 @@
-Papaya ring spot virus (PRSV) causes major diseases in papaya and cucurbits in the Indian sub-continent that result in significant yield losses.
-Molecular characterization of the coat protein (CP) gene of a South Indian strain (lNP-UAS) of PRSV-P revealed an open reading frame of 849 bp that encoded the putative coat protein of 283 amino acids (GenBank Acc No.
-AF528190).
-The DAG triplet associated with aphid transmissibility and the potential protease cleavage site Q/S, located in the N-terminus of the INP-UAS CP, were conserved, as has been reported for other PRSV coat proteins.
-The sequence had a deletion of 24 nucleotides that corresponded to eight amino acids in the N-terminal region of the CP.
-A comparison of the amino acid sequence of the INP-UAS CP with those reported for other PRSV isolates showed that the N-termini were variable and suggested that the distinctiveness of INP-UAS was linked to its geographical location.
-Phylogenetic analysis also showed that the INP-UAS strain coat protein gene was relatively divergent from those of other PRSV-P isolates as it formed a separate and distinct group.
-The implications of sequence variability for the use of CP-genes in the development of transgenic plants for viral resistance are discussed.

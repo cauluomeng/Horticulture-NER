@@ -1,7 +1,0 @@
-An uncharacterized virus was isolated from greenhouse-grown cucumber plants.
-Biological and serological data described in the present study indicated that the virus belonged in the genus Tobamovirus.
-The host range of the virus included several plant species within the family Cucurbitaceae.
-The virus designated Cucumber fruit mottle mosaic virus (CFMMV) causes severe mottling or mosaic on cucumber fruits, and its fast spread within greenhouses could lead to significant economic losses in cucumber crops.
-The genome of CFMMV has been completely sequenced and its genome organization was typical of a Tobamovirus.
-However, its sequence was distinct from other described viruses within the group of cucurbit-infecting Tobamoviruses.
-Comparisons of sequences and phylogenetic analysis suggested that the cucurbit-infecting Tobamoviruses be separated into two subgroups: subgroup I comprising the strains and isolates referred to in the literature as Cucumber green mottle mosaic virus (CGMMV) (CV3, CV4, CGMMVW, CGMMV-SH, and CGMMV-Is) and subgroup II comprising CFMMV, Kyuri green mottle mosaic virus (KGMMV), and the Yodo strain of CGMMV, which is closely related to KGMMV and may be considered a strain of it.

@@ -1,8 +1,0 @@
-Four strains of zucchini yellow mosaic virus (ZYMV) from Connecticut (CT), Florida (FL), France (WK), and Taiwan (TW) were partially characterized and compared.
- Host ranges of the four strains were similar but they differed in the ability to infect specific hosts.
- All ZYMV strains were indistinguishable in SDS-immunodiffusion tests.
- After cross-absorption with antigens of ZYMV-CT and -FL, antiserum to ZYMV-TW reacted with ZYMV-TW but not with ZYMV-CT, -FL, or -WK in enzyme-linked immunosorbent assays.
- Serological comparisons revealed that ZYMV was related to watermelon mosaic 2 (WMV-2), pea mosaic (PMV), bean common mosaic (BCMV), clover yellow vein (CYVV), and bean yellow mosaic (BYMV) viruses.
- The relatedness of ZYMV to these viruses was shown only with antisera produced to the ZYMV strains and varied depending on the length of time after immunization that antisera was collected.
- Purified virus yields of the four strains of ZYMV ranged from 6 to 19 mg of virus per 100 g of infected tissue with a 260/280 nm absorbance ratio range of 1.22 to 1.27.
- Two aphid species, Myzus persicae and Aphis gossypii, transmitted ZYMV-CT, ZYMV-FL, and ZYMV-TW at different efficiencies but failed to transmit ZYMV-WK.

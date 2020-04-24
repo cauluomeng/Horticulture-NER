@@ -1,9 +1,0 @@
-An essential step in the carotenoid biosynthesis pathway is the formation of phytoene by phytoene synthase (PSY).
-In this study, three new genes coding PSYs (CpPSYA, CpPSYB, and CpPSYC) were cloned from Cucurbita pepo and their expression patterns analysed in three cultivars of summer squash which had a different carotenoid content.
-The gene sequences had a high similarity with those from other plant species, and their predicted proteins were significantly different from each other.
-A phylogenetic analysis indicates that CpPSYA and CpPSYB shared a high homology and were also homologous with PSYs from others cucurbits, whereas CpPSYC was more closely related to orthologues from strawberry and carrot.
-An expression analysis revealed that CpPSYA had a higher expression in flowers compared to leaves and showed a differential expression during fruit development.
-The amount of CpPSYA transcript was higher in fruits with a higher carotenoid content than in those with a lower carotenoid content.
-However, CpPSYB and CpPSYC showed a relatively high expression in leaves, and their expression in fruits varied among the different cultivars and fruit tissues.
-These results suggest that the CpPSY genes were under different regulatory mechanisms and they may have different roles in C.
-pepo.

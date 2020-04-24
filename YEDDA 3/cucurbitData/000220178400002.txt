@@ -1,9 +1,0 @@
-The amino terminus (NT) of the potyvirus coat protein (CP), which is necessary for aphid transmission and systemic infection, is externally located on the virion, strongly antigenic, and highly variable in length and sequence.
-Chimeras of Zucchini yellow mosaic virus (ZYMV) were constructed by substitution Of the native CP-NT with CP-NTs of potyviruses with overlapping (Watermelon mosaic virus, WMV) and non-overlapping (Tobacco etch virus, TEV) host range.
-The chimeric viruses produced strong initial symptoms on ZYMV-susceptible cucurbits.
-Approximately 6 weeks post-inoculation, zucchini and Cucumber plants infected with the TEV chimera, exhibited a distinct recovery characterized by a loss of symptoms on young leaves, reduced virus titer, and Virus-specific protection against secondary infection.
-The chimeric Viruses did not overcome naturally occurring ZYMV resistance in cucumber, ZYMV-CP-mediated resistance in transgenic melons, or expand host range to TEV- or WMV-susceptible species.
-These results demonstrate that despite substantial variability in length and sequence, the CP-NTs from heterologous potyviruses facilitated systemic infection in ZYMV-susceptible cucurbits, but were not sufficient to cause infection in non-ZYMV hosts.
-The observed recovery response with the non-cucurbit CP-NT suggests that the CP-NT is important for biological efficiency of the virus and/or adaptation of the virus to its host.
-(C) 2003 Elsevier Ltd.
-All rights reserved.

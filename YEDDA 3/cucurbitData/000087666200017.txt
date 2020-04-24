@@ -1,4 +1,0 @@
-An improved method for particle Crinivirus.
-Particle measurements were conducted with a CCD-72S solid state camera, which was interfaced with a Zeiss EM 109 electron microscope, and analyzed using the analysis 2.1 Image Analysis Software.
-In comparisons of specimen preparation methods, the leaf dip method is more representative and reproducible than the antibody capture method or preparation from purified virions.
-Particle length (nm) ranges of whitefly-transmitted criniviruses are: Abutilon yellows virus (AYV), 800 to 850; Cucurbit yellow stunting disorder virus (CYSDV), 750 to 800; Lettuce chlorosis virus (LCV), 800 to 850; Lettuce infectious yellows virus (LIYV), 700 to 750; Tomato chlorosis virus (ToCV), 800 to 850; and Tomato infectious chlorosis virus (TICV), 850 to 900.

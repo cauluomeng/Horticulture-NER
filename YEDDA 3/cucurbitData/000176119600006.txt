@@ -1,8 +1,0 @@
-Hypocotyl explants of melon (Cucumis melo L.) are capable of regenerating multiple shoots on Murashige and Skoog (1962) medium.
-augmented with 4.4 muM benzyladenine.
-Regeneration from the hypocotyl is much more rapid than the more commonly reported regeneration from cotyledonary explants, producing shoots within 2 wk compared to more than a month required for cotyledon explants.
-The rapid regeneration response depends on the presence of a fragment of the cotyledon remaining attached to the hypocotyl.
-Controls were performed to ensure that the regeneration was not due to the presence of the shoot apical bud of the melon seedling after explant production.
-Scanning electron microscopy revealed that microsurgery to remove the apical bud left no excess bud material.
-Regeneration from the proximal part of the hypocotyl was due to production of a new shoot apical meristem, observed by histology.
-The apical meristem can be produced before leaf primordia in regeneration from the hypocotyl, in contrast to the regeneration process from the melon cotyledon.

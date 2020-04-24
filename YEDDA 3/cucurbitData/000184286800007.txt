@@ -1,7 +1,0 @@
-The susceptibility of mefenoxam-treated cucurbit plants to infection by isolates of Phytophthora capsici that were sensitive (S), intermediately sensitive (IS), and fully insensitive (I) to mefenoxam in vitro was investigated to determine if in vitro screening will accurately predict the response of mefenoxam-treated cucurbit plants to infection by R capsici.
-Isolates were recovered from a cross between IS parents or from naturally infected cucumbers, squash, pumpkins, and peppers in Michigan, New York, and North Carolina.
-Pumpkin or yellow squash seedlings were treated with water or mefenoxam at either 19.17 mug/ml or 57.51 mug/ml 24 h prior to inoculation.
-Four days after inoculation, all of the isolates of R capsici exhibited similarly high virulence on the water-treated seedlings.
-The diameter of the lesions produced by S, IS, and I isolates on mefenoxam-treated seedlings ranged from no visible lesions for S isolates to lesions indistinguishable from those produced on water-treated plants for I isolates.
-These findings are consistent with the expectations based on in vitro screening and suggest that in vitro screening of mefenoxam sensitivity using a single high rate of mefenoxam (100 ppm) provides useful information for predicting the response of natural populations of P.
-capsici to mefenoxam.

@@ -1,7 +1,0 @@
-To investigate their response to changes in substrate temperatures, the roots from six species of cucurbit plants were exposed to 14 degrees C, 24 degrees C, or WC, while their aerial portions were maintained at natural ambient temperatures (23 degrees C to 33 degrees C).
-These species could be classified into three groups based on their stress response: Group A, Cucurbita ficifolia and C.
-maxima, heat-sensitive but cold-tolerant; Group B, Cucumis sativus and C.
-melo, heat- and cold-sensitive; and Group C, Luffa cylindrica and Benincasa hispida, heat-tolerant but cold-sensitive.
-The highest growth rates and lowest contents of malondialdehyde (MDA) for plants in Groups A, B, and C were achieved at temperatures of 14 degrees C, 24 degrees C, and 24 degrees C to WC, respectively.
-Superoxide dismutase (SOD) activity was lowest in the roots exposed to optimal growth temperatures while activities of catalase (CAT), ascorbate peroxidase (APX), and guaiacol peroxidase (G-POD) operated coordinately in a complicated manner to prevent the accumulation of reactive oxygen species (ROS) in the root cells.
-Moreover, all plants, regardless of species, responded to unfavorable temperatures by increasing their synthesis of ascorbate and glutathione as well as by reducing the redox ratio of those two important antioxidants.

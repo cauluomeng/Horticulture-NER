@@ -1,9 +1,0 @@
-A Reverse Transcription Loop-Mediated Isothermal Amplification (RT-LAMP) assay was employed to develop a simple and efficient system for the detection of Zucchini yellow mosaic virus (ZYMV) in squash and melon plants.
-The RT-LAMP assay took 30min under isothermal condition at 64 degrees C by employing a set of four primers targeting ZYMV.
-The sensitivity of RT-LAMP was 10-fold greater than that of the RT-PCR assay in the detection of ZYMV in infected tissues of squash and melon.
-No reaction was detected from the tissues of healthy plants by either RT-LAMP or RT-PCR assay.
-The RT-LAMP product of the tested samples can be visualized by staining directly in the tube with SYBR Green I dye.
-The sensitivity of SYBR Green I staining method is similar to that analyzed by gel electrophoresis.
-Field-grown squash and melon plants were tested using RT-PCR and RT-LAMP.
-Both RT-LAMP and PCR could detect ZYMV in symptomatic or symptomless tissues of infected plants.
-However, the RT-LAMP assay is superior to RT-PCR because it is rapid, simple, and highly sensitive; therefore, RT-LAMP is a useful and practical method for detection of ZYMV in cucurbits.

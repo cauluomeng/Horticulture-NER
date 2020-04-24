@@ -1,9 +1,0 @@
-Melon (Cucumis melo L.) genetic maps were compiled by the International Cucurbit Genomics Initiative (ICuGI) before the release of the melon genome.
-However, due to the use of different marker sets, the position of ICuGI markers in the genome remained unknown, complicating the integration of previous genetic mapping studies in the genome.
-We looked for the genome position of 870 simple sequence repeat and single nucleotide polymorphism (SNP) markers from the ICuGI map, locating 836 of them in the melon pseudochromosomes v3.5.1, and integrating them with previously available SNPs to reach a total of 1850 markers mapped in the genome sequence.
-The number of markers per scaffold ranged from 1 to 105, with an average of 13, thus improving on the previous studies in melon.
-Twenty-three of the markers mapped on virtual chromosome "0'', twelve of them being included in the ICuGI map, which could assist in the anchoring of some unanchored contigs and scaffolds.
-Genetic and physical distance comparison showed a good collinearity between them, confirming the quality of the ICuGI map.
-A higher recombination rate was also usually found at the ends of the chromosomes, whereas a drastic reduction was observed in the putative pericentromeric regions.
-Quantitative trait loci (QTL) previously located in the ICuGI map were also anchored in the genome.
-This work offers the opportunity to supplement the genetic maps available up to now with the genomic resources resulting from the melon genome sequencing to facilitate comparative mapping in melon between past and new studies, and to overcome some of the current limitations in QTL gene identification.

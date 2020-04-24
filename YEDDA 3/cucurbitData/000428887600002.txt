@@ -1,9 +1,0 @@
-Cucurbita maxima (pumpkin) is a typical cucurbit that is susceptible to gummy stem blight.
-In recent years, this major fungal disease has decimated pumpkin yields in Northeast China (Heilongjiang Province) in increasingly numerous outbreaks with more rapid spread in recent years.
-After culturing fungi on potato dextrose agar medium, we conducted a systematic study of the growth and morphological characteristics of various purified strains of Cucurbita gummy stem blight (GSB) fungus from across Northeast China.
-Subsequently, DNA samples of 30 isolates with distinct hyphal variations were subjected to internal transcribed spacer (ITS) sequencing.
-Sequence analysis resulted in identification of the isolates as Stagonosporopsis cucurbitacearum and demonstrated that this is a dominant and widely distributed fungal species in this region.
-Subsequently, multi-site phylogenetic analysis assigned the 30 aforementioned strains to two genotypes that aligned to seven phenotypic types of Cucurbita GSB fungi.
-By analysing ITS conserved sequences of these phenotypically diverse groups, we found that Cucurbita GSB pathogens broadly shared two motifs that contained sequence variations unique to two groups in addition to common identical motifs.
-Ultimately, this study provided useful data for rapid and accurate identification of S.cucurbitacearum and diagnosis in early symptoms of Cucurbita GSB.
-This work also provides tools to explore the distribution and regularity of GSB outbreaks spatially and temporally across Northeast China.

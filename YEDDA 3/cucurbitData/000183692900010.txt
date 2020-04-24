@@ -1,9 +1,0 @@
-The pattern of accumulation of Citcurbit Yellow stunting disorder virus (CYSDV; genus Crinivirus, family Closteroviridae) RNA has been analyzed in several cucurbit accessions.
-In susceptible accessions of melon (Cucumis melo), cucumber (Cucumis sativus), marrow (Cucurbita maxima), and squash (Cucurbita pepo), CYSDV RNA accumulation peaked during the first to second week postinoculation in the first to third leaf above the inoculated one; younger leaves showed very low or undetectable levels of CYSDV.
-Three melon accessions previously shown to remain asymptomatic after CYSDV inoculation under natural conditions were also assayed for their susceptibility to CYSDV.
-Hybridization and reverse transcription-polymerase chain reaction (RT-PCR) analysis of noninoculated leaves showed that only one of these, C-105, remained virus-free for up to 6 weeks after whitefly inoculation.
-In this accession, very low CYSDV levels were detected by RT-PCR in whitefly-inoculated leaves, and therefore, multiplication or spread of CYSDV in C-105 plants appeared to remain restricted to the inoculated leaves.
-When C-105 plants were graft inoculated, CYSDV RNA could be detected in phloem tissues, but the systemic colonization of C-105 by CYSDV upon graft inoculation seemed to be seriously impeded.
-Additionally, in situ hybridization experiments showed that, after C-105 graft inoculation, only a portion of the vascular bundles in petioles and stems were colonized by CYSDV and virus could not be found in leaf veins.
-RT-PCR experiments using primers to specifically detect negative-sense CYSDV RNA were carried out and showed that CYSDV replication took place in graft-inoculated C-105 scions.
-Therefore, the resistance mechanism may involve a restriction of the virus movement in the vascular system of the plants and/or prevention of high levels of virus accumulation.

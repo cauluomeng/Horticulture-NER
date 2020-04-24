@@ -1,9 +1,0 @@
-Multispectral imaging is increasingly used in specialty crops, but its benefits in assessment of disease severity and improvements in conventional scouting practice are unknown.
-Multispectral imaging was conducted using an unmanned aerial vehicle (UAV), and data were analyzed for five flights from Florida and Georgia commercial watermelon fields in 2017.
-The fields were rated for disease incidence and severity by extension agents and plant pathologists at randomized locations (i.e., conventional scouting) followed by ratings at locations that were identified by differences in normalized difference vegetation index (NDVI) and stress index (i.e., UAV-assisted scouting).
-Diseases identified by the scouts included gummy stem blight, anthracnose, Fusarium wilt, Phytophthora fruit rot, Alternaria leaf spot, and cucurbit leaf crumple disease.
-Disease incidence and severity ratings were significantly different between conventional and UAV-assisted scouting (P < 0.01, Bhapkar/exact test).
-Higher severity ratings of 4 and 5 on a scale of 1 to 5 from no disease to complete loss of the canopy were more consistent after the scouts used the multispectral images in determining sampling locations.
-The UAV-assisted scouting locations had significantly lower green, red, and red edge NDVI values and higher stress index values than the conventional scouting areas (P < 0.05, ANOVA/Tukey), and this corresponded to areas with higher disease severity.
-Conventional scouting involving human evaluation remains necessary for disease validation.
-Multispectral imagery improved watermelon field scouting owing to increased ability to identify disease foci and areas of concern more rapidly than conventional scouting practices with early detection of diseases 20% more often using UAV-assisted scouting.

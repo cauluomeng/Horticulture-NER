@@ -1,8 +1,0 @@
-In 2011 and 2012, several cucurbit-growing regions of Iran were surveyed and samples with symptoms similar to those induced by Cucurbit chlorotic yellows virus (CCYV) were collected.
-The pathogen was transmitted to cucumber and melon under greenhouse conditions by whiteflies (Bemisia tabaci).
-RT-PCR using designed CCYV-specific primer pair (CCYV-F/CCYV-R) resulted in amplification of the predicted size DNA fragment (870 bp) for the coat protein (CP) gene in samples collected from Boushehr, Eyvanakay and Varamin.
-Nucleotide sequences of the CP of the three Iranian CCYV isolates were compared with five CCYV isolates obtained from GenBank and analysed.
-Phylogenetically, all CCYV isolates clustered in two groups; Group I is composed of five non-Iranian isolates from China, Lebanon, Japan, Sudan and Taiwan, and the three Iranian isolates formed Group 2.
-Among Iranian isolates, the Eyvanakay isolate clustered in a distinct clade with the Boushehr and Varamin isolates.
-A phylogenetic tree based on amino acid identity of CP showed that CCYV was closely related to Lettuce chlorosis virus (LCV), Bean yellow disorder virus (BnYDV) and Cucurbit yellow stunting disorder virus (CYSDV).
-This is the first report of CCYV in Iran.

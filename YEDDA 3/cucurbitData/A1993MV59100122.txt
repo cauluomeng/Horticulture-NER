@@ -1,9 +1,0 @@
- The roots of six plant species, in three families, were exposed to 0, 3 and 9 mu M CdCl2 for three days.
-The tops and roots were analyzed for total Cd.
-The roots were extracted with tris buffer at pH 7.2 and the extracts were analyzed for Cd and were also extracted with HAc-EDTA buffer and the extracts were analyzed for Cd, glutathione and SH compounds other than glutathione (SH-G).
-After exposure to Cd, the concentration of SH-G was highest in cucurbits, medium in grasses and lowest in legumes.
-Cd extracted from the roots at pH 7.2 increased with Cd treatment and correlated with SH-G in all families.
-This suggests that the Cd incorporated into the cells was detoxified by SH compounds produced in proportion to the degree of Cd incorporation.
-This may be one mechanism for tolerance in plants which accumulate Cd.
-   The percentages of Cd transported from roots to tops were highest in cucurbits and lower in grasses and legumes.
-Cd incorporated into the root cells (symplast), was transported to top through apoplast.

@@ -1,8 +1,0 @@
-Control of the spider mite Tetranychus cinnabarinus Boisduval is problematic, and there is a pressing need for efficient, non-hazardous and inexpensive strategies for limiting the damage it causes.
-The gene for the anti-bacterial peptide sarcotoxin IA of the flesh fly Sarcophaga peregrina was cloned into the nonpathogenic potyvirus-based vector system ZYMV-AGII (Zucchini yellow mosaic virus-AGII).
-Expression of this peptide via the AGII vector was detected in infected squash leaves and was not deleterious to the host plant.
-Leaf discs of squash infected with the recombinant virus AGII-sarcotoxin IA were tested for spider mite control under laboratory conditions.
-Spider mite egg production on plants expressing the sarcotoxin IA gene was decreased by a factor of two or three compared with that on AGII-infected plants or healthy leaf discs, respectively.
-In contrast to its effect on oviposition, sarcotoxin IA expressing squash did not significantly affect the mortality and the ability to repel spider mites.
-Crude extract from squash leaves infected with AGII-sarcotoxin IA was also found to cause a significant decrease of mite fecundity compared with extracts from AGII-treated or healthy plants and also caused a rise in mite mortality.
-Our results demonstrate that sarcotoxin IA affects mite fecundity and, to a lesser degree, mortality, and shows potential for controlling spider mites in the field.

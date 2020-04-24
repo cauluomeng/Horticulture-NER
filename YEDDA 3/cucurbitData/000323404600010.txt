@@ -1,7 +1,0 @@
-Cucurbit chlorotic yellows virus (CCYV) (family Closteroviridae, genus Crinivirus) is an emerging virus which causes severe diseases on melon (Cucumis melo) plants.
-CCYV-infected melon plants display yellowing, mottling, chlorosis, or chlorotic spots on leaves.
-To develop a new control strategy, the potential for 1,2,3-benzothiadiazole-7-thiocarboxylic acid-S-methyl-ester (ASM) to suppress CCYV infection was evaluated.
-ASM treatment on melon plants greatly increased the expression levels of pathogenesis-related la gene, a marker gene for systemic acquired resistance.
-ASM treatment on melon plants before inoculation of CCYV suppressed systemic symptoms and decreased CCYV accumulation.
-ASM treatment on melon even after inoculation of CCYV reduced disease severity and accumulation levels of CCYV.
-The results show the potential for ASM treatment on attenuation of the CCYV disease symptoms.
